@@ -29,7 +29,10 @@ function signInWithGoogle() {
   auth.signInWithPopup(provider).catch(err => {
     console.error("Sign-in error:", err.code, err.message);
     if (err.code === "auth/unauthorized-domain") {
-      showAuthToast("❌ Domain not authorized in Firebase. Add this domain in Firebase Console → Authentication → Authorized Domains.", "error");
+      const domain = window.location.hostname;
+      const firebaseUrl = `https://console.firebase.google.com/project/tejaswisummer/authentication/settings`;
+      showAuthToast(`❌ "${domain}" is not authorized. Open Firebase Console → Authentication → Authorized Domains and add: ${domain}`, "error");
+      console.error(`[Auth] Add "${domain}" to: ${firebaseUrl}`);
     } else if (err.code === "auth/popup-blocked") {
       showAuthToast("❌ Popup blocked — please allow popups for this site.", "error");
     } else {
