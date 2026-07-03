@@ -69,7 +69,7 @@ async function saveCalendarSettings() {
 }
 
 // ── BIND BUTTONS ON DOM READY ─────────────────────────────────
-document.addEventListener('DOMContentLoaded', () => {
+function _bindAuthButtons() {
   // Landing screen sign-in button
   document.getElementById('landing-signin-btn')
     ?.addEventListener('click', () => { if (typeof signInWithGoogle === 'function') signInWithGoogle(); });
@@ -97,4 +97,11 @@ document.addEventListener('DOMContentLoaded', () => {
   // Section manager open button
   document.getElementById('open-section-manager-btn')
     ?.addEventListener('click', () => { if (typeof openSectionModal === 'function') openSectionModal(); });
-});
+}
+
+// Run immediately if DOM is ready, otherwise wait for DOMContentLoaded
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', _bindAuthButtons);
+} else {
+  _bindAuthButtons();
+}

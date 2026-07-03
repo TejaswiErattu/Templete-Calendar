@@ -2998,48 +2998,58 @@ function bootApp() {
   const maxHoursVal = document.getElementById("val-max-hours");
 
   function openSettings() {
+    if (!appState || !appState.settings) return;
     playSynthSound("click");
     // Sync UI values from state
-    maxHoursInput.value = appState.settings.maxNormalDailyHours;
-    maxHoursVal.innerText = appState.settings.maxNormalDailyHours;
-    document.getElementById("settings-palana-toggle").checked = appState.settings.palanaEnabled;
+    if (maxHoursInput) maxHoursInput.value = appState.settings.maxNormalDailyHours;
+    if (maxHoursVal) maxHoursVal.innerText = appState.settings.maxNormalDailyHours;
+    const palanaToggle = document.getElementById("settings-palana-toggle");
+    if (palanaToggle) palanaToggle.checked = appState.settings.palanaEnabled;
     const palSec = document.getElementById("settings-palana-security-toggle");
     if (palSec) palSec.checked = appState.settings.palanaSecurityEnabled;
     const ahfTarget = document.getElementById("settings-ahf-weekly");
     if (ahfTarget) ahfTarget.value = appState.settings.ahfWeeklyTarget || 7;
-    document.getElementById("settings-aws-passed").checked = appState.settings.awsExamPassed;
-    document.getElementById("settings-secplus-passed").checked = appState.settings.securityPlusExamPassed;
-    
-    settingsModal.classList.add("open");
-    document.getElementById("overlay-backdrop").classList.add("active");
+    const awsEl = document.getElementById("settings-aws-passed");
+    if (awsEl) awsEl.checked = appState.settings.awsExamPassed;
+    const secEl = document.getElementById("settings-secplus-passed");
+    if (secEl) secEl.checked = appState.settings.securityPlusExamPassed;
+
+    if (settingsModal) settingsModal.classList.add("open");
+    document.getElementById("overlay-backdrop")?.classList.add("active");
   }
+  // Expose globally so onclick="" attributes can reach it
+  window.openSettings = openSettings;
 
   function closeSettings() {
-    settingsModal.classList.remove("open");
-    document.getElementById("overlay-backdrop").classList.remove("active");
+    settingsModal?.classList.remove("open");
+    document.getElementById("overlay-backdrop")?.classList.remove("active");
   }
 
-  openSettingsBtn.addEventListener("click", openSettings);
-  closeSettingsBtn.addEventListener("click", () => {
+  if (openSettingsBtn) openSettingsBtn.addEventListener("click", openSettings);
+  if (closeSettingsBtn) closeSettingsBtn.addEventListener("click", () => {
     playSynthSound("click");
     closeSettings();
   });
   
-  maxHoursInput.addEventListener("input", (e) => {
-    maxHoursVal.innerText = e.target.value;
+  if (maxHoursInput) maxHoursInput.addEventListener("input", (e) => {
+    if (maxHoursVal) maxHoursVal.innerText = e.target.value;
   });
 
-  saveSettingsBtn.addEventListener("click", () => {
+  if (saveSettingsBtn) saveSettingsBtn.addEventListener("click", () => {
+    if (!appState || !appState.settings) return;
     playSynthSound("success");
     // Apply options to state
-    appState.settings.maxNormalDailyHours = parseFloat(maxHoursInput.value);
-    appState.settings.palanaEnabled = document.getElementById("settings-palana-toggle").checked;
+    if (maxHoursInput) appState.settings.maxNormalDailyHours = parseFloat(maxHoursInput.value);
+    const palanaToggle = document.getElementById("settings-palana-toggle");
+    if (palanaToggle) appState.settings.palanaEnabled = palanaToggle.checked;
     const palSec = document.getElementById("settings-palana-security-toggle");
     if (palSec) appState.settings.palanaSecurityEnabled = palSec.checked;
     const ahfTarget = document.getElementById("settings-ahf-weekly");
     if (ahfTarget) appState.settings.ahfWeeklyTarget = parseFloat(ahfTarget.value) || 7;
-    appState.settings.awsExamPassed = document.getElementById("settings-aws-passed").checked;
-    appState.settings.securityPlusExamPassed = document.getElementById("settings-secplus-passed").checked;
+    const awsEl = document.getElementById("settings-aws-passed");
+    if (awsEl) appState.settings.awsExamPassed = awsEl.checked;
+    const secEl = document.getElementById("settings-secplus-passed");
+    if (secEl) appState.settings.securityPlusExamPassed = secEl.checked;
     
     closeSettings();
     reflowRemainingCurriculum();
