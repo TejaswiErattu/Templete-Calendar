@@ -8,14 +8,28 @@ const db = firebase.firestore();
 let currentUser = null;
 let isSyncing = false;
 
+// Global calendar settings (loaded from Firestore on sign-in)
+window.userCalendarSettings = null;
+
+// All active Firestore unsubscribers (cleaned up on sign-out)
+const _allUnsubs = [];
+
+function _trackUnsub(fn) {
+  if (typeof fn === 'function') _allUnsubs.push(fn);
+}
+
+function unsubAll() {
+  _allUnsubs.forEach(fn => { try { fn(); } catch (e) { /* ignore */ } });
+  _allUnsubs.length = 0;
+}
+
 // ── SIGN IN / OUT ─────────────────────────────────────────────
 function signInWithGoogle() {
   const provider = new firebase.auth.GoogleAuthProvider();
   auth.signInWithPopup(provider).catch(err => {
     console.error("Sign-in error:", err.code, err.message);
     if (err.code === "auth/unauthorized-domain") {
-      showAuthToast("❌ Domain not authorized in Firebase. See setup instructions.", "error");
-      alert('Firebase setup needed!\n\n1. Go to: https://console.firebase.google.com/project/tejaswisummer/authentication/settings\n2. Scroll to "Authorized domains"\n3. Click "Add domain"\n4. Add: tejaswierattu.github.io\n5. Click Save — then try again!');
+      showAuthToast("❌ Domain not authorized in Firebase. Add this domain in Firebase Console → Authentication → Authorized Domains.", "error");
     } else if (err.code === "auth/popup-blocked") {
       showAuthToast("❌ Popup blocked — please allow popups for this site.", "error");
     } else {
@@ -25,9 +39,41 @@ function signInWithGoogle() {
 }
 
 function signOutFirebase() {
+  unsubAll();
+  if (typeof stopSectionsListener === 'function') stopSectionsListener();
+  if (typeof stopTasksListeners  === 'function') stopTasksListeners();
   auth.signOut().then(() => {
-    showAuthToast("Signed out. Progress saved locally.", "info");
+    showAuthToast("Signed out successfully.", "info");
+    if (typeof showLandingScreen === 'function') showLandingScreen();
   });
+}
+
+// ── DATA LISTENERS (starts all subcollection listeners) ───────
+async function startDataListeners(uid) {
+  // Load calendar settings
+  try {
+    const settingsDoc = await db.collection('users').doc(uid)
+      .collection('settings').doc('calendar').get();
+    if (settingsDoc.exists) {
+      window.userCalendarSettings = settingsDoc.data();
+    } else {
+      // First-time user — prompt to set up calendar
+      window.userCalendarSettings = null;
+    }
+  } catch (e) {
+    console.error('Settings load error:', e);
+  }
+
+  // Start real-time listeners for sections, tasks, day notes
+  if (typeof startSectionsListener === 'function') {
+    _trackUnsub(startSectionsListener(uid));
+  }
+  if (typeof startTasksListener === 'function') {
+    _trackUnsub(startTasksListener(uid));
+  }
+  if (typeof startDayNotesListener === 'function') {
+    _trackUnsub(startDayNotesListener(uid));
+  }
 }
 
 // ── AUTH STATE LISTENER ───────────────────────────────────────
@@ -36,20 +82,38 @@ auth.onAuthStateChanged(async (user) => {
   updateAuthUI(user);
 
   if (user) {
-    // User just signed in — load their cloud state
-    showAuthToast("Loading your cloud save...", "info");
+    // Hide landing screen, show app
+    if (typeof hideLandingScreen === 'function') hideLandingScreen();
+
+    showAuthToast("Loading your workspace...", "info");
+
+    // Load legacy schedule state (for existing users)
     await loadStateFromFirestore();
-    if (typeof migrateScheduleIfNeeded === "function") {
-      migrateScheduleIfNeeded(); // upgrade older cloud schedules (adds Palana onboarding prep)
+
+    if (typeof migrateScheduleIfNeeded === "function")  migrateScheduleIfNeeded();
+    if (typeof maybeAutoRepairRollover  === "function")  maybeAutoRepairRollover();
+    if (typeof applyCategoryColors      === "function")  applyCategoryColors();
+
+    // Start new subcollection listeners
+    await startDataListeners(user.uid);
+
+    // Initialize UI
+    if (typeof initUI === 'function') initUI();
+
+    // If new user with no calendar settings, open setup modal
+    if (!window.userCalendarSettings) {
+      setTimeout(() => {
+        if (typeof openCalendarSettingsModal === 'function') openCalendarSettingsModal();
+      }, 800);
     }
-    if (typeof maybeAutoRepairRollover === "function") {
-      maybeAutoRepairRollover(); // one-time fix for old multi-day rollover damage (cloud state)
-    }
-    if (typeof applyCategoryColors === "function") {
-      applyCategoryColors(); // sync edited category colors from cloud state into CSS vars
-    }
-    initUI();
-    showAuthToast(`Synced ☁️ Welcome back, ${user.displayName?.split(' ')[0] || 'hacker'}!`, "success");
+
+    showAuthToast(`Welcome back, ${user.displayName?.split(' ')[0] || 'user'}! ☁️`, "success");
+  } else {
+    // Show landing screen
+    if (typeof showLandingScreen === 'function') showLandingScreen();
+    unsubAll();
+    if (typeof stopSectionsListener === 'function') stopSectionsListener();
+    if (typeof stopTasksListeners   === 'function') stopTasksListeners();
   }
 });
 
@@ -115,30 +179,34 @@ async function loadStateFromFirestore() {
 
 // ── AUTH UI ───────────────────────────────────────────────────
 function updateAuthUI(user) {
-  const bar = document.getElementById("auth-status-bar");
+  const bar       = document.getElementById("auth-status-bar");
   const signInBtn = document.getElementById("auth-signin-btn");
-  const signOutBtn = document.getElementById("auth-signout-btn");
-  const userInfo = document.getElementById("auth-user-info");
-  const avatar = document.getElementById("auth-avatar");
+  const signOutBtn= document.getElementById("auth-signout-btn");
+  const userInfo  = document.getElementById("auth-user-info");
+  const avatar    = document.getElementById("auth-avatar");
 
   if (user) {
-    bar.classList.remove("auth-unsigned");
-    bar.classList.add("auth-signed");
-    signInBtn.classList.add("hidden");
-    signOutBtn.classList.remove("hidden");
-    userInfo.innerText = `${user.displayName || user.email} — progress synced across all devices ☁️`;
-    userInfo.classList.remove("hidden");
+    bar?.classList.remove("auth-unsigned");
+    bar?.classList.add("auth-signed");
+    signInBtn?.classList.add("hidden");
+    signOutBtn?.classList.remove("hidden");
+    if (userInfo) {
+      userInfo.innerText = `${user.displayName || user.email}`;
+      userInfo.classList.remove("hidden");
+    }
     if (avatar) {
       avatar.src = user.photoURL || "";
       avatar.classList.toggle("hidden", !user.photoURL);
     }
+    // Update landing screen profile if visible
+    const landingName = document.getElementById('landing-user-name');
+    if (landingName) landingName.textContent = user.displayName || user.email;
   } else {
-    bar.classList.add("auth-unsigned");
-    bar.classList.remove("auth-signed");
-    signInBtn.classList.remove("hidden");
-    signOutBtn.classList.add("hidden");
-    userInfo.innerText = "";
-    userInfo.classList.add("hidden");
+    bar?.classList.add("auth-unsigned");
+    bar?.classList.remove("auth-signed");
+    signInBtn?.classList.remove("hidden");
+    signOutBtn?.classList.add("hidden");
+    if (userInfo) { userInfo.innerText = ""; userInfo.classList.add("hidden"); }
     if (avatar) avatar.classList.add("hidden");
   }
 }

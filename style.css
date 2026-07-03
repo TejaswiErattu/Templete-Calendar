@@ -2588,3 +2588,503 @@ input:checked + .slider:before {
   .task-actions-row { gap: 0.15rem; }
 }
 
+/* ==========================================================================
+   MULTI-USER PLANNER — New Components (v20260703)
+   ========================================================================== */
+
+/* ── LANDING SCREEN ─────────────────────────────────────────── */
+.landing-screen {
+  position: fixed;
+  inset: 0;
+  background: var(--bg-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 2rem;
+}
+.landing-screen.hidden { display: none; }
+
+.landing-content {
+  text-align: center;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.4rem;
+}
+
+.landing-logo-symbol {
+  font-family: var(--font-mono);
+  font-size: 2.5rem;
+  color: var(--neon-cyan);
+  text-shadow: 0 0 20px var(--neon-cyan);
+  display: block;
+  margin-bottom: .4rem;
+}
+
+.landing-title {
+  font-family: var(--font-mono);
+  font-size: 1.6rem;
+  line-height: 1.3;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+.landing-desc {
+  font-size: .95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.landing-signin-btn {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .9rem 1.8rem;
+  background: rgba(139, 233, 253, 0.1);
+  border: 1px solid var(--neon-cyan);
+  border-radius: 10px;
+  color: var(--neon-cyan);
+  font-family: var(--font-mono);
+  font-size: .95rem;
+  cursor: pointer;
+  transition: background .2s, box-shadow .2s;
+  box-shadow: 0 0 18px rgba(139, 233, 253, 0.15);
+}
+.landing-signin-btn:hover {
+  background: rgba(139, 233, 253, 0.2);
+  box-shadow: 0 0 28px rgba(139, 233, 253, 0.35);
+}
+
+.landing-sub {
+  font-size: .78rem;
+  color: var(--text-muted);
+  opacity: .7;
+}
+
+/* ── APP WRAPPER ────────────────────────────────────────────── */
+#app-wrapper.hidden { display: none !important; }
+#app-wrapper { display: contents; }
+
+/* ── SECTION MANAGER MODAL ──────────────────────────────────── */
+.section-manager-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: .55rem .7rem;
+  border-radius: 8px;
+  background: var(--bg-card);
+  margin-bottom: .4rem;
+  border: 1px solid rgba(139, 233, 253, 0.12);
+  transition: background .15s;
+}
+.section-manager-row:hover { background: var(--bg-card-hover); }
+
+.section-row-preview {
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.section-color-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 1px solid rgba(255,255,255,.2);
+}
+
+.section-row-icon { font-size: 1rem; }
+.section-row-name { font-size: .88rem; color: var(--text-primary); font-weight: 500; }
+.section-row-link { font-size: .75rem; color: var(--neon-cyan); text-decoration: none; margin-left: .3rem; }
+.section-row-link:hover { text-decoration: underline; }
+.section-row-link-empty { font-size: .72rem; color: var(--text-muted); opacity: .5; margin-left: .3rem; }
+
+.section-row-actions { display: flex; gap: .3rem; flex-shrink: 0; }
+
+.section-inline-edit {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.section-link-input { flex: 2; min-width: 120px; }
+
+/* ── TASK MODAL ─────────────────────────────────────────────── */
+.task-modal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+}
+@media (max-width: 680px) {
+  .task-modal-grid { grid-template-columns: 1fr; }
+}
+
+.task-modal-col { display: flex; flex-direction: column; gap: .8rem; }
+
+.form-row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: .7rem; }
+
+.priority-badge {
+  font-size: .68rem;
+  font-family: var(--font-mono);
+  font-weight: 600;
+  letter-spacing: .05em;
+  padding: .15rem .4rem;
+  border-radius: 4px;
+  background: rgba(255,255,255,.06);
+  flex-shrink: 0;
+}
+
+.checklist-items-container { display: flex; flex-direction: column; gap: .35rem; }
+
+.checklist-row {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+}
+.checklist-modal-check { width: 15px; height: 15px; flex-shrink: 0; accent-color: var(--neon-cyan); }
+.checklist-modal-text {
+  flex: 1;
+  font-size: .82rem;
+  padding: .3rem .5rem;
+  background: rgba(255,255,255,.05);
+  border: 1px solid rgba(139,233,253,.2);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+}
+.checklist-modal-text:focus { outline: none; border-color: var(--neon-cyan); }
+
+.form-input-sm {
+  padding: .3rem .5rem;
+  font-size: .82rem;
+  background: rgba(255,255,255,.05);
+  border: 1px solid rgba(139,233,253,.2);
+  border-radius: 6px;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+}
+
+.required-star { color: var(--neon-pink); }
+
+/* ── CALENDAR SETTINGS MODAL ────────────────────────────────── */
+#cal-daily-max { width: 100%; accent-color: var(--neon-cyan); }
+
+/* ── USER TASKS IN DAY DRAWER ───────────────────────────────── */
+.drawer-section-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: .5rem;
+}
+.user-tasks-hours-badge {
+  font-size: .72rem;
+  color: var(--neon-cyan);
+  font-family: var(--font-mono);
+  opacity: .8;
+}
+
+.user-task-row {
+  display: flex;
+  align-items: flex-start;
+  gap: .55rem;
+  padding: .6rem .7rem;
+  border-radius: 8px;
+  background: var(--bg-card);
+  margin-bottom: .4rem;
+  border-left-width: 3px;
+  border-left-style: solid;
+  border-top: 1px solid rgba(255,255,255,.06);
+  border-right: 1px solid rgba(255,255,255,.06);
+  border-bottom: 1px solid rgba(255,255,255,.06);
+  transition: background .15s;
+}
+.user-task-row:hover { background: var(--bg-card-hover); }
+.user-task-row.task-checked { opacity: .55; }
+
+.user-task-checkbox { flex-shrink: 0; margin-top: .1rem; }
+
+.user-task-details { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: .25rem; }
+
+.user-task-header-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: .4rem;
+}
+.user-task-title { font-size: .88rem; color: var(--text-primary); font-weight: 500; line-height: 1.3; }
+.user-task-title.strikethrough { text-decoration: line-through; color: var(--text-muted); }
+
+.user-task-meta {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  flex-wrap: wrap;
+}
+.task-hours-badge {
+  font-size: .72rem;
+  color: var(--neon-cyan);
+  font-family: var(--font-mono);
+  background: rgba(139,233,253,.1);
+  padding: .1rem .35rem;
+  border-radius: 4px;
+  border: 1px solid rgba(139,233,253,.25);
+}
+.task-link-badge {
+  font-size: .72rem;
+  color: var(--neon-yellow);
+  text-decoration: none;
+  font-family: var(--font-mono);
+}
+.task-link-badge:hover { text-decoration: underline; }
+
+.user-task-notes {
+  font-size: .75rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+  margin-top: .1rem;
+  word-break: break-word;
+}
+
+.user-task-actions { display: flex; gap: .2rem; flex-shrink: 0; margin-top: .05rem; }
+.user-task-edit-btn, .user-task-expand-btn { font-size: .85rem; padding: .2rem .3rem; }
+
+/* Checklist summary bar inside task card */
+.task-checklist-summary {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  margin-top: .2rem;
+}
+.task-checklist-bar-track {
+  flex: 1;
+  height: 4px;
+  background: rgba(255,255,255,.1);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.task-checklist-bar-fill {
+  height: 100%;
+  background: var(--neon-green);
+  border-radius: 2px;
+  transition: width .3s ease;
+}
+.task-checklist-count { font-size: .7rem; color: var(--text-muted); font-family: var(--font-mono); white-space: nowrap; }
+
+/* Expanded inline checklist */
+.user-task-checklist-expanded {
+  margin-top: .5rem;
+  padding: .5rem .6rem;
+  background: rgba(255,255,255,.04);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+}
+.checklist-expanded-item { font-size: .8rem; color: var(--text-primary); }
+.checklist-expanded-item.done { opacity: .5; }
+.checklist-expanded-item label { display: flex; align-items: center; gap: .4rem; cursor: pointer; }
+
+/* ── ADD TASK FULL BUTTON ────────────────────────────────────── */
+.add-task-full-btn {
+  width: 100%;
+  padding: .7rem;
+  background: rgba(139,233,253,.07);
+  border: 1px dashed rgba(139,233,253,.35);
+  border-radius: 8px;
+  color: var(--neon-cyan);
+  font-family: var(--font-mono);
+  font-size: .85rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  transition: background .2s, border-color .2s;
+  letter-spacing: .03em;
+}
+.add-task-full-btn:hover {
+  background: rgba(139,233,253,.15);
+  border-color: var(--neon-cyan);
+}
+.add-task-full-btn span { font-size: 1.2rem; font-weight: 700; }
+
+/* ── DAY CHECKLIST ──────────────────────────────────────────── */
+.day-checklist-item {
+  display: flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .3rem .2rem;
+  border-radius: 6px;
+  transition: opacity .15s;
+}
+.day-checklist-item.done { opacity: .5; }
+.day-checklist-text {
+  flex: 1;
+  font-size: .82rem;
+  color: var(--text-primary);
+  outline: none;
+  min-height: 1.2em;
+  border-radius: 4px;
+  padding: .1rem .3rem;
+  border: 1px solid transparent;
+}
+.day-checklist-text:focus { border-color: rgba(139,233,253,.3); background: rgba(139,233,253,.04); }
+.day-checklist-delete { font-size: .75rem; color: var(--text-muted); opacity: .6; padding: .15rem .25rem; }
+.day-checklist-delete:hover { opacity: 1; color: var(--neon-pink); }
+.add-day-checklist-btn { font-size: 1.1rem; font-weight: 700; color: var(--neon-cyan); padding: .1rem .35rem; }
+
+/* ── DAY NOTES TEXTAREA ─────────────────────────────────────── */
+.day-notes-textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: .6rem .75rem;
+  background: rgba(255,255,255,.04);
+  border: 1px solid rgba(139,233,253,.2);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: .83rem;
+  resize: vertical;
+  line-height: 1.5;
+}
+.day-notes-textarea:focus { outline: none; border-color: var(--neon-cyan); }
+
+/* ── SECTION HOURS BREAKDOWN (SIDEBAR) ──────────────────────── */
+.section-hours-breakdown { display: flex; flex-direction: column; gap: .5rem; }
+
+.section-hours-row { display: flex; flex-direction: column; gap: .2rem; }
+
+.section-hours-label {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  font-size: .78rem;
+}
+.section-hours-icon { font-size: .85rem; }
+.section-hours-name { flex: 1; color: var(--text-primary); }
+.section-hours-nums { color: var(--neon-cyan); font-family: var(--font-mono); font-size: .72rem; white-space: nowrap; }
+
+.section-hours-bar-track {
+  height: 5px;
+  background: rgba(255,255,255,.1);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.section-hours-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width .4s ease;
+  opacity: .85;
+}
+
+/* ── RESOURCES PANEL ────────────────────────────────────────── */
+.user-resources-panel { display: flex; flex-direction: column; gap: .5rem; }
+
+.resource-card {
+  background: var(--bg-card);
+  border: 1px solid rgba(139,233,253,.12);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: background .15s;
+}
+.resource-card:hover { background: var(--bg-card-hover); }
+
+.resource-card-header {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  padding: .55rem .7rem;
+}
+.resource-card-icon { font-size: 1rem; flex-shrink: 0; }
+.resource-card-info { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: .1rem; }
+.resource-card-name { font-size: .82rem; color: var(--text-primary); font-weight: 500; }
+.resource-card-link {
+  font-size: .72rem;
+  color: var(--neon-cyan);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+.resource-card-link:hover { text-decoration: underline; }
+.resource-edit-link-btn { font-size: .8rem; flex-shrink: 0; }
+
+/* ── CALENDAR USER TASK DOTS ────────────────────────────────── */
+.user-tasks-dots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  padding-top: 2px;
+}
+.user-task-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  opacity: .85;
+  transition: transform .15s;
+}
+.user-task-dot.completed { opacity: .35; }
+.user-task-dot:hover { transform: scale(1.3); }
+
+/* ── MODAL BUTTON VARIANTS ──────────────────────────────────── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .55rem 1.1rem;
+  border-radius: 8px;
+  font-family: var(--font-mono);
+  font-size: .82rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background .15s, box-shadow .15s;
+  letter-spacing: .04em;
+}
+.btn-primary {
+  background: rgba(139,233,253,.15);
+  border-color: var(--neon-cyan);
+  color: var(--neon-cyan);
+}
+.btn-primary:hover { background: rgba(139,233,253,.25); box-shadow: 0 0 12px rgba(139,233,253,.3); }
+
+.btn-danger {
+  background: rgba(255,121,198,.1);
+  border-color: var(--neon-pink);
+  color: var(--neon-pink);
+}
+.btn-danger:hover { background: rgba(255,121,198,.2); }
+
+.btn-ghost {
+  background: transparent;
+  border-color: rgba(255,255,255,.15);
+  color: var(--text-muted);
+}
+.btn-ghost:hover { border-color: rgba(255,255,255,.3); color: var(--text-primary); }
+
+/* ── CALENDAR SETTINGS GEAR IN HEADER ──────────────────────── */
+#open-cal-settings-btn svg { color: var(--neon-cyan); }
+
+/* ── EMPTY STATE ────────────────────────────────────────────── */
+.empty-state-text {
+  font-size: .78rem;
+  color: var(--text-muted);
+  text-align: center;
+  padding: .6rem;
+  opacity: .7;
+}
+
+/* ── RESPONSIVE ADDITIONS ───────────────────────────────────── */
+@media (max-width: 768px) {
+  .landing-title { font-size: 1.3rem; }
+  .task-modal-grid { grid-template-columns: 1fr; }
+  .form-row-2 { grid-template-columns: 1fr; }
+}
+

@@ -3,16 +3,40 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cyber Study Tracker // Command Center</title>
+  <title>Study Planner // Command Center</title>
   <!-- Google Fonts for Kawaii Hacker aesthetic and modern UI -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20260616">
+  <link rel="stylesheet" href="style.css?v=20260703">
 </head>
 <body class="hacker-theme">
   <!-- Scanline Overlay for CRT effect -->
   <div class="crt-scanlines"></div>
+
+  <!-- ── LANDING SCREEN (shown when not signed in) ── -->
+  <div id="landing-screen" class="landing-screen">
+    <div class="landing-content">
+      <div class="landing-logo">
+        <span class="logo-symbol landing-logo-symbol">&lt;//&gt;</span>
+        <h1 class="landing-title">STUDY_PLANNER<br><span class="accent-text-cyan">COMMAND_CENTER</span></h1>
+      </div>
+      <p class="landing-desc">Your personal study & task planner. Create sections, add tasks, track hours — synced across every device via Firebase.</p>
+      <button id="landing-signin-btn" class="landing-signin-btn">
+        <svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+          <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+          <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+          <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+          <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+        </svg>
+        Sign in with Google to get started
+      </button>
+      <p class="landing-sub">Your data is private and isolated — no one else can see your tasks.</p>
+    </div>
+  </div>
+
+  <!-- ── APP WRAPPER (hidden until signed in) ── -->
+  <div id="app-wrapper" class="hidden">
 
   <!-- Firebase Auth Bar -->
   <div id="auth-status-bar" class="auth-bar auth-unsigned">
@@ -38,7 +62,7 @@
   <header class="app-header">
     <div class="header-logo">
       <span class="logo-symbol">&lt;//&gt;</span>
-      <h1 class="logo-text">SEC_OPS // <span class="accent-text-cyan">STUDY_PLAN_2026</span></h1>
+      <h1 class="logo-text">STUDY_PLANNER // <span class="accent-text-cyan" id="header-plan-name">YOUR_WORKSPACE</span></h1>
       <span class="blinking-cursor">_</span>
     </div>
     
@@ -58,6 +82,16 @@
           <span class="slider round"></span>
         </label>
       </div>
+
+      <!-- Calendar Settings Gear -->
+      <button id="open-cal-settings-btn" class="icon-btn" title="Calendar Settings (Date Range)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+          <line x1="16" y1="2" x2="16" y2="6"></line>
+          <line x1="8" y1="2" x2="8" y2="6"></line>
+          <line x1="3" y1="10" x2="21" y2="10"></line>
+        </svg>
+      </button>
 
       <!-- Settings Icon Button -->
       <button id="open-settings-btn" class="icon-btn" title="System Configuration">
@@ -99,14 +133,24 @@
         <div class="metric-footer" id="metric-completion-sub">0/0 Tasks Done</div>
       </div>
 
-      <!-- Card: Countdown -->
+      <!-- Card: Hours Logged -->
       <div class="metric-card glow-cyan">
         <div class="metric-header">
-          <span class="metric-title">DAYS_REMAINING</span>
-          <span class="metric-icon">⏰</span>
+          <span class="metric-title">HOURS_LOGGED</span>
+          <span class="metric-icon">⏱️</span>
         </div>
-        <div class="metric-value" id="metric-countdown">--</div>
-        <div class="metric-footer">Target: Sept 1, 2026</div>
+        <div class="metric-value" id="metric-hours-logged">0h logged</div>
+        <div class="metric-footer" id="metric-hours-remaining">0h left</div>
+      </div>
+
+      <!-- Card: Daily Average Needed -->
+      <div class="metric-card glow-purple">
+        <div class="metric-header">
+          <span class="metric-title">DAILY_AVG_NEEDED</span>
+          <span class="metric-icon">📅</span>
+        </div>
+        <div class="metric-value" id="metric-daily-avg">—</div>
+        <div class="metric-footer" id="metric-countdown">— days remaining</div>
       </div>
 
       <!-- Card: Daily Streak -->
@@ -116,38 +160,7 @@
           <span class="metric-icon">🔥</span>
         </div>
         <div class="metric-value" id="metric-streak">0 days</div>
-        <div class="metric-footer" id="metric-longest-streak">Longest: 0 days</div>
-      </div>
-
-      <!-- Card: LeetCode Tracker -->
-      <div class="metric-card glow-purple">
-        <div class="metric-header">
-          <span class="metric-title">LEETCODE_BLIND_75</span>
-          <span class="metric-icon">💻</span>
-        </div>
-        <div class="metric-value" id="metric-leetcode">0 / 75</div>
-        <div class="progress-bar-container">
-          <div class="progress-bar-fill" id="metric-leetcode-fill" style="width: 0%"></div>
-        </div>
-        <div class="metric-footer">1 problem per day standard</div>
-      </div>
-
-      <!-- Card: Certifications State -->
-      <div class="metric-card glow-orange">
-        <div class="metric-header">
-          <span class="metric-title">EXAM_STATUSES</span>
-          <span class="metric-icon">🏆</span>
-        </div>
-        <div class="cert-status-list">
-          <div class="cert-item">
-            <span class="cert-name">AWS AI Prac</span>
-            <span class="cert-badge status-todo" id="badge-aws">NOT STARTED</span>
-          </div>
-          <div class="cert-item">
-            <span class="cert-name">CompTIA Security+</span>
-            <span class="cert-badge status-todo" id="badge-secplus">NOT STARTED</span>
-          </div>
-        </div>
+        <div class="metric-footer" id="metric-longest-streak">Complete tasks daily to build streak</div>
       </div>
     </section>
 
@@ -186,71 +199,42 @@
     <!-- Main Workspace Area -->
     <div class="workspace-grid">
       
-      <!-- Left Sidebar (Project Picker, Resource Panel, Legend) -->
+      <!-- Left Sidebar (Section Hours, Resources, Legend) -->
       <aside class="workspace-sidebar">
-        <!-- Project Switcher & Personal Project Tracker -->
-        <div class="panel-card glass-panel" id="project-selector-card">
-          <div class="panel-header">
-            <h3>[TRACK_4] cybersecurity_projects</h3>
-          </div>
-          <p class="panel-description">Scheduled after Security+ exam (~Aug 22). Select which projects to include in your plan (requires 3-4 hours/day each):</p>
-          <div class="project-checklist" id="project-options-list">
-            <!-- Dynamic project list loaded from JS -->
-          </div>
-        </div>
 
-        <!-- Resource Reference Box -->
+        <!-- Section Hours Breakdown -->
         <div class="panel-card glass-panel">
           <div class="panel-header">
-            <h3>system_learning_links</h3>
+            <h3>hours_by_section</h3>
           </div>
-          <ul class="resource-links-list">
-            <li>
-              <span class="resource-cat-dot dot-portswigger"></span>
-              <a href="https://portswigger.net/web-security/all-topics" target="_blank">PortSwigger Web Academy</a>
-            </li>
-            <li>
-              <span class="resource-cat-dot dot-aws"></span>
-              <a href="https://skillbuilder.aws/exam-prep/cloud-practitioner" target="_blank">AWS Exam Prep (Skill Builder)</a>
-            </li>
-            <li>
-              <span class="resource-cat-dot dot-aws"></span>
-              <a href="https://tutorialsdojo.com/aws-cloud-practitioner-clf-c02-exam-guide/" target="_blank">Tutorials Dojo Practice Exams</a>
-            </li>
-            <li>
-              <span class="resource-cat-dot dot-secplus"></span>
-              <a href="https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/" target="_blank">Professor Messer Sec+ Video Course</a>
-            </li>
-            <li>
-              <span class="resource-cat-dot dot-leetcode"></span>
-              <a href="https://neetcode.io/practice/practice/blind75" target="_blank">Neetcode Blind 75 Prep</a>
-            </li>
-            <li>
-              <span class="resource-cat-dot dot-projects"></span>
-              <a href="https://bestprojectideas.com/cybersecurity-project-ideas/" target="_blank">Cybersecurity Project Ideas</a>
-            </li>
-          </ul>
+          <div id="section-hours-breakdown" class="section-hours-breakdown">
+            <div class="empty-state-text">Add tasks to see hours by section.</div>
+          </div>
         </div>
 
-        <!-- Color Code Legend -->
+        <!-- User Resources Panel (section links) -->
+        <div class="panel-card glass-panel">
+          <div class="panel-header">
+            <h3>course_links</h3>
+          </div>
+          <div id="user-resources-panel" class="user-resources-panel">
+            <div class="empty-state-text">Add a link to a section to see it here.</div>
+          </div>
+        </div>
+
+        <!-- Section Legend + Manage button -->
         <div class="panel-card glass-panel legend-card">
           <div class="panel-header">
-            <h3>category_legend</h3>
+            <h3>section_legend</h3>
           </div>
-          <div class="legend-grid">
-            <div class="legend-item"><span class="legend-dot dot-portswigger"></span> PortSwigger Labs</div>
-            <div class="legend-item"><span class="legend-dot dot-aws"></span> AWS AI Prac</div>
-            <div class="legend-item"><span class="legend-dot dot-secplus"></span> CompTIA Security+</div>
-            <div class="legend-item"><span class="legend-dot dot-leetcode"></span> LeetCode Blind 75</div>
-            <div class="legend-item"><span class="legend-dot dot-ahf"></span> AHF Tech Lead Work</div>
-            <div class="legend-item"><span class="legend-dot dot-palana"></span> Palana Project</div>
-            <div class="legend-item"><span class="legend-dot dot-github"></span> Git Developer Tool</div>
-            <div class="legend-item"><span class="legend-dot dot-winfo"></span> WINFO</div>
-            <div class="legend-item"><span class="legend-dot dot-mentor"></span> Mentor Meetings</div>
-            <div class="legend-item"><span class="legend-dot dot-projects"></span> Cyber Projects</div>
+          <div class="legend-grid" id="user-section-legend-grid">
+            <!-- Populated by sections.js renderSectionLegend() -->
           </div>
-          <button id="open-category-manager-btn" class="category-manager-btn" onclick="openCategoryManager()">+ Manage Categories</button>
+          <button id="open-section-manager-btn" class="category-manager-btn">+ Manage Sections</button>
         </div>
+
+      </aside>
+
       </aside>
 
       <!-- Center Calendar / Planner (Default View) -->
@@ -264,7 +248,7 @@
             <span class="today-icon">📅</span> GO_TO_TODAY
           </button>
           <div class="calendar-month-controls" id="month-tabs">
-            <!-- Buttons dynamically populated by JS (June, July, August, Sept) -->
+            <!-- Buttons dynamically populated by JS -->
           </div>
         </div>
 
@@ -376,46 +360,44 @@
       <div class="drawer-section">
         <h3>DAILY_TASKS_CHECKLIST</h3>
         <div class="tasks-checklist-container" id="drawer-tasks-list">
-          <!-- Populated dynamically via JS -->
+          <!-- Legacy appState tasks (populated by app.js) -->
         </div>
       </div>
 
-      <!-- Add Custom Task Section -->
-      <div class="drawer-section add-task-section">
-        <h3>ADD_CUSTOM_TASK</h3>
-        <div class="add-task-form" id="add-task-form">
-          <input
-            type="text"
-            id="new-task-title"
-            class="add-task-input"
-            placeholder="Task name..."
-            maxlength="80"
-          >
-          <div class="add-task-row">
-            <select id="new-task-category" class="add-task-select">
-              <option value="custom">custom</option>
-              <option value="portswigger">portswigger</option>
-              <option value="aws">aws</option>
-              <option value="secplus">secplus</option>
-              <option value="projects">projects</option>
-              <option value="leetcode">leetcode</option>
-              <option value="ahf">ahf</option>
-              <option value="palana">palana</option>
-              <option value="github">github</option>
-            </select>
-            <input
-              type="number"
-              id="new-task-duration"
-              class="add-task-duration"
-              placeholder="hrs"
-              min="0.25"
-              max="12"
-              step="0.25"
-              value="1"
-            >
-            <button id="add-task-btn" class="add-task-btn">+ ADD</button>
-          </div>
+      <!-- ⭐ NEW: User Tasks from Firestore -->
+      <div class="drawer-section">
+        <div class="drawer-section-header-row">
+          <h3>MY_TASKS</h3>
+          <div class="user-tasks-hours-badge" id="user-tasks-hours-summary"></div>
         </div>
+        <div id="user-tasks-for-day">
+          <!-- Populated by tasks.js renderUserTasksForDay() -->
+        </div>
+      </div>
+
+      <!-- Add Task Button (opens task modal) -->
+      <div class="drawer-section add-task-section">
+        <button class="add-task-full-btn" id="drawer-add-task-btn">
+          <span>+</span> Add Task to This Day
+        </button>
+      </div>
+
+      <!-- ⭐ NEW: Daily Checklist (quick standalone items) -->
+      <div class="drawer-section">
+        <div class="drawer-section-header-row">
+          <h3>DAILY_CHECKLIST</h3>
+          <button class="icon-btn add-day-checklist-btn" id="add-day-checklist-btn" title="Add item">+</button>
+        </div>
+        <div id="day-checklist-container">
+          <!-- Populated by tasks.js renderDayChecklist() -->
+        </div>
+      </div>
+
+      <!-- ⭐ NEW: Day Notes -->
+      <div class="drawer-section">
+        <h3>DAY_NOTES</h3>
+        <textarea id="day-notes-textarea" class="day-notes-textarea" placeholder="Notes for this day..."></textarea>
+        <button class="modal-btn primary-btn day-notes-save-btn" id="day-notes-save-btn" style="margin-top:.5rem">Save Note</button>
       </div>
 
       <!-- Rollover Button Section -->
@@ -702,17 +684,152 @@
     </div>
   </div>
 
+  <!-- ⭐ NEW: Task Modal (Add / Edit) -->
+  <div id="task-modal" class="modal">
+    <div class="modal-header">
+      <h2 id="task-modal-heading">ADD_TASK</h2>
+      <button id="close-task-modal-btn" class="close-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="task-modal-grid">
+        <!-- Left column: core fields -->
+        <div class="task-modal-col">
+          <div class="form-group">
+            <label for="task-modal-title-input">Title <span class="required-star">*</span></label>
+            <input type="text" id="task-modal-title-input" class="form-input" placeholder="What do you need to do?" maxlength="120">
+          </div>
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="task-modal-section">Section</label>
+              <select id="task-modal-section" class="form-input section-select">
+                <option value="">— No Section —</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="task-modal-priority">Priority</label>
+              <select id="task-modal-priority" class="form-input">
+                <option value="low">🟢 Low</option>
+                <option value="medium" selected>🟡 Medium</option>
+                <option value="high">🔴 High</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-row-2">
+            <div class="form-group">
+              <label for="task-modal-hours">Estimated Hours</label>
+              <input type="number" id="task-modal-hours" class="form-input" min="0.25" max="24" step="0.25" value="1">
+            </div>
+            <div class="form-group">
+              <label for="task-modal-due-date">Due Date</label>
+              <input type="date" id="task-modal-due-date" class="form-input">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="task-modal-link">Link (course/resource URL)</label>
+            <input type="url" id="task-modal-link" class="form-input" placeholder="https://...">
+          </div>
+          <div class="form-group">
+            <label for="task-modal-notes">Notes</label>
+            <textarea id="task-modal-notes" class="form-input notes-textarea" placeholder="Additional notes..."></textarea>
+          </div>
+        </div>
+        <!-- Right column: checklist -->
+        <div class="task-modal-col">
+          <div class="form-group">
+            <label>Checklist</label>
+            <div id="task-modal-checklist-items" class="checklist-items-container"></div>
+            <button id="add-checklist-item-btn" class="cat-add-btn" style="margin-top:.5rem;width:100%">+ Add Checklist Item</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button id="task-modal-delete-btn" class="btn btn-danger" style="display:none">Delete Task</button>
+      <button id="task-modal-cancel-btn" class="btn btn-ghost">Cancel</button>
+      <button id="task-modal-save-btn" class="btn btn-primary">Save Task</button>
+    </div>
+  </div>
+
+  <!-- ⭐ NEW: Calendar Settings Modal -->
+  <div id="calendar-settings-modal" class="modal">
+    <div class="modal-header">
+      <h2>CALENDAR_SETTINGS</h2>
+      <button id="close-cal-settings-btn" class="close-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p class="field-help" style="margin-bottom:1.2rem">Set your planner date range. The calendar will render days between these dates.</p>
+      <div class="form-row-2">
+        <div class="form-group">
+          <label for="cal-start-date">Start Date</label>
+          <input type="date" id="cal-start-date" class="form-input">
+        </div>
+        <div class="form-group">
+          <label for="cal-end-date">End Date</label>
+          <input type="date" id="cal-end-date" class="form-input">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="cal-daily-max">Daily Max Hours: <span id="val-daily-max">8</span>h</label>
+        <input type="range" id="cal-daily-max" min="1" max="16" step="0.5" value="8">
+        <span class="field-help">Used to calculate how much time you have each day and to trigger the at-risk warning.</span>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button id="save-cal-settings-btn" class="btn btn-primary">Save & Apply</button>
+    </div>
+  </div>
+
+  <!-- ⭐ NEW: Section Manager Modal -->
+  <div id="section-modal" class="modal modal-wide">
+    <div class="modal-header">
+      <h2>MANAGE_SECTIONS</h2>
+      <button id="close-section-modal-btn" class="close-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-body cat-modal-body">
+      <div id="sections-list" class="category-list"></div>
+      <div class="cat-add-section">
+        <div class="cat-add-header">+ NEW SECTION</div>
+        <div class="cat-add-fields">
+          <input type="color" id="new-section-color" class="cat-color-swatch" value="#8be9fd" title="Pick color">
+          <input id="new-section-icon" class="cat-icon-input form-input" placeholder="✨" maxlength="4">
+          <input id="new-section-name" class="form-input cat-name-input" placeholder="Section name">
+          <input type="url" id="new-section-link" class="form-input" placeholder="https://course.link..." style="flex:2">
+          <button id="add-new-section-btn" class="cat-add-btn">Add</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Close app-wrapper div -->
+  </div><!-- end #app-wrapper -->
+
   <!-- Firebase SDK (compat version) -->
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 
   <!-- Script references -->
-  <script src="blind75.js?v=20260616"></script>
-  <script src="git-roadmap.js?v=20260616"></script>
-  <script src="firebase-config.js?v=20260616"></script>
-  <script src="app.js?v=20260616"></script>
-  <script src="export.js?v=20260616"></script>
-  <script src="firebase-sync.js?v=20260616"></script>
+  <script src="blind75.js?v=20260703"></script>
+  <script src="git-roadmap.js?v=20260703"></script>
+  <script src="firebase-config.js?v=20260703"></script>
+  <script src="app.js?v=20260703"></script>
+  <script src="sections.js?v=20260703"></script>
+  <script src="tasks.js?v=20260703"></script>
+  <script src="tracker.js?v=20260703"></script>
+  <script src="export.js?v=20260703"></script>
+  <script src="firebase-sync.js?v=20260703"></script>
+  <script src="auth.js?v=20260703"></script>
 </body>
 </html>

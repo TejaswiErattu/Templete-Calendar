@@ -590,11 +590,13 @@ function getRealCurrentDateObj() {
   return parseDate(dateStr);
 }
 
-// Plan "today" — real LA date clamped to plan window (never hardcoded June 13)
+// Plan "today" — real date clamped to the user's configured plan window
 function planToday() {
-  const real = getRealCurrentDate();
-  if (real < START_DATE_STR) return START_DATE_STR;
-  if (real > END_DATE_STR) return END_DATE_STR;
+  const real  = getRealCurrentDate();
+  const start = (window.userCalendarSettings?.startDate) || START_DATE_STR;
+  const end   = (window.userCalendarSettings?.endDate)   || END_DATE_STR;
+  if (real < start) return start;
+  if (real > end)   return end;
   return real;
 }
 
@@ -2180,7 +2182,8 @@ function spawnSparkles(e) {
 }
 
 // 11. UI RENDERING & COMPONENT BUILDERS
-let activeMonth = "2026-06"; // Current calendar viewing month
+// Active calendar month — defaults to current real month, updated by renderCalendarMonthControls
+let activeMonth = getRealCurrentDate ? getRealCurrentDate().substring(0, 7) : "2026-07";
 let selectedDate = null;     // Date open in side drawer
 
 function initUI() {
@@ -2188,13 +2191,16 @@ function initUI() {
   populateCategorySelects();
   renderDashboardMetrics();
   renderTodaySection();
-  renderProjectSelector();
   renderCalendarMonthControls();
   renderCalendarDays();
   renderTracksChecklists();
   renderExtracurricularSummary();
   updateRiskBanner();
   cycleQuotes();
+  // New multi-user modules
+  if (typeof renderTrackerMetrics === 'function') renderTrackerMetrics();
+  if (typeof renderSectionLegend  === 'function') renderSectionLegend();
+  if (typeof renderResourcesPanel === 'function') renderResourcesPanel();
 }
 
 // ⭐ NEW: Initialize extracurriculars with seed data on first load
@@ -2350,14 +2356,14 @@ function renderDashboardMetrics() {
   document.getElementById("settings-palana-toggle").checked = appState.settings.palanaEnabled;
 }
 
-// Sidebar project checkboxes
+// Sidebar project checkboxes (legacy — only shown if project-options-list element exists)
 function renderProjectSelector() {
   const container = document.getElementById("project-options-list");
+  if (!container) return;
   container.innerHTML = "";
-  
+
   TRACK_4_PROJECTS.forEach(proj => {
     const isSelected = appState.settings.selectedProjects.includes(proj.id);
-    
     const label = document.createElement("label");
     label.className = "checkbox-container";
     label.innerHTML = `
@@ -2366,8 +2372,6 @@ function renderProjectSelector() {
       ${proj.name}
       <span class="proj-meta">${proj.totalHours} hrs • 1-2 weeks</span>
     `;
-    
-    // Listen for change
     const checkbox = label.querySelector('input');
     checkbox.addEventListener('change', (e) => {
       playSynthSound("click");
@@ -2378,7 +2382,6 @@ function renderProjectSelector() {
       }
       reflowRemainingCurriculum();
     });
-    
     container.appendChild(label);
   });
 }
@@ -2387,64 +2390,103 @@ function renderProjectSelector() {
 function renderCalendarMonthControls() {
   const container = document.getElementById("month-tabs");
   container.innerHTML = "";
-  
-  const months = [
-    { code: "2026-06", label: "JUNE 2026" },
-    { code: "2026-07", label: "JULY 2026" },
-    { code: "2026-08", label: "AUGUST 2026" },
-    { code: "2026-09", label: "SEPT 2026" }
-  ];
-  
-  months.forEach(m => {
-    const btn = document.createElement("button");
-    btn.className = `month-tab-btn ${activeMonth === m.code ? 'active' : ''}`;
-    btn.innerText = m.label;
-    btn.addEventListener('click', () => {
-      playSynthSound("click");
-      activeMonth = m.code;
-      renderCalendarMonthControls();
-      renderCalendarDays();
-    });
-    container.appendChild(btn);
-  });
+
+  // Build month list from the user's calendar settings OR legacy appState range
+  const startStr = (window.userCalendarSettings?.startDate) || START_DATE_STR;
+  const endStr   = (window.userCalendarSettings?.endDate)   || END_DATE_STR;
+
+  const start = parseDate(startStr);
+  const end   = parseDate(endStr);
+  const seen  = new Set();
+
+  let cur = new Date(start.getFullYear(), start.getMonth(), 1);
+  while (cur <= end) {
+    const code  = `${cur.getFullYear()}-${String(cur.getMonth() + 1).padStart(2, '0')}`;
+    const label = cur.toLocaleDateString('en-US', { month: 'short', year: 'numeric' }).toUpperCase();
+    if (!seen.has(code)) {
+      seen.add(code);
+      const btn = document.createElement("button");
+      btn.className  = `month-tab-btn ${activeMonth === code ? 'active' : ''}`;
+      btn.innerText  = label;
+      btn.dataset.month = code;
+      btn.addEventListener('click', () => {
+        playSynthSound("click");
+        activeMonth = code;
+        renderCalendarMonthControls();
+        renderCalendarDays();
+      });
+      container.appendChild(btn);
+    }
+    cur.setMonth(cur.getMonth() + 1);
+  }
+
+  // Default active month to first available if not set
+  if (!activeMonth || !seen.has(activeMonth)) {
+    activeMonth = [...seen][0] || '';
+  }
+}
+
+// Re-render calendar after settings change
+function rerenderCalendarForSettings() {
+  renderCalendarMonthControls();
+  renderCalendarDays();
+  if (typeof renderTrackerMetrics === 'function') renderTrackerMetrics();
 }
 
 // Render Days inside Calendar View
 function renderCalendarDays() {
   const container = document.getElementById("calendar-days-grid");
   container.innerHTML = "";
-  
-  // Filter days belonging to activeMonth
-  const monthDays = appState.days.filter(d => d.date.startsWith(activeMonth));
-  if (monthDays.length === 0) return;
-  
-  // Calculate padding based on the day-of-week of the FIRST day actually present
-  // in the data for this month. The plan starts mid-month (June 13), so we can't
-  // assume the month begins on the 1st — otherwise the grid columns misalign.
-  const startDayPadding = getDayOfWeek(monthDays[0].date); // 0 = Sunday ... 6 = Saturday
-  
-  // Add empty grid slots for padding
+
+  const startStr = (window.userCalendarSettings?.startDate) || START_DATE_STR;
+  const endStr   = (window.userCalendarSettings?.endDate)   || END_DATE_STR;
+  const dailyMax = (window.userCalendarSettings?.dailyMaxHours) || appState.settings?.maxNormalDailyHours || 8;
+
+  // Build the set of dates in this month from user settings range
+  const allDatesInRange = [];
+  let cur = parseDate(startStr);
+  const endDate = parseDate(endStr);
+  while (cur <= endDate) {
+    allDatesInRange.push(formatDate(cur));
+    const next = new Date(cur);
+    next.setDate(next.getDate() + 1);
+    cur = next;
+  }
+
+  const monthDates = allDatesInRange.filter(d => d.startsWith(activeMonth));
+
+  // Fallback: use appState.days if user settings dates are not available
+  const legacyMonthDays = appState.days.filter(d => d.date.startsWith(activeMonth));
+
+  if (monthDates.length === 0 && legacyMonthDays.length === 0) return;
+
+  const datesToRender = monthDates.length > 0 ? monthDates : legacyMonthDays.map(d => d.date);
+  if (datesToRender.length === 0) return;
+
+  const startDayPadding = getDayOfWeek(datesToRender[0]);
   for (let i = 0; i < startDayPadding; i++) {
     const emptyCell = document.createElement("div");
     emptyCell.className = "day-cell empty-day";
     container.appendChild(emptyCell);
   }
-  
-  monthDays.forEach(day => {
+
+  datesToRender.forEach(dateStr => {
+    const day           = appState.days.find(d => d.date === dateStr);
+    const maxCap        = day ? day.maxCapacity : dailyMax;
+    const totalScheduled= day ? day.tasks.reduce((s, t) => s + t.duration, 0) : 0;
+    const capacityRatio = maxCap > 0 ? (totalScheduled / maxCap) : 0;
+
     const dayCell = document.createElement("div");
-    dayCell.className = "day-cell";
-    
+    dayCell.className       = "day-cell";
+    dayCell.dataset.date    = dateStr;
+
     const realTodayDate = getRealCurrentDate();
-    const isToday = realTodayDate === day.date;
-    if (isToday) dayCell.classList.add("today-cell");
-    if (isPlanPast(day.date)) dayCell.classList.add("past-day");
-    if (isPlanFuture(day.date)) dayCell.classList.add("future-day");
-    if (day.isIndia) dayCell.classList.add("travel-day");
-    
-    // Color load meter
-    const totalScheduled = day.tasks.reduce((sum, t) => sum + t.duration, 0);
-    const capacityRatio = day.maxCapacity > 0 ? (totalScheduled / day.maxCapacity) : 0;
-    
+    const isToday       = realTodayDate === dateStr;
+    if (isToday)               dayCell.classList.add("today-cell");
+    if (isPlanPast(dateStr))   dayCell.classList.add("past-day");
+    if (isPlanFuture(dateStr)) dayCell.classList.add("future-day");
+    if (day?.isIndia)          dayCell.classList.add("travel-day");
+
     let loadClass = "load-optimal";
     if (capacityRatio > 1.0) {
       loadClass = "load-overloaded";
@@ -2452,17 +2494,15 @@ function renderCalendarDays() {
       loadClass = "load-warning";
     }
 
-    // Check if there are uncompleted tasks in the past
-    // E.g. warning icon on cell
-    const isPast = isPlanPast(day.date);
-    const hasUnfinishedPast = isPast && day.tasks.some(t => !t.completed && !t.fixed);
-    
-    const warningIconHtml = hasUnfinishedPast ? 
-      `<span class="cell-warning-icon" title="Uncompleted tasks! Click rollover.">⚠️</span>` : '';
-    
-    const dayNum = parseInt(day.date.split('-')[2]);
-    const displayCap = day.maxCapacity.toFixed(0);
-    
+    const isPast = isPlanPast(dateStr);
+    const hasUnfinishedPast = isPast && day && day.tasks.some(t => !t.completed && !t.fixed);
+    const warningIconHtml = hasUnfinishedPast
+      ? `<span class="cell-warning-icon" title="Uncompleted tasks! Click rollover.">⚠️</span>`
+      : '';
+
+    const dayNum     = parseInt(dateStr.split('-')[2]);
+    const displayCap = parseFloat(maxCap).toFixed(0);
+
     dayCell.innerHTML = `
       <div class="day-header-info">
         <span class="day-number">${dayNum}${isToday ? '<span class="today-badge">Today</span>' : ''}</span>
@@ -2477,12 +2517,11 @@ function renderCalendarDays() {
       ${warningIconHtml}
     `;
     
-    // Add colored task blocks
+    // Add colored task blocks (legacy appState tasks)
     const dotsContainer = dayCell.querySelector(".day-tasks-dots");
-    // Sort tasks so completed ones are pushed to bottom
-    const sortedTasks = [...day.tasks].sort((a,b) => (a.completed ? 1 : 0) - (b.completed ? 1 : 0));
+    const legacyTasks = day ? [...day.tasks].sort((a, b) => (a.completed ? 1 : 0) - (b.completed ? 1 : 0)) : [];
 
-    sortedTasks.forEach(task => {
+    legacyTasks.forEach(task => {
       const block = document.createElement("div");
       block.className = `day-task-block cat-${task.category} ${task.completed ? 'task-completed' : ''}`;
       block.innerText = task.title;
@@ -2501,18 +2540,18 @@ function renderCalendarDays() {
       e.preventDefault();
       dayCell.classList.remove("drag-over");
       const { task, fromDate } = window._dragTask || {};
-      if (!task || fromDate === day.date) return;
+      if (!task || !day || fromDate === dateStr) return;
       const fromDay = appState.days.find(d => d.date === fromDate);
       if (!fromDay) return;
       fromDay.tasks = fromDay.tasks.filter(t => t.id !== task.id);
       task.originalDate = task.originalDate || fromDate;
       task.rescheduleCount = (task.rescheduleCount || 0) + 1;
-      task.id = `${day.date}_moved_${Date.now()}_${task.category}`;
+      task.id = `${dateStr}_moved_${Date.now()}_${task.category}`;
       day.tasks.push(task);
       saveState();
       renderDashboardMetrics();
       renderCalendarDays();
-      showDayDetails(day.date);
+      showDayDetails(dateStr);
       playSynthSound("success");
       window._dragTask = null;
     });
@@ -2520,42 +2559,43 @@ function renderCalendarDays() {
     // Click action opens drawer
     dayCell.addEventListener('click', () => {
       playSynthSound("click");
-      showDayDetails(day.date);
+      showDayDetails(dateStr);
     });
 
     container.appendChild(dayCell);
   });
+
+  // After rendering day cells, overlay user task dots
+  if (typeof renderCalendarUserTaskDots === 'function') renderCalendarUserTaskDots();
 }
 
 // Side Drawer Detail Drawer Renderer
 function showDayDetails(dateStr) {
   selectedDate = dateStr;
   const day = appState.days.find(d => d.date === dateStr);
-  if (!day) return;
-  
-  const drawer = document.getElementById("day-detail-drawer");
+
+  const drawer   = document.getElementById("day-detail-drawer");
   const backdrop = document.getElementById("overlay-backdrop");
-  
+
   // Date titles
   const formattedTitle = parseDate(dateStr).toLocaleDateString('en-US', {
     weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
   });
   document.getElementById("drawer-date-title").innerText = formattedTitle;
-  
-  const daysDiff = getDaysBetween(START_DATE_STR, dateStr) + 1;
-  document.getElementById("drawer-date-code").innerText = `SYS_DAY_${String(daysDiff).padStart(2, '0')}`;
-  
-  // Capacity and schedule hours
-  const totalScheduled = day.tasks.reduce((sum, t) => sum + t.duration, 0);
-  document.getElementById("drawer-max-hours").innerText = `${day.maxCapacity.toFixed(1)} hrs`;
-  document.getElementById("drawer-scheduled-hours").innerText = `${totalScheduled.toFixed(1)} hrs`;
-  
+  document.getElementById("drawer-date-code").innerText  = `SYS_DAY_${dateStr.replace(/-/g, '')}`;
+
+  // Capacity and schedule hours (use day if found, else fall back to user settings)
+  const maxCap = day ? day.maxCapacity : (window.userCalendarSettings?.dailyMaxHours || 8);
+  const totalScheduled = day ? day.tasks.reduce((sum, t) => sum + t.duration, 0) : 0;
+  document.getElementById("drawer-max-hours").innerText      = `${parseFloat(maxCap).toFixed(1)} hrs`;
+  document.getElementById("drawer-scheduled-hours").innerText= `${totalScheduled.toFixed(1)} hrs`;
+
   // Load status
   const statusEl = document.getElementById("drawer-status");
-  if (totalScheduled > day.maxCapacity) {
+  if (totalScheduled > maxCap) {
     statusEl.innerText = "OVERLOADED";
     statusEl.className = "cap-val status-indicator status-heavy";
-  } else if (totalScheduled >= day.maxCapacity * 0.8) {
+  } else if (totalScheduled >= maxCap * 0.8) {
     statusEl.innerText = "HEAVY LOAD";
     statusEl.className = "cap-val status-indicator status-warning";
   } else {
@@ -2563,23 +2603,23 @@ function showDayDetails(dateStr) {
     statusEl.className = "cap-val status-indicator status-optimal";
   }
 
-  // India Trip warning banner
+  // Trip / day note
   const noteEl = document.getElementById("drawer-day-note");
-  if (day.isIndia) {
-    noteEl.innerText = "INDIA TRIP: Workload capped to 2-3 hours max. Light tasks only.";
+  if (day?.isIndia) {
+    noteEl.innerText = "TRAVEL DAY: Workload capped. Light tasks only.";
     noteEl.className = "drawer-day-note";
     noteEl.classList.remove("hidden");
   } else {
     noteEl.classList.add("hidden");
   }
-  
-  // Task checklist listing
+
+  // Legacy task checklist listing (appState tasks)
   const listContainer = document.getElementById("drawer-tasks-list");
   listContainer.innerHTML = "";
-  
-  if (day.tasks.length === 0) {
+
+  if (!day || day.tasks.length === 0) {
     listContainer.innerHTML = `<div class="empty-state-text" style="font-size:0.75rem; color:var(--text-muted); text-align:center; padding:1rem;">No tasks scheduled. Relax! 🛰️</div>`;
-  } else {
+  } else if (day) {
     day.tasks.forEach(task => {
       const itemRow = document.createElement("div");
       itemRow.className = `drawer-task-item ${task.completed ? 'task-checked' : ''}`;
@@ -2710,46 +2750,39 @@ function showDayDetails(dateStr) {
     });
   }
   
-  // Wire up Add Task button
-  const addTaskBtn = document.getElementById("add-task-btn");
-  const newTaskBtn = addTaskBtn.cloneNode(true); // clone to remove old listeners
-  addTaskBtn.parentNode.replaceChild(newTaskBtn, addTaskBtn);
-  newTaskBtn.addEventListener('click', () => {
-    const titleInput = document.getElementById("new-task-title");
-    const categoryInput = document.getElementById("new-task-category");
-    const durationInput = document.getElementById("new-task-duration");
+  // Wire up "Add Task" button (new Firestore-backed task modal)
+  const addTaskFullBtn = document.getElementById("drawer-add-task-btn");
+  if (addTaskFullBtn) {
+    const newBtn = addTaskFullBtn.cloneNode(true);
+    addTaskFullBtn.parentNode.replaceChild(newBtn, addTaskFullBtn);
+    newBtn.addEventListener('click', () => {
+      if (typeof openAddTaskModal === 'function') openAddTaskModal(dateStr);
+    });
+  }
 
-    const title = titleInput.value.trim();
-    const category = categoryInput.value;
-    const duration = parseFloat(durationInput.value) || 1;
+  // Wire up daily checklist add button
+  const addChecklistBtn = document.getElementById("add-day-checklist-btn");
+  if (addChecklistBtn) {
+    const newCLBtn = addChecklistBtn.cloneNode(true);
+    addChecklistBtn.parentNode.replaceChild(newCLBtn, addChecklistBtn);
+    newCLBtn.addEventListener('click', () => {
+      if (typeof addDayChecklistItem === 'function') addDayChecklistItem(dateStr);
+    });
+  }
 
-    if (!title) {
-      titleInput.focus();
-      titleInput.style.borderColor = "var(--neon-pink)";
-      setTimeout(() => titleInput.style.borderColor = "", 1000);
-      return;
-    }
+  // Wire up day notes save button
+  const dayNotesSaveBtn = document.getElementById("day-notes-save-btn");
+  if (dayNotesSaveBtn) {
+    const newNoteBtn = dayNotesSaveBtn.cloneNode(true);
+    dayNotesSaveBtn.parentNode.replaceChild(newNoteBtn, dayNotesSaveBtn);
+    newNoteBtn.addEventListener('click', () => {
+      if (typeof saveDayNoteText === 'function') saveDayNoteText(dateStr);
+    });
+  }
 
-    const newTask = {
-      id: `${dateStr}_custom_${Date.now()}`,
-      category: category,
-      title: title,
-      duration: duration,
-      completed: false,
-      link: null
-    };
-
-    day.tasks.push(newTask);
-    saveState();
-    playSynthSound("success");
-    titleInput.value = "";
-    durationInput.value = "1";
-
-    // Re-render everything
-    renderDashboardMetrics();
-    renderCalendarDays();
-    showDayDetails(dateStr); // re-render drawer with new task
-  });
+  // Render new Firestore user tasks for this day
+  if (typeof renderUserTasksForDay === 'function') renderUserTasksForDay(dateStr);
+  if (typeof renderDayChecklist     === 'function') renderDayChecklist(dateStr);
 
   // Show undo button if a rollover snapshot exists for this day
   const undoBtn = document.getElementById("undo-rollover-btn");
