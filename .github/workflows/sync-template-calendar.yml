@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-template-calendar.yml'
 
 permissions:
   contents: write
@@ -35,7 +39,7 @@ jobs:
 
       - name: Commit new Template Calendar state
         run: |
-          if git diff --quiet -- .template-calendar-state.json TEMPLATE_CALENDAR.md template-calendar.json; then
+          if [ -z "$(git status --porcelain -- .template-calendar-state.json TEMPLATE_CALENDAR.md template-calendar.json)" ]; then
             echo "No changes to commit."
             exit 0
           fi
