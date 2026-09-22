@@ -1,3 +1,1364 @@
 # Template Calendar
 
-No new updates yet.
+## September 22, 2026
+
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "PortSwigger Lab: SQL Injection (SQLi) union attacks".
+- Completed "PortSwigger Lab: SQLi blind vulnerabilities (Part A)".
+- Updated "PortSwigger Lab: SQLi blind vulnerabilities (Part A)" duration from 0.5h to 1h.
+- Added task "LeetCode Blind 75: #1 - Two Sum".
+- Added task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Added task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Completed "Log in to AHF Microsoft 365".
+- Completed "Find Outlook Scheduling Poll".
+- Completed "Confirm access: GoHighLevel, Microsoft Planner, Teams, GitHub".
+- Completed "Create 'AHF Summer Tasks and Findings' document (sections: GHL workflows, task mgmt, website/GitHub, Rahul questions, Danny questions)".
+- Completed "List missing access and send Rahul one consolidated permissions message".
+- Completed "Create Palana security workspace (meeting notes, architecture, threat model, findings, questions, weekly updates)".
+- Completed "Write down known Palana technology stack (React Native, Expo, Go, Firebase, GCP, Railway, Next.js, WebSockets)".
+- Completed "Begin cybersecurity threat-modeling course (first section of 3.5h total)".
+- Completed "Git Project: Start-of-week planning".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Completed "PortSwigger Lab: SQLi blind vulnerabilities (Part B)".
+- Updated "PortSwigger Lab: SQLi blind vulnerabilities (Part B)" duration from 1.5h to 1h.
+- Completed "PortSwigger Lab: Authentication bypass & brute-forcing (Part A)".
+- Updated "PortSwigger Lab: Authentication bypass & brute-forcing (Part A)" duration from 0.7h to 1.7h.
+- Added task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Added task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Completed "Create one-hour Saturday scheduling poll (Danny, Rahul, Roslyn, Cale, Tejaswi, Patricia; Pacific afternoon options)".
+- Completed "Mark existing tasks as: unclear, duplicate, outdated, missing owner, or needs leadership decision".
+- Completed "Continue threat-modeling course (CIA, assets, threats, vulnerabilities, risk, controls)".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "PortSwigger Lab: Authentication bypass & brute-forcing (Part B)".
+- Added task "PortSwigger Lab: Directory Traversal file access (Part A)".
+- Added task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array".
+- Added task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array".
+- Completed "Understand GoHighLevel workflows (record for each: name, trigger, entry criteria, email frequency, wait steps, conditions, sender, recipient group, repetition, Corey dependency, reply behavior, exit condition; take screenshots)".
+- Completed "Finish remaining threat-modeling course portions".
+- Completed "Review four core threat-modeling questions".
+- Completed "PortSwigger Lab: Directory Traversal file access (Part B)".
+- Renamed task "PortSwigger Lab: Directory Traversal file access" to "PortSwigger Lab: Directory Traversal file access (Part B)".
+- Updated "PortSwigger Lab: Directory Traversal file access (Part B)" duration from 1.5h to 0.5h.
+- Completed "PortSwigger Lab: Command Injection execution flaws".
+- Added task "PortSwigger Lab: Business Logic flaws & bypasses".
+- Added task "PortSwigger Lab: Information Disclosure leaks (Part A)".
+- Added task "LeetCode Blind 75: #9 - 3Sum".
+- Added task "LeetCode Blind 75: #10 - Container With Most Water".
+- Completed "Create TEST workflow: Tejaswi Recurring Email (test daily + weekly recurring, easy stop condition, clear labels, don't affect real members)".
+- Completed "Watch cybersecurity videos from Matt (add video links in notes)".
+- Completed "PortSwigger Lab: Information Disclosure leaks (Part B)".
+- Renamed task "PortSwigger Lab: Information Disclosure leaks" to "PortSwigger Lab: Information Disclosure leaks (Part B)".
+- Updated "PortSwigger Lab: Information Disclosure leaks (Part B)" duration from 1.5h to 1h.
+- Added task "PortSwigger Lab: Access Control privileges escalation".
+- Added task "PortSwigger Lab: File Upload remote execution (Part A)".
+- Added task "LeetCode Blind 75: #11 - Valid Palindrome".
+- Added task "LeetCode Blind 75: #12 - 3Sum".
+- Completed "Create Hopeful Fridays – Planner POC (buckets: leadership decisions, website/portal, technology, operations, communications, completed)".
+- Completed "Test Planner features: assignment, due dates, labels, checklists, comments, attachments, Teams view, GitHub links, notifications".
+- Completed "Study STRIDE and apply to Palana ride-request flow (2+ threats per category)".
+- Completed "Complete PortSwigger threat/vulnerability analysis (attach lab link)".
+- Completed "PortSwigger Lab: File Upload remote execution (Part B)".
+- Renamed task "PortSwigger Lab: File Upload remote execution" to "PortSwigger Lab: File Upload remote execution (Part B)".
+- Updated "PortSwigger Lab: File Upload remote execution (Part B)" duration from 2h to 1h.
+- Added task "PortSwigger Lab: Server-Side Request Forgery (SSRF)".
+- Added task "PortSwigger Lab: Cross-Site Scripting (XSS) reflected (Part A)".
+- Added task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters".
+- Added task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement".
+- Completed "Leadership meeting on: community platform vs member portal, GHL temporary status, website updates location, new website approval, WordPress pre-alpha, account ownership, priorities before India".
+- Completed "Record: decisions, open questions, owners, deadlines, approved priorities".
+- Completed "Review Firebase security (auth vs authorization, rules, emulator suite)".
+- Added task "PortSwigger Lab: Cross-Site Scripting (XSS) reflected (Part B) (Part A)".
+- Added task "LeetCode Blind 75: #15 - Minimum Window Substring".
+- Added task "LeetCode Blind 75: #16 - Valid Anagram".
+- Completed "Clean notes and send recap if needed".
+- Completed "Check GHL test emails and update task document".
+- Completed "Select next three priorities".
+- Completed "Complete beginner Firebase/access-control exercise".
+- Completed "Write questions for Matt and create Week 1 summary".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "LeetCode Blind 75: #17 - Group Anagrams".
+- Added task "LeetCode Blind 75: #18 - Valid Parentheses".
+- Completed "Create Hopeful Fridays – Trello POC (test: boards/lists, assignments, labels, due dates, GitHub links, PR attachments, Teams, automation, updates)".
+- Completed "Compare Planner vs Trello".
+- Completed "Study broken access control and IDOR".
+- Completed "Git Project: Start-of-week planning".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "PortSwigger Lab: Cross-Site Scripting (XSS) reflected (Part B) (Part B)".
+- Added task "PortSwigger Lab: Stored XSS & DOM-based XSS".
+- Added task "PortSwigger Lab: CSRF validation bypasses (Part A)".
+- Added task "LeetCode Blind 75: #19 - Linked List Cycle".
+- Added task "LeetCode Blind 75: #20 - Reverse Linked List".
+- Completed "Create pre-travel handoff status update (poll/meeting status, GHL findings, email test results, Planner findings, Trello findings, missing permissions, decisions needed, recommended next step)".
+- Completed "Save documents in AHF-controlled location and share access".
+- Completed "Turn off test workflows and mark incomplete work".
+- Completed "Practice Burp Suite (proxy, repeater, modify IDs/headers/tokens)".
+- Completed "Complete PortSwigger access-control lab (record request, impact, mitigation)".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Completed "Update resume / CV".
+- Added task "LeetCode Blind 75: #21 - Merge Two Sorted Lists".
+- Added task "LeetCode Blind 75: #22 - Reorder List".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Save notes for offline access".
+- Completed "Download diagrams and save onboarding questions".
+- Completed "Review CIA and STRIDE if convenient".
+- Completed "[W2] DEADLINE — UX & architecture: Wireframes, user flows, architecture diagram, issue breakdown".
+- Added task "LeetCode Blind 75: #23 - Remove Nth Node From End of List".
+- Added task "LeetCode Blind 75: #24 - Merge k Sorted Lists".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #25 - Linked List Cycle II".
+- Added task "LeetCode Blind 75: #26 - Invert Binary Tree".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree".
+- Added task "LeetCode Blind 75: #28 - Same Tree".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #29 - Subtree of Another Tree".
+- Added task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal".
+- Added task "LeetCode Blind 75: #32 - Validate Binary Search Tree".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Git Project: Start-of-week planning".
+- Completed "[W3] Register extension commands (Thanishka)".
+- Completed "[W3] Connect to local Git repo (branch, commits, changed files) (Thanishka)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST".
+- Added task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "[W3] Test with sample repo & document setup (Shared)".
+- Added task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum".
+- Added task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "[W3] DEADLINE — Extension foundation: Running extension, repo connection, README setup".
+- Added task "LeetCode Blind 75: #37 - Find Median from Data Stream".
+- Added task "LeetCode Blind 75: #38 - Top K Frequent Elements".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #39 - Kth Largest Element in an Array".
+- Added task "LeetCode Blind 75: #40 - Combination Sum".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #41 - Word Search".
+- Added task "LeetCode Blind 75: #42 - Clone Graph".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #43 - Course Schedule".
+- Added task "LeetCode Blind 75: #44 - Number of Islands".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow".
+- Added task "LeetCode Blind 75: #46 - Graph Valid Tree".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph".
+- Added task "LeetCode Blind 75: #48 - Longest Consecutive Sequence".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #49 - Alien Dictionary".
+- Added task "LeetCode Blind 75: #50 - Set Matrix Zeroes".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #51 - Spiral Matrix".
+- Added task "LeetCode Blind 75: #52 - Rotate Image".
+- Completed "Review messages and decisions after travel".
+- Completed "Update master task document and identify active work".
+- Completed "Meet Rahul if needed; confirm website approval and GitHub access".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "PortSwigger Lab: CSRF validation bypasses (Part B)".
+- Added task "PortSwigger Lab: CORS configurations exploits (Part A)".
+- Added task "LeetCode Blind 75: #53 - Climbing Stairs".
+- Added task "LeetCode Blind 75: #54 - Coin Change".
+- Completed "Practice feature branches, pull requests, and review workflow".
+- Completed "Practice merge conflicts and branch protection".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "PortSwigger Lab: CORS configurations exploits (Part B)".
+- Added task "PortSwigger Lab: Clickjacking vulnerabilities".
+- Added task "PortSwigger Lab: DOM-based open redirects (Part A)".
+- Added task "LeetCode Blind 75: #55 - Longest Increasing Subsequence".
+- Added task "LeetCode Blind 75: #56 - Longest Common Subsequence".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "PortSwigger Lab: DOM-based open redirects (Part B)".
+- Added task "PortSwigger Lab: WebSockets message manipulation".
+- Added task "PortSwigger Lab: XML External Entity (XXE) attacks (Part A)".
+- Added task "LeetCode Blind 75: #57 - Word Break".
+- Added task "LeetCode Blind 75: #58 - Combination Sum IV".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "LeetCode Blind 75: #59 - House Robber".
+- Added task "LeetCode Blind 75: #60 - House Robber II".
+- Completed "Receive knowledge-transfer documentation and clone/run website".
+- Completed "Review file structure, form-to-GHL connection, env vars, hosting".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "PortSwigger Lab: XML External Entity (XXE) attacks (Part B)".
+- Added task "PortSwigger Lab: Advanced SQLi & Filter bypasses".
+- Added task "LeetCode Blind 75: #61 - Decode Ways".
+- Added task "LeetCode Blind 75: #62 - Unique Paths".
+- Completed "Plan dev/staging/production branches and document deployment".
+- Completed "Make one small feature-branch change (if website approved)".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "PortSwigger Lab: Advanced XSS & CSP Bypasses (Part A)".
+- Added task "LeetCode Blind 75: #63 - Jump Game".
+- Added task "LeetCode Blind 75: #64 - House Robber III".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "PortSwigger Lab: Advanced XSS & CSP Bypasses (Part B)".
+- Added task "Udemy AWS Course: Finish remaining hours (Part 1)".
+- Added task "Udemy AWS Course: Finish remaining hours (Part 2)".
+- Added task "AWS Review: IAM & Identity Access Security (Part A)".
+- Added task "LeetCode Blind 75: #65 - Insert Interval".
+- Added task "LeetCode Blind 75: #66 - Merge Intervals".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "AWS Review: IAM & Identity Access Security (Part B)".
+- Added task "AWS Review: EC2 & Compute Infrastructure".
+- Added task "AWS Review: S3 & Storage Solutions".
+- Added task "LeetCode Blind 75: #67 - Non-overlapping Intervals".
+- Added task "LeetCode Blind 75: #68 - Meeting Rooms".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "AWS Review: VPC & Cloud Networking".
+- Added task "AWS Review: Databases (RDS, DynamoDB, Redshift)".
+- Added task "AWS Review: Monitoring, Scaling & Elasticity".
+- Added task "AWS Review: Pricing, Support Plans & TCO (Part A)".
+- Added task "LeetCode Blind 75: #69 - Meeting Rooms II".
+- Added task "LeetCode Blind 75: #70 - Sum of Two Integers".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "AWS Review: Pricing, Support Plans & TCO (Part B)".
+- Added task "AWS Skill Builder Mock Exam & Review".
+- Added task "AWS AI Practitioner Certification Exam (Part A)".
+- Added task "LeetCode Blind 75: #71 - Number of 1 Bits".
+- Added task "LeetCode Blind 75: #72 - Counting Bits".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "LeetCode Blind 75: #73 - Reverse Bits".
+- Added task "LeetCode Blind 75: #74 - Missing Number".
+- Completed "Set up development and staging environments".
+- Completed "Add branch protections and require PR approval".
+- Completed "Palana Security — Threat modeling".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "AWS AI Practitioner Certification Exam (Part B)".
+- Added task "LeetCode Blind 75: #75 - Encode and Decode Strings".
+- Added task "LeetCode Blind 75: #1 - Two Sum".
+- Completed "Test one deployment and document rollback procedure".
+- Completed "Prevent accidental production deployment".
+- Completed "Palana Security — Threat modeling".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Added task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Palana Security — Threat modeling".
+- Added task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Added task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Palana Security — Threat modeling".
+- Added task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Added task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "Palana Security — Threat modeling".
+- Added task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array".
+- Added task "LeetCode Blind 75: #9 - 3Sum".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #10 - Container With Most Water".
+- Added task "LeetCode Blind 75: #11 - Valid Palindrome".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #1 - Two Sum".
+- Added task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Added task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Completed "Palana Security — Test the vulnerabilities".
+- Completed "Git Project: Start-of-week planning".
+- Completed "[W4] Build branch list/cards & commit summaries (Tejaswi)".
+- Renamed task "[W7] Merge-conflict guidance or activity-over-time view (Tejaswi)" to "[W4] Build branch list/cards & commit summaries (Tejaswi)".
+- Completed "[W4] Add activity sections & file-change indicators (Tejaswi)".
+- Renamed task "[W7] Improve onboarding & empty states (Tejaswi)" to "[W4] Add activity sections & file-change indicators (Tejaswi)".
+- Added task "[W4] Data logic for branch/commit visualization (Thanishka)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Added task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Completed "Palana Security — Test the vulnerabilities".
+- Completed "[W4] Build activity timeline (Thanishka)".
+- Renamed task "[W7] Improve interface consistency & demo path (Thanishka)" to "[W4] Build activity timeline (Thanishka)".
+- Completed "[W4] Test across repos & capture demo screenshots (Shared)".
+- Renamed task "[W7] Run full bug bash & create demo repository (Shared)" to "[W4] Test across repos & capture demo screenshots (Shared)".
+- Updated "[W4] Test across repos & capture demo screenshots (Shared)" duration from 1h to 0.75h.
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array".
+- Added task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array".
+- Completed "Palana Security — Test the vulnerabilities".
+- Completed "[W4] DEADLINE — Branch & activity visualization: Branch/activity screen, demo screenshots".
+- Renamed task "[W7] DEADLINE — Debugging & refinement: Fixed bugs, demo repo, polished UI" to "[W4] DEADLINE — Branch & activity visualization: Branch/activity screen, demo screenshots".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #9 - 3Sum".
+- Added task "LeetCode Blind 75: #10 - Container With Most Water".
+- Completed "Palana Security — Test the vulnerabilities".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #11 - Valid Palindrome".
+- Added task "LeetCode Blind 75: #12 - 3Sum".
+- Completed "Palana Security — Test the vulnerabilities".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters".
+- Added task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #15 - Minimum Window Substring".
+- Added task "LeetCode Blind 75: #16 - Valid Anagram".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #17 - Group Anagrams".
+- Added task "LeetCode Blind 75: #18 - Valid Parentheses".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Completed "Git Project: Start-of-week planning".
+- Completed "[W5] Design assistant interaction & confirmation flow (Tejaswi)".
+- Renamed task "[W8] Draft executive summary & product story (Tejaswi)" to "[W5] Design assistant interaction & confirmation flow (Tejaswi)".
+- Completed "[W5] Build input/response UI with beginner-friendly messages (Tejaswi)".
+- Renamed task "[W8] Prepare presentation narrative (Tejaswi)" to "[W5] Build input/response UI with beginner-friendly messages (Tejaswi)".
+- Completed "[W5] Map user intent to Git actions (add, commit, push, pull, status, branch) (Thanishka)".
+- Renamed task "[W8] Write system overview & setup documentation (Thanishka)" to "[W5] Map user intent to Git actions (add, commit, push, pull, status, branch) (Thanishka)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "Security+ Day 1: Watch sections 1 and 2 (download PDFs)".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #19 - Linked List Cycle".
+- Added task "LeetCode Blind 75: #20 - Reverse Linked List".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Completed "[W5] Add safety validation & uncertain-intent fallback (Thanishka)".
+- Renamed task "[W8] Finalize repo structure & technical talking points (Thanishka)" to "[W5] Add safety validation & uncertain-intent fallback (Thanishka)".
+- Completed "[W5] Build supported-phrase list & test prompts (Shared)".
+- Renamed task "[W8] Rehearse demo, build slides, record backup demo (Shared)" to "[W5] Build supported-phrase list & test prompts (Shared)".
+- Updated "[W5] Build supported-phrase list & test prompts (Shared)" duration from 1.5h to 0.75h.
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "Security+ Day 2: Watch sections 3 and 4".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #21 - Merge Two Sorted Lists".
+- Added task "LeetCode Blind 75: #22 - Reorder List".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Completed "[W5] DEADLINE — Natural-language Git assistant: NL input, command interpretation, confirmation flow".
+- Renamed task "[W8] DEADLINE — Final MVP & presentation: Final MVP, deck, README, demo script" to "[W5] DEADLINE — Natural-language Git assistant: NL input, command interpretation, confirmation flow".
+- Added task "Password Manager: Architecture & Encryption Setup".
+- Added task "Password Manager: User Authentication & Database Schema (Part A)".
+- Added task "Security+ Day 3: Watch sections 5 and 6".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #23 - Remove Nth Node From End of List".
+- Added task "LeetCode Blind 75: #24 - Merge k Sorted Lists".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "Password Manager: User Authentication & Database Schema (Part B)".
+- Added task "Password Manager: Vault GUI & Secure Copy-Paste (Part A)".
+- Added task "Security+ Day 4: Watch sections 7 and 8".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #25 - Linked List Cycle II".
+- Added task "LeetCode Blind 75: #26 - Invert Binary Tree".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "Password Manager: Vault GUI & Secure Copy-Paste (Part B)".
+- Added task "Password Manager: Security Auditing & Testing".
+- Added task "Packet Sniffer: Raw socket capturing & Scapy environment (Part A)".
+- Added task "Security+ Day 5: Watch sections 9, 10, and 11".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree".
+- Added task "LeetCode Blind 75: #28 - Same Tree".
+- Added task "Packet Sniffer: Raw socket capturing & Scapy environment (Part B)".
+- Added task "Packet Sniffer: Protocol parser (TCP/UDP/ICMP header decoding) (Part A)".
+- Added task "Security+ Day 6: Watch sections 12 and 13".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #29 - Subtree of Another Tree".
+- Added task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "Security+ Day 7: Watch sections 14 and 15".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal".
+- Added task "LeetCode Blind 75: #32 - Validate Binary Search Tree".
+- Completed "Palana Security — Threat modeling".
+- Added task "Git Project: Start-of-week planning".
+- Added task "[W6] Design secret-warning experience (Tejaswi)".
+- Added task "[W6] Connect warning flow to Git assistant (Tejaswi)".
+- Added task "[W6] Detect API keys, tokens, credentials in staged files (Thanishka)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "Security+ Day 8: Watch sections 10 and 11".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #1 - Two Sum".
+- Added task "Microsoft OA Prep: LC #242 - Valid Anagram".
+- Added task "Microsoft OA Prep: LC #49 - Group Anagrams".
+- Added task "Microsoft OA Prep: LC #238 - Product of Array Except Self".
+- Added task "Microsoft OA Prep: LC #128 - Longest Consecutive Sequence".
+- Added task "Microsoft OA Prep: LC #15 - 3Sum".
+- Completed "Palana Security — Threat modeling".
+- Added task "[W6] Add automated tests & warning/block logic (Thanishka)".
+- Added task "[W6] Test with fake keys & write test plan (Shared)".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "Security+ Day 9: Watch section 12".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #3 - Longest Substring Without Repeating Characters".
+- Added task "Microsoft OA Prep: LC #567 - Permutation in String".
+- Added task "Microsoft OA Prep: LC #1004 - Max Consecutive Ones III".
+- Added task "Microsoft OA Prep: LC #438 - Find All Anagrams in a String".
+- Added task "Microsoft OA Prep: LC #424 - Longest Repeating Character Replacement".
+- Added task "Microsoft OA Prep: LC #76 - Minimum Window Substring".
+- Completed "Palana Security — Threat modeling".
+- Added task "[W6] DEADLINE — Secret detection & testing: Secret detection, warning UI, automated tests".
+- Added task "Packet Sniffer: Protocol parser (TCP/UDP/ICMP header decoding) (Part B) (Part A)".
+- Added task "Security+ Day 10: Watch section 13".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #200 - Number of Islands".
+- Added task "Microsoft OA Prep: LC #994 - Rotting Oranges".
+- Added task "Microsoft OA Prep: LC #752 - Open the Lock".
+- Added task "Microsoft OA Prep: LC #207 - Course Schedule".
+- Added task "Microsoft OA Prep: LC #1466 - Reorder Routes to Make All Paths Lead to City Zero".
+- Added task "Microsoft OA Prep: LC #133 - Clone Graph".
+- Completed "Palana Security — Threat modeling".
+- Added task "Security+ Day 11: Watch section 14".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #198 - House Robber".
+- Added task "Microsoft OA Prep: LC #322 - Coin Change".
+- Added task "Microsoft OA Prep: LC #416 - Partition Equal Subset Sum".
+- Added task "Microsoft OA Prep: LC #62 - Unique Paths".
+- Added task "Microsoft OA Prep: LC #300 - Longest Increasing Subsequence".
+- Added task "Microsoft OA Prep: LC #91 - Decode Ways".
+- Completed "Palana Security — Threat modeling".
+- Added task "Packet Sniffer: Protocol parser (TCP/UDP/ICMP header decoding) (Part B) (Part B) (Part A)".
+- Added task "Security+ Day 12: Watch section 15".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #206 - Reverse Linked List".
+- Added task "Microsoft OA Prep: LC #102 - Binary Tree Level Order Traversal".
+- Added task "Microsoft OA Prep: LC #98 - Validate Binary Search Tree".
+- Added task "Microsoft OA Prep: LC #155 - Min Stack".
+- Added task "Microsoft OA Prep: LC #215 - Kth Largest Element in an Array".
+- Added task "Microsoft OA Prep: LC #2246 - Longest Path With Different Adjacent Characters".
+- Added task "Security+ Day 13: Watch section 16".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #1797 - Design Authentication Manager".
+- Added task "Microsoft OA Prep: LC #146 - LRU Cache".
+- Added task "Microsoft OA Prep: LC #347 - Top K Frequent Elements".
+- Added task "Microsoft OA Prep: LC #56 - Merge Intervals".
+- Added task "Microsoft OA Prep: LC #134 - Gas Station".
+- Added task "Microsoft OA Prep: LC #621 - Task Scheduler".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "Security+ Day 14: Review sections 1-20".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "Microsoft OA Prep: LC #1797 - MS OA Sim — Redo: Design Authentication Manager".
+- Added task "Microsoft OA Prep: LC #3 - MS OA Sim — Redo: Longest Substring Without Repeating Characters".
+- Added task "Microsoft OA Prep: LC #567 - MS OA Sim — Redo: Permutation in String".
+- Added task "Microsoft OA Prep: LC #994 - MS OA Sim — Redo: Rotting Oranges".
+- Added task "Microsoft OA Prep: LC #1466 - MS OA Sim — Redo: Reorder Routes to Make All Paths Lead to City Zero".
+- Added task "Microsoft OA Prep: LC #416 - MS OA Sim — Redo: Partition Equal Subset Sum".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "Git Project: Start-of-week planning".
+- Added task "[W7] Merge-conflict guidance or activity-over-time view (Tejaswi)".
+- Added task "[W7] Improve onboarding & empty states (Tejaswi)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "Security+ Day 15: Watch section 17".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST".
+- Added task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "[W7] Improve interface consistency & demo path (Thanishka)".
+- Added task "[W7] Run full bug bash & create demo repository (Shared)".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "Security+ Day 16: Watch sections 18 and 19".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum".
+- Added task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "[W7] DEADLINE — Debugging & refinement: Fixed bugs, demo repo, polished UI".
+- Added task "Packet Sniffer: Protocol parser (TCP/UDP/ICMP header decoding) (Part B) (Part B) (Part B)".
+- Added task "Packet Sniffer: Attack detection rules (port scanning/ARP spoofing)".
+- Added task "Scanner: Request/Response crawler & Header security audits (Part A)".
+- Added task "Security+ Day 17: Watch sections 20 and 21".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #37 - Find Median from Data Stream".
+- Added task "LeetCode Blind 75: #38 - Top K Frequent Elements".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "Scanner: Request/Response crawler & Header security audits (Part B)".
+- Added task "Scanner: SQLi and XSS input fuzzer payloads injection (Part A)".
+- Added task "Security+ Day 18: Watch sections 22 and 23".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #39 - Kth Largest Element in an Array".
+- Added task "LeetCode Blind 75: #40 - Combination Sum".
+- Completed "Palana Security — Test the vulnerabilities".
+- Added task "Scanner: SQLi and XSS input fuzzer payloads injection (Part B)".
+- Added task "Scanner: HTML reporting panel of discovered vulns (Part A)".
+- Added task "Security+ Day 19: Take 1 Practice Exam".
+- Added task "Security+ Day 19 extra: Watch section 24".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #41 - Word Search".
+- Added task "LeetCode Blind 75: #42 - Clone Graph".
+- Added task "Scanner: HTML reporting panel of discovered vulns (Part B)".
+- Added task "Security+ Day 20: Take 1 Practice Exam".
+- Added task "Security+ Day 20 extra: Watch section 25".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #43 - Course Schedule".
+- Added task "LeetCode Blind 75: #44 - Number of Islands".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "Security+ Day 21: Take 1 Practice Exam".
+- Added task "Security+ Day 21 extra: Watch section 26".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow".
+- Added task "LeetCode Blind 75: #46 - Graph Valid Tree".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "Git Project: Start-of-week planning".
+- Added task "[W8] Draft executive summary & product story (Tejaswi)".
+- Added task "[W8] Prepare presentation narrative (Tejaswi)".
+- Added task "[W8] Write system overview & setup documentation (Thanishka)".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "Security+ Day 22: Take 1 Practice Exam".
+- Added task "Security+ Day 22 extra: Watch section 27".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph".
+- Added task "LeetCode Blind 75: #48 - Longest Consecutive Sequence".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "[W8] Finalize repo structure & technical talking points (Thanishka)".
+- Added task "[W8] Rehearse demo, build slides, record backup demo (Shared)".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Added task "Security+ Day 23: Take 1 Practice Exam".
+- Added task "Security+ Day 23 extra: Watch section 28".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #49 - Alien Dictionary".
+- Added task "LeetCode Blind 75: #50 - Set Matrix Zeroes".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "[W8] DEADLINE — Final MVP & presentation: Final MVP, deck, README, demo script".
+- Added task "Security+ Day 24: Take 1 Practice Exam".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #51 - Spiral Matrix".
+- Added task "LeetCode Blind 75: #52 - Rotate Image".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "Security+ Day 25: Take 1 Practice Exam".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #53 - Climbing Stairs".
+- Added task "LeetCode Blind 75: #54 - Coin Change".
+- Completed "Palana Security — Document findings & help dev team mitigate".
+- Added task "Security+ Day 26: Take 1 Practice Exam".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #55 - Longest Increasing Subsequence".
+- Added task "LeetCode Blind 75: #56 - Longest Common Subsequence".
+- Added task "Security+ Day 27: Take 1 Practice Exam".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #57 - Word Break".
+- Added task "LeetCode Blind 75: #58 - Combination Sum IV".
+- Completed "Mentor Lab Preparation (prep for Monday meeting)".
+- Added task "Security+ Day 28: Take 1 Practice Exam".
+- Completed "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #59 - House Robber".
+- Added task "LeetCode Blind 75: #60 - House Robber II".
+- Completed "Palana Security — Threat modeling".
+- Completed "Cybersecurity Mentor Meeting with Matt".
+- Added task "Security+ Day 29: Final review (weak areas + missed questions)".
+- Added task "LeetCode Blind 75: #61 - Decode Ways".
+- Added task "LeetCode Blind 75: #62 - Unique Paths".
+- Added task "CompTIA Security+ SY0-701 Certification Exam".
+- Added task "AHF Work (Tech Lead Duties)".
+- Added task "LeetCode Blind 75: #63 - Jump Game".
+- Added task "LeetCode Blind 75: #64 - House Robber III".
+- Added task "Palana Security — Threat modeling".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Palana contract work".
+- Added task "WINFO budgeting".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Palana contract work".
+- Added task "WINFO budgeting".
+- Added task "Interview".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Palana contract work".
+- Added task "WINFO budgeting".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Palana contract work".
+- Added task "WINFO budgeting".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Palana contract work".
+- Added task "WINFO budgeting".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Interview".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Interview".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "CompTIA Security+ study".
+- Added task "Job applications (5 today)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Git developer tool work".
+- Added task "Threat modeling project".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #1 - Two Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "CompTIA Security+ final review".
+- Added task "Threat modeling project work block".
+- Added task "Git developer tool session".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "CompTIA Security+ final review".
+- Added task "Threat modeling project work block".
+- Added task "Personal website update".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "CompTIA Security+ SY0-701 Certification Exam".
+- Added task "Threat modeling project work block".
+- Added task "Update the Palana privacy policy".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "Git developer tool session".
+- Added task "AHF: Get Cale into the admin side (he has no access yet)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "AHF: Check in with Roslyn on the task management site".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "Git developer tool session".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "WINFO budget: pull current numbers and list what changed".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "Git developer tool session".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #9 - 3Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "Security Hackathon prep (1 of 2)".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "WINFO budget: update the sheet and send it out for review".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #10 - Container With Most Water".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "Threat modeling project work block".
+- Added task "Security Hackathon prep (2 of 2)".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #11 - Valid Palindrome".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Cloud Practitioner study".
+- Added task "DUE: Threat Modeling Project".
+- Added task "Git developer tool session".
+- Added task "Security Hackathon — event day".
+- Added task "Kiro Hackathon prep (1 of 2)".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #12 - 3Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS CP review day 1".
+- Added task "Kiro Hackathon prep (2 of 2)".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS CP review day 2".
+- Added task "Git developer tool session".
+- Added task "Kiro Hackathon — event day".
+- Added task "AHF: Apply Roslyn's feedback to the task management site".
+- Added task "Plan Palana scope for October through December".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS CP review day 3".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #15 - Minimum Window Substring".
+- Added task "AHF work (tech lead duties)".
+- Added task "AWS Certified Cloud Practitioner Certification Exam".
+- Added task "Git developer tool session".
+- Added task "AHF: Task management site LIVE ROLLOUT".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #16 - Valid Anagram".
+- Added task "AHF work (tech lead duties)".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #17 - Group Anagrams".
+- Added task "AHF work (tech lead duties)".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #18 - Valid Parentheses".
+- Added task "AHF work (tech lead duties)".
+- Added task "Git developer tool session".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #19 - Linked List Cycle".
+- Added task "AHF work (tech lead duties)".
+- Added task "MILESTONE: Git Developer Tool COMPLETE (one week to DubHacks)".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #20 - Reverse Linked List".
+- Added task "AHF work (tech lead duties)".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #21 - Merge Two Sorted Lists".
+- Added task "AHF work (tech lead duties)".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #22 - Reorder List".
+- Added task "AHF work (tech lead duties)".
+- Added task "AHF: Set up passwordless authentication".
+- Added task "AHF: Learn Informatics website updates".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #23 - Remove Nth Node From End of List".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #24 - Merge k Sorted Lists".
+- Added task "AHF work (tech lead duties)".
+- Added task "DubHacks prep (1 of 2)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #25 - Linked List Cycle II".
+- Added task "AHF work (tech lead duties)".
+- Added task "DubHacks prep (2 of 2)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #26 - Invert Binary Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "DubHacks — event day".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #28 - Same Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #29 - Subtree of Another Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #32 - Validate Binary Search Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #37 - Find Median from Data Stream".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #38 - Top K Frequent Elements".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #39 - Kth Largest Element in an Array".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #40 - Combination Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #41 - Word Search".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #42 - Clone Graph".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #43 - Course Schedule".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #44 - Number of Islands".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #46 - Graph Valid Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #48 - Longest Consecutive Sequence".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #49 - Alien Dictionary".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #50 - Set Matrix Zeroes".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #51 - Spiral Matrix".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #52 - Rotate Image".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #53 - Climbing Stairs".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #54 - Coin Change".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #55 - Longest Increasing Subsequence".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #56 - Longest Common Subsequence".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #57 - Word Break".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #58 - Combination Sum IV".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #59 - House Robber".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #60 - House Robber II".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #61 - Decode Ways".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #62 - Unique Paths".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #63 - Jump Game".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #64 - House Robber III".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #65 - Insert Interval".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #66 - Merge Intervals".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #67 - Non-overlapping Intervals".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #68 - Meeting Rooms".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #69 - Meeting Rooms II".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #70 - Sum of Two Integers".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #71 - Number of 1 Bits".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #72 - Counting Bits".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #73 - Reverse Bits".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #74 - Missing Number".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #75 - Encode and Decode Strings".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #1 - Two Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #9 - 3Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #10 - Container With Most Water".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #11 - Valid Palindrome".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #12 - 3Sum".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #15 - Minimum Window Substring".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #16 - Valid Anagram".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #17 - Group Anagrams".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #18 - Valid Parentheses".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #19 - Linked List Cycle".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #20 - Reverse Linked List".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #21 - Merge Two Sorted Lists".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #22 - Reorder List".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #23 - Remove Nth Node From End of List".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #24 - Merge k Sorted Lists".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #25 - Linked List Cycle II".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #26 - Invert Binary Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: documentation".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #28 - Same Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Check for upcoming interviews and prep any that are scheduled".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #29 - Subtree of Another Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "Prep for Matt meeting: review what I committed to last time".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: threat model work".
+- Added task "WINFO: sponsorship outreach".
+- Added task "Mentor meeting with Matt".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Added task "Job applications (5 today)".
+- Added task "LeetCode Blind 75: #32 - Validate Binary Search Tree".
+- Added task "AHF work (tech lead duties)".
+- Added task "Palana: pen test".
+- Removed task "LeetCode Blind 75: #1 - Two Sum".
+- Removed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Removed task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Removed task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Removed task "PortSwigger Lab: Authentication bypass & brute-forcing (Part B) (Part A)".
+- Removed task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Removed task "PortSwigger Lab: Authentication bypass & brute-forcing (Part B) (Part B)".
+- Removed task "PortSwigger Lab: Business Logic flaws & bypasses (Part A)".
+- Removed task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Removed task "PortSwigger Lab: Business Logic flaws & bypasses (Part B)".
+- Removed task "PortSwigger Lab: Access Control privileges escalation (Part A)".
+- Removed task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array".
+- Removed task "PortSwigger Lab: Access Control privileges escalation (Part B)".
+- Removed task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array".
+- Removed task "LeetCode Blind 75: #9 - 3Sum".
+- Removed task "LeetCode Blind 75: #10 - Container With Most Water".
+- Removed task "PortSwigger Lab: Server-Side Request Forgery (SSRF)".
+- Removed task "PortSwigger Lab: Cross-Site Scripting (XSS) reflected (Part A)".
+- Removed task "LeetCode Blind 75: #11 - Valid Palindrome".
+- Removed task "LeetCode Blind 75: #12 - 3Sum".
+- Removed task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters".
+- Removed task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement".
+- Removed task "LeetCode Blind 75: #15 - Minimum Window Substring".
+- Removed task "LeetCode Blind 75: #16 - Valid Anagram".
+- Removed task "LeetCode Blind 75: #17 - Group Anagrams".
+- Removed task "LeetCode Blind 75: #18 - Valid Parentheses".
+- Removed task "LeetCode Blind 75: #19 - Linked List Cycle".
+- Removed task "LeetCode Blind 75: #20 - Reverse Linked List".
+- Removed task "LeetCode Blind 75: #21 - Merge Two Sorted Lists".
+- Removed task "LeetCode Blind 75: #22 - Reorder List".
+- Removed task "LeetCode Blind 75: #23 - Remove Nth Node From End of List".
+- Removed task "LeetCode Blind 75: #24 - Merge k Sorted Lists".
+- Removed task "Git Project: Start-of-week planning".
+- Removed task "[W4] Test across repos & capture demo screenshots (Shared)".
+- Removed task "LeetCode Blind 75: #25 - Linked List Cycle II".
+- Removed task "LeetCode Blind 75: #26 - Invert Binary Tree".
+- Removed task "[W4] DEADLINE — Branch & activity visualization: Branch/activity screen, demo screenshots".
+- Removed task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree".
+- Removed task "PortSwigger Lab: Cross-Site Scripting (XSS) reflected (Part B)".
+- Removed task "LeetCode Blind 75: #28 - Same Tree".
+- Removed task "PortSwigger Lab: Stored XSS & DOM-based XSS".
+- Removed task "PortSwigger Lab: CSRF validation bypasses (Part A)".
+- Removed task "LeetCode Blind 75: #29 - Subtree of Another Tree".
+- Removed task "PortSwigger Lab: CSRF validation bypasses (Part B)".
+- Removed task "PortSwigger Lab: CORS configurations exploits".
+- Removed task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree".
+- Removed task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal".
+- Removed task "Git Project: Start-of-week planning".
+- Removed task "[W5] Design assistant interaction & confirmation flow (Tejaswi)".
+- Removed task "[W5] Build input/response UI with beginner-friendly messages (Tejaswi)".
+- Removed task "[W5] Map user intent to Git actions (add, commit, push, pull, status, branch) (Thanishka)".
+- Removed task "LeetCode Blind 75: #32 - Validate Binary Search Tree".
+- Removed task "[W5] Add safety validation & uncertain-intent fallback (Thanishka)".
+- Removed task "[W5] Build supported-phrase list & test prompts (Shared)".
+- Removed task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST".
+- Removed task "[W5] DEADLINE — Natural-language Git assistant: NL input, command interpretation, confirmation flow".
+- Removed task "PortSwigger Lab: Clickjacking vulnerabilities".
+- Removed task "PortSwigger Lab: DOM-based open redirects".
+- Removed task "PortSwigger Lab: WebSockets message manipulation (Part A)".
+- Removed task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Removed task "PortSwigger Lab: WebSockets message manipulation (Part B)".
+- Removed task "PortSwigger Lab: XML External Entity (XXE) attacks".
+- Removed task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum".
+- Removed task "PortSwigger Lab: Advanced SQLi & Filter bypasses".
+- Removed task "PortSwigger Lab: Advanced XSS & CSP Bypasses".
+- Removed task "Udemy AWS Course: Finish remaining hours (Part 1) (Part A)".
+- Removed task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree".
+- Removed task "Udemy AWS Course: Finish remaining hours (Part 1) (Part B)".
+- Removed task "Udemy AWS Course: Finish remaining hours (Part 2)".
+- Removed task "LeetCode Blind 75: #37 - Find Median from Data Stream".
+- Removed task "LeetCode Blind 75: #38 - Top K Frequent Elements".
+- Removed task "Git Project: Start-of-week planning".
+- Removed task "[W6] Design secret-warning experience (Tejaswi)".
+- Removed task "[W6] Connect warning flow to Git assistant (Tejaswi)".
+- Removed task "[W6] Detect API keys, tokens, credentials in staged files (Thanishka)".
+- Removed task "LeetCode Blind 75: #39 - Kth Largest Element in an Array".
+- Removed task "[W6] Add automated tests & warning/block logic (Thanishka)".
+- Removed task "[W6] Test with fake keys & write test plan (Shared)".
+- Removed task "LeetCode Blind 75: #40 - Combination Sum".
+- Removed task "[W6] DEADLINE — Secret detection & testing: Secret detection, warning UI, automated tests".
+- Removed task "AWS Review: IAM & Identity Access Security".
+- Removed task "AWS Review: EC2 & Compute Infrastructure".
+- Removed task "AWS Review: S3 & Storage Solutions (Part A)".
+- Removed task "LeetCode Blind 75: #41 - Word Search".
+- Removed task "AWS Review: S3 & Storage Solutions (Part B)".
+- Removed task "AWS Review: VPC & Cloud Networking".
+- Removed task "AWS Review: Databases (RDS, DynamoDB, Redshift) (Part A)".
+- Removed task "LeetCode Blind 75: #42 - Clone Graph".
+- Removed task "AWS Review: Databases (RDS, DynamoDB, Redshift) (Part B)".
+- Removed task "AWS Review: Monitoring, Scaling & Elasticity".
+- Removed task "AWS Review: Pricing, Support Plans & TCO".
+- Removed task "AWS Skill Builder Mock Exam & Review (Part A)".
+- Removed task "LeetCode Blind 75: #43 - Course Schedule".
+- Removed task "AWS Skill Builder Mock Exam & Review (Part B)".
+- Removed task "AWS AI Practitioner Certification Exam".
+- Removed task "Security+ Study: Module 1 - General Security Concepts (Part A) (Part A)".
+- Removed task "LeetCode Blind 75: #44 - Number of Islands".
+- Removed task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow".
+- Removed task "Security+ Study: Module 1 - General Security Concepts (Part A) (Part B) (Part A)".
+- Removed task "LeetCode Blind 75: #46 - Graph Valid Tree".
+- Removed task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph".
+- Removed task "Security+ Study: Module 1 - General Security Concepts (Part A) (Part B) (Part B)".
+- Removed task "Security+ Study: Module 1 - General Security Concepts (Part B)".
+- Removed task "LeetCode Blind 75: #48 - Longest Consecutive Sequence".
+- Removed task "Security+ Study: Module 2 - Threats, Vulnerabilities & Mitigations (Part A)".
+- Removed task "Security+ Study: Module 2 - Threats, Vulnerabilities & Mitigations (Part B) (Part A)".
+- Removed task "LeetCode Blind 75: #49 - Alien Dictionary".
+- Removed task "Security+ Study: Module 2 - Threats, Vulnerabilities & Mitigations (Part B) (Part B)".
+- Removed task "Security+ Study: Module 2 - Threats, Vulnerabilities & Mitigations (Part C)".
+- Removed task "LeetCode Blind 75: #50 - Set Matrix Zeroes".
+- Removed task "Security+ Study: Module 3 - Security Architecture (Part A)".
+- Removed task "LeetCode Blind 75: #51 - Spiral Matrix".
+- Removed task "LeetCode Blind 75: #52 - Rotate Image".
+- Removed task "LeetCode Blind 75: #53 - Climbing Stairs".
+- Removed task "LeetCode Blind 75: #54 - Coin Change".
+- Removed task "Security+ Study: Module 3 - Security Architecture (Part B)".
+- Removed task "Security+ Study: Module 3 - Security Architecture (Part C) (Part A)".
+- Removed task "LeetCode Blind 75: #55 - Longest Increasing Subsequence".
+- Removed task "Security+ Study: Module 3 - Security Architecture (Part C) (Part B)".
+- Removed task "Security+ Study: Module 4 - Security Operations (Part A) (Part A)".
+- Removed task "LeetCode Blind 75: #56 - Longest Common Subsequence".
+- Removed task "Security+ Study: Module 4 - Security Operations (Part A) (Part B)".
+- Removed task "Security+ Study: Module 4 - Security Operations (Part B)".
+- Removed task "Security+ Study: Module 4 - Security Operations (Part C) (Part A)".
+- Removed task "LeetCode Blind 75: #57 - Word Break".
+- Removed task "Security+ Study: Module 4 - Security Operations (Part C) (Part B)".
+- Removed task "Security+ Study: Module 5 - Security Program Management (Part A) (Part A)".
+- Removed task "LeetCode Blind 75: #58 - Combination Sum IV".
+- Removed task "LeetCode Blind 75: #59 - House Robber".
+- Removed task "Security+ Study: Module 5 - Security Program Management (Part A) (Part B)".
+- Removed task "Security+ Study: Module 5 - Security Program Management (Part B)".
+- Removed task "Security+ Dion Practice Exam 1 & Explanations (Part A)".
+- Removed task "LeetCode Blind 75: #60 - House Robber II".
+- Removed task "Security+ Dion Practice Exam 1 & Explanations (Part B) (Part A)".
+- Removed task "LeetCode Blind 75: #61 - Decode Ways".
+- Removed task "Security+ Dion Practice Exam 1 & Explanations (Part B) (Part B)".
+- Removed task "Security+ Dion Practice Exam 2 & Explanations".
+- Removed task "Security+ Dion Practice Exam 3 & Explanations".
+- Removed task "Security+ Dion Practice Exam 4 & Explanations (Part A)".
+- Removed task "LeetCode Blind 75: #62 - Unique Paths".
+- Removed task "Security+ Dion Practice Exam 4 & Explanations (Part B)".
+- Removed task "Security+ Messer Videos Speed Run & Notes Review (Part A)".
+- Removed task "LeetCode Blind 75: #63 - Jump Game".
+- Removed task "Security+ Messer Videos Speed Run & Notes Review (Part B)".
+- Removed task "CompTIA Security+ SY0-701 Certification Exam".
+- Removed task "LeetCode Blind 75: #64 - House Robber III".
+- Removed task "LeetCode Blind 75: #65 - Insert Interval".
+- Removed task "LeetCode Blind 75: #66 - Merge Intervals".
+- Removed task "LeetCode Blind 75: #67 - Non-overlapping Intervals".
+- Removed task "LeetCode Blind 75: #68 - Meeting Rooms".
+- Removed task "LeetCode Blind 75: #69 - Meeting Rooms II".
+- Removed task "LeetCode Blind 75: #70 - Sum of Two Integers".
+- Removed task "LeetCode Blind 75: #71 - Number of 1 Bits".
+- Removed task "Password Manager: Architecture & Encryption Setup (Part A)".
+- Removed task "LeetCode Blind 75: #72 - Counting Bits".
+- Removed task "LeetCode Blind 75: #73 - Reverse Bits".
+- Removed task "Password Manager: Architecture & Encryption Setup (Part B)".
+- Removed task "Password Manager: User Authentication & Database Schema".
+- Removed task "Password Manager: Vault GUI & Secure Copy-Paste (Part A)".
+- Removed task "LeetCode Blind 75: #74 - Missing Number".
+- Removed task "Password Manager: Vault GUI & Secure Copy-Paste (Part B) (Part A)".
+- Removed task "LeetCode Blind 75: #75 - Encode and Decode Strings".
+- Removed task "Password Manager: Vault GUI & Secure Copy-Paste (Part B) (Part B)".
+- Removed task "Password Manager: Security Auditing & Testing".
+- Removed task "Packet Sniffer: Raw socket capturing & Scapy environment (Part A)".
+- Removed task "LeetCode Blind 75: #1 - Two Sum".
+- Removed task "Packet Sniffer: Raw socket capturing & Scapy environment (Part B)".
+- Removed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock".
+- Removed task "Packet Sniffer: Protocol parser (TCP/UDP/ICMP header decoding)".
+- Removed task "Packet Sniffer: Attack detection rules (port scanning/ARP spoofing) (Part A)".
+- Removed task "LeetCode Blind 75: #3 - Contains Duplicate".
+- Removed task "Packet Sniffer: Attack detection rules (port scanning/ARP spoofing) (Part B)".
+- Removed task "Scanner: Request/Response crawler & Header security audits (Part A)".
+- Removed task "LeetCode Blind 75: #4 - Product of Array Except Self".
+- Removed task "LeetCode Blind 75: #5 - Maximum Subarray".
+- Removed task "Scanner: Request/Response crawler & Header security audits (Part B)".
+- Removed task "Scanner: SQLi and XSS input fuzzer payloads injection (Part A)".
+- Removed task "LeetCode Blind 75: #6 - Maximum Product Subarray".
+- Removed task "Scanner: SQLi and XSS input fuzzer payloads injection (Part B) (Part A)".
+- Removed task "Scanner: SQLi and XSS input fuzzer payloads injection (Part B) (Part B)".
+- Removed task "Scanner: HTML reporting panel of discovered vulns".
