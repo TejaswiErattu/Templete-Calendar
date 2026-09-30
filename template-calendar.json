@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T23:56:37.409Z",
+  "updatedAt": "2026-09-30T01:00:37.373Z",
   "entries": [
     {
       "id": "5b80c379f938c01f5dc021c8",
@@ -6800,6 +6800,1901 @@
       "id": "01eeb8b7b2b7c70217e1b99c",
       "date": "2026-09-22",
       "text": "Removed task \"Scanner: HTML reporting panel of discovered vulns\"."
+    },
+    {
+      "id": "0a209e62567740a843c70998",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #1 - Two Sum\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "77d2fae3fc56ab3d1ae75428",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "406ef56d8cec42fca9634981",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #3 - Contains Duplicate\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "15e4dff44ec1fac484a8926a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #4 - Product of Array Except Self\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "e24e15497262b9e953befbf3",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #5 - Maximum Subarray\" to \"LeetCode #53 - Maximum Subarray\"."
+    },
+    {
+      "id": "5a9b9093d64479b270deac7b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #6 - Maximum Product Subarray\" to \"LeetCode #152 - Maximum Product Subarray\"."
+    },
+    {
+      "id": "6d96227eeb8a2004d1d0e47f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "1bfd19c79e767edcdefff6b1",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #8 - Search in Rotated Sorted Array\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "ac1f492fcbad82e4c3187b79",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #9 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "ec92bfe100adfcd67ee91972",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #10 - Container With Most Water\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "4ad97add684103986524168c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #11 - Valid Palindrome\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "b2b7a273982c37c9fb891633",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #12 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "4bc43d25968ea2626ef6020e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters\" to \"LeetCode #3 - Longest Substring Without Repeating Characters\"."
+    },
+    {
+      "id": "5ff0eded2fc808878f5aad4c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #14 - Longest Repeating Character Replacement\" to \"LeetCode #424 - Longest Repeating Character Replacement\"."
+    },
+    {
+      "id": "38d19f5a4990b9921267db86",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #15 - Minimum Window Substring\" to \"LeetCode #76 - Minimum Window Substring\"."
+    },
+    {
+      "id": "39d8d08a9412c70a0c5b8e22",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #16 - Valid Anagram\" to \"LeetCode #242 - Valid Anagram\"."
+    },
+    {
+      "id": "cdacefc8a4c00610639eb19e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #17 - Group Anagrams\" to \"LeetCode #49 - Group Anagrams\"."
+    },
+    {
+      "id": "4182d85c5612dfe43126eb1c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #18 - Valid Parentheses\" to \"LeetCode #20 - Valid Parentheses\"."
+    },
+    {
+      "id": "4d5e3b9138dcacd0618ea7f1",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #19 - Linked List Cycle\" to \"LeetCode #141 - Linked List Cycle\"."
+    },
+    {
+      "id": "41e66a830bf7f445b265afa8",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #20 - Reverse Linked List\" to \"LeetCode #206 - Reverse Linked List\"."
+    },
+    {
+      "id": "5847d6182f6c0a06a093ba59",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #21 - Merge Two Sorted Lists\" to \"LeetCode #21 - Merge Two Sorted Lists\"."
+    },
+    {
+      "id": "7d8e50c4c3b0ed3af421fb77",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #22 - Reorder List\" to \"LeetCode #143 - Reorder List\"."
+    },
+    {
+      "id": "9f01c0312fc27859b20d356d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #23 - Remove Nth Node From End of List\" to \"LeetCode #19 - Remove Nth Node From End of List\"."
+    },
+    {
+      "id": "4239bb22dc1e5ffb48a8c5c4",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #24 - Merge k Sorted Lists\" to \"LeetCode #23 - Merge k Sorted Lists\"."
+    },
+    {
+      "id": "178953b1a7595f6bb09d72d6",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #25 - Linked List Cycle II\" to \"LeetCode #142 - Linked List Cycle II\"."
+    },
+    {
+      "id": "accd19dc65feb35cbe5ad30d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #26 - Invert Binary Tree\" to \"LeetCode #226 - Invert Binary Tree\"."
+    },
+    {
+      "id": "968ffb7790102d1055a4249f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #27 - Maximum Depth of Binary Tree\" to \"LeetCode #104 - Maximum Depth of Binary Tree\"."
+    },
+    {
+      "id": "4e8bcaf4fc05e30fc4c79fa7",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #28 - Same Tree\" to \"LeetCode #100 - Same Tree\"."
+    },
+    {
+      "id": "ff4a93e0807d4c453dfeb136",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #29 - Subtree of Another Tree\" to \"LeetCode #572 - Subtree of Another Tree\"."
+    },
+    {
+      "id": "ce63837ac011329b90d79844",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree\" to \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\"."
+    },
+    {
+      "id": "76fabe197448b428ce988ad5",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #31 - Binary Tree Level Order Traversal\" to \"LeetCode #102 - Binary Tree Level Order Traversal\"."
+    },
+    {
+      "id": "349f987e06b91792cc066859",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #32 - Validate Binary Search Tree\" to \"LeetCode #98 - Validate Binary Search Tree\"."
+    },
+    {
+      "id": "a17874b4a9c9c51e5836e569",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #33 - Kth Smallest Element in a BST\" to \"LeetCode #230 - Kth Smallest Element in a BST\"."
+    },
+    {
+      "id": "fe0f2e0e2a6f7a5c2698666c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal\" to \"LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal\"."
+    },
+    {
+      "id": "354fcb56ec0c11bd6ed28469",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum\" to \"LeetCode #124 - Binary Tree Maximum Path Sum\"."
+    },
+    {
+      "id": "44128cb86e39c9bdb9f89b7c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree\" to \"LeetCode #297 - Serialize and Deserialize Binary Tree\"."
+    },
+    {
+      "id": "cf4610cca7afee3c98fa5418",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #37 - Find Median from Data Stream\" to \"LeetCode #295 - Find Median from Data Stream\"."
+    },
+    {
+      "id": "10c0c8a26af77a98338d8cb6",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #38 - Top K Frequent Elements\" to \"LeetCode #347 - Top K Frequent Elements\"."
+    },
+    {
+      "id": "bae0d61039d969df1771442a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #39 - Kth Largest Element in an Array\" to \"LeetCode #215 - Kth Largest Element in an Array\"."
+    },
+    {
+      "id": "e731393e242e28ed7a637222",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #40 - Combination Sum\" to \"LeetCode #39 - Combination Sum\"."
+    },
+    {
+      "id": "79e6d8f2f0291ccc8b212645",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #41 - Word Search\" to \"LeetCode #79 - Word Search\"."
+    },
+    {
+      "id": "86311824a116539f93cc6503",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #42 - Clone Graph\" to \"LeetCode #133 - Clone Graph\"."
+    },
+    {
+      "id": "d10a772d5b1d21329ac35959",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #43 - Course Schedule\" to \"LeetCode #207 - Course Schedule\"."
+    },
+    {
+      "id": "addaf29906bb657f37f3ae31",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #44 - Number of Islands\" to \"LeetCode #200 - Number of Islands\"."
+    },
+    {
+      "id": "1f75a0df1e1b791b8cc79ee9",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #45 - Pacific Atlantic Water Flow\" to \"LeetCode #417 - Pacific Atlantic Water Flow\"."
+    },
+    {
+      "id": "3622189afe7be7c89c6fc65a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #46 - Graph Valid Tree\" to \"LeetCode #261 - Graph Valid Tree\"."
+    },
+    {
+      "id": "4cb212573970da379ad2dd80",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph\" to \"LeetCode #323 - Number of Connected Components in an Undirected Graph\"."
+    },
+    {
+      "id": "53299b2a50804db99e1b4fca",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #48 - Longest Consecutive Sequence\" to \"LeetCode #128 - Longest Consecutive Sequence\"."
+    },
+    {
+      "id": "dcb8d2f0fd55f903a419d967",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #49 - Alien Dictionary\" to \"LeetCode #269 - Alien Dictionary\"."
+    },
+    {
+      "id": "a38dc2d2b10d7e8885a6d917",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #50 - Set Matrix Zeroes\" to \"LeetCode #73 - Set Matrix Zeroes\"."
+    },
+    {
+      "id": "4f27d182a55645dd488d0a56",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #51 - Spiral Matrix\" to \"LeetCode #54 - Spiral Matrix\"."
+    },
+    {
+      "id": "54dff5f0bd6b87bed4c87d09",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #52 - Rotate Image\" to \"LeetCode #48 - Rotate Image\"."
+    },
+    {
+      "id": "e0300b33f035afafbfa68471",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #53 - Climbing Stairs\" to \"LeetCode #70 - Climbing Stairs\"."
+    },
+    {
+      "id": "6277c96b80985aee1e82187e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #54 - Coin Change\" to \"LeetCode #322 - Coin Change\"."
+    },
+    {
+      "id": "eec3e607f883854b28f66d3c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #55 - Longest Increasing Subsequence\" to \"LeetCode #300 - Longest Increasing Subsequence\"."
+    },
+    {
+      "id": "4af635cc7e57b07e5326a1ee",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #56 - Longest Common Subsequence\" to \"LeetCode #1143 - Longest Common Subsequence\"."
+    },
+    {
+      "id": "322f4e0d5eb0cc1ce7171753",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #57 - Word Break\" to \"LeetCode #139 - Word Break\"."
+    },
+    {
+      "id": "d0eb10578cb2f7aef06df498",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #58 - Combination Sum IV\" to \"LeetCode #377 - Combination Sum IV\"."
+    },
+    {
+      "id": "29b2c2c0689dcc996dfe54c0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #59 - House Robber\" to \"LeetCode #198 - House Robber\"."
+    },
+    {
+      "id": "66d30bb4e0ea4ed5865a13dc",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #60 - House Robber II\" to \"LeetCode #213 - House Robber II\"."
+    },
+    {
+      "id": "caaccf523f0966c6b8815ac3",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #61 - Decode Ways\" to \"LeetCode #91 - Decode Ways\"."
+    },
+    {
+      "id": "0539317d976fd75089c065dc",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #62 - Unique Paths\" to \"LeetCode #62 - Unique Paths\"."
+    },
+    {
+      "id": "67fcf23b6857717464ba4c14",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #63 - Jump Game\" to \"LeetCode #55 - Jump Game\"."
+    },
+    {
+      "id": "b82fd82bdbafa235d7fc46f8",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #64 - House Robber III\" to \"LeetCode #337 - House Robber III\"."
+    },
+    {
+      "id": "eef79db3f36070e6c5b5f993",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #65 - Insert Interval\" to \"LeetCode #57 - Insert Interval\"."
+    },
+    {
+      "id": "02444f80528f0bd94a76c307",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #66 - Merge Intervals\" to \"LeetCode #56 - Merge Intervals\"."
+    },
+    {
+      "id": "9882a48cee5bf0edcf80fb90",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #67 - Non-overlapping Intervals\" to \"LeetCode #435 - Non-overlapping Intervals\"."
+    },
+    {
+      "id": "4d3896020fb255ea6843307a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #68 - Meeting Rooms\" to \"LeetCode #252 - Meeting Rooms\"."
+    },
+    {
+      "id": "2cececef350057b2b26da549",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #69 - Meeting Rooms II\" to \"LeetCode #253 - Meeting Rooms II\"."
+    },
+    {
+      "id": "a39469ea3a0f8306aa668f14",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #70 - Sum of Two Integers\" to \"LeetCode #371 - Sum of Two Integers\"."
+    },
+    {
+      "id": "c4647272dc80db73836f2882",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #71 - Number of 1 Bits\" to \"LeetCode #191 - Number of 1 Bits\"."
+    },
+    {
+      "id": "d7ea6d929eb7084bca361b5d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #72 - Counting Bits\" to \"LeetCode #338 - Counting Bits\"."
+    },
+    {
+      "id": "f1dbd708e0e32bf8dfa2b018",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #73 - Reverse Bits\" to \"LeetCode #190 - Reverse Bits\"."
+    },
+    {
+      "id": "56f6ecce8baededaabff3256",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #74 - Missing Number\" to \"LeetCode #268 - Missing Number\"."
+    },
+    {
+      "id": "b742cf68b6d3a3396ac55dcc",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #75 - Encode and Decode Strings\" to \"LeetCode #271 - Encode and Decode Strings\"."
+    },
+    {
+      "id": "fd3e796d2e05c2e26dd8b909",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #1 - Two Sum\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "f1523ef19ba4de0d12f46684",
+      "date": "2026-09-29",
+      "text": "Added task \"AWS AI Practitioner Certification Exam\"."
+    },
+    {
+      "id": "4dc8dac2f468cb4176363de7",
+      "date": "2026-09-29",
+      "text": "Added task \"AWS AI Practitioner Certification Exam\"."
+    },
+    {
+      "id": "fa07d2b1c383a3e3ecb273d0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "7217e404c4771d1c0b142202",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #3 - Contains Duplicate\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "823de6f847dd2d2755beeff4",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #4 - Product of Array Except Self\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "b6af38222f347071f07e2d28",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #5 - Maximum Subarray\" to \"LeetCode #53 - Maximum Subarray\"."
+    },
+    {
+      "id": "65ef35433c46c9db53cda5bd",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #6 - Maximum Product Subarray\" to \"LeetCode #152 - Maximum Product Subarray\"."
+    },
+    {
+      "id": "4f7fb9c587e71df6c8253587",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "6981f61970e2ee62dbe63d16",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #8 - Search in Rotated Sorted Array\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "a32d6ad70ab3e0323410bb74",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #9 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "c1b38f1a3c14d1d4657b602c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #10 - Container With Most Water\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "24b2b0cb8894a028fa1bfc73",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #11 - Valid Palindrome\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "1e16046a6859c2604b826733",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #1 - Two Sum\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "a0d4409eed4ac487b64c1fa2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "228a145d7332e28abad2f688",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #3 - Contains Duplicate\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "2193462c3293b5401e1c6c6c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #4 - Product of Array Except Self\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "4a1dc6792de9473e4764487c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #5 - Maximum Subarray\" to \"LeetCode #53 - Maximum Subarray\"."
+    },
+    {
+      "id": "8e7522115e25ad50e0d4187b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #6 - Maximum Product Subarray\" to \"LeetCode #152 - Maximum Product Subarray\"."
+    },
+    {
+      "id": "211ef6f0a39aeda8e79978e1",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "bc110df456bcb218dea70b66",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #8 - Search in Rotated Sorted Array\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "362670b3ab9a7d9671dc659d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #9 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "1e1f0201684e8a899ac44d79",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #10 - Container With Most Water\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "a7af42e28f17c2620ae5b546",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #11 - Valid Palindrome\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "b6d960737f2d257dc970fa84",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #12 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "79844e751da9dcf0a0553037",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters\" to \"LeetCode #3 - Longest Substring Without Repeating Characters\"."
+    },
+    {
+      "id": "d35f8729a73650c7cfe7e137",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #14 - Longest Repeating Character Replacement\" to \"LeetCode #424 - Longest Repeating Character Replacement\"."
+    },
+    {
+      "id": "30fc7b19e6d71cf36914f6ba",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #15 - Minimum Window Substring\" to \"LeetCode #76 - Minimum Window Substring\"."
+    },
+    {
+      "id": "095c2d90c684f617d66cf834",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #16 - Valid Anagram\" to \"LeetCode #242 - Valid Anagram\"."
+    },
+    {
+      "id": "110372e592f7fc0a84afa355",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #17 - Group Anagrams\" to \"LeetCode #49 - Group Anagrams\"."
+    },
+    {
+      "id": "d65ca48690fb1bfce4e807fb",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #18 - Valid Parentheses\" to \"LeetCode #20 - Valid Parentheses\"."
+    },
+    {
+      "id": "00434a8df4402a7407a28249",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #19 - Linked List Cycle\" to \"LeetCode #141 - Linked List Cycle\"."
+    },
+    {
+      "id": "7ebbadcc907cf8d0e7e3d39a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #20 - Reverse Linked List\" to \"LeetCode #206 - Reverse Linked List\"."
+    },
+    {
+      "id": "40f74b67ee45e5118a21a192",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #21 - Merge Two Sorted Lists\" to \"LeetCode #21 - Merge Two Sorted Lists\"."
+    },
+    {
+      "id": "94b2a24f4096edfdbc517fb2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #22 - Reorder List\" to \"LeetCode #143 - Reorder List\"."
+    },
+    {
+      "id": "b587c029619e71cbd2a8bef0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #23 - Remove Nth Node From End of List\" to \"LeetCode #19 - Remove Nth Node From End of List\"."
+    },
+    {
+      "id": "8f6bcb671909128af38e5d48",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #24 - Merge k Sorted Lists\" to \"LeetCode #23 - Merge k Sorted Lists\"."
+    },
+    {
+      "id": "33464ebe969198540377d8c3",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #25 - Linked List Cycle II\" to \"LeetCode #142 - Linked List Cycle II\"."
+    },
+    {
+      "id": "1a0695e12eea86a88e6f100f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #26 - Invert Binary Tree\" to \"LeetCode #226 - Invert Binary Tree\"."
+    },
+    {
+      "id": "9db59e118053e04e4d2e4cda",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #27 - Maximum Depth of Binary Tree\" to \"LeetCode #104 - Maximum Depth of Binary Tree\"."
+    },
+    {
+      "id": "7b343f689d4ffb5ccd76a184",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #28 - Same Tree\" to \"LeetCode #100 - Same Tree\"."
+    },
+    {
+      "id": "aecc5e999b34509b4f43be6f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #29 - Subtree of Another Tree\" to \"LeetCode #572 - Subtree of Another Tree\"."
+    },
+    {
+      "id": "e966f596c8c09d3a35ff2a98",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree\" to \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\"."
+    },
+    {
+      "id": "e5469e32aaa632c4090b9e49",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #31 - Binary Tree Level Order Traversal\" to \"LeetCode #102 - Binary Tree Level Order Traversal\"."
+    },
+    {
+      "id": "cf61c6329e22645c844e1c47",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #32 - Validate Binary Search Tree\" to \"LeetCode #98 - Validate Binary Search Tree\"."
+    },
+    {
+      "id": "a3ba0d8affa41e28ae6c03a2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #33 - Kth Smallest Element in a BST\" to \"LeetCode #230 - Kth Smallest Element in a BST\"."
+    },
+    {
+      "id": "dd45fe1d716c3ca42f5c8ec2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal\" to \"LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal\"."
+    },
+    {
+      "id": "41e54571401e525a8b244fd3",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum\" to \"LeetCode #124 - Binary Tree Maximum Path Sum\"."
+    },
+    {
+      "id": "5c5649a52cd0366efd6f50f1",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree\" to \"LeetCode #297 - Serialize and Deserialize Binary Tree\"."
+    },
+    {
+      "id": "141113b37e264661ba7a8b1e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #37 - Find Median from Data Stream\" to \"LeetCode #295 - Find Median from Data Stream\"."
+    },
+    {
+      "id": "229679206f24c74414d8cc29",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #38 - Top K Frequent Elements\" to \"LeetCode #347 - Top K Frequent Elements\"."
+    },
+    {
+      "id": "9b5e069600869ab657a9f546",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #39 - Kth Largest Element in an Array\" to \"LeetCode #215 - Kth Largest Element in an Array\"."
+    },
+    {
+      "id": "29b816fe116612ff26e3aa13",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #40 - Combination Sum\" to \"LeetCode #39 - Combination Sum\"."
+    },
+    {
+      "id": "d9563a14a4a6ae35a7fde579",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #41 - Word Search\" to \"LeetCode #79 - Word Search\"."
+    },
+    {
+      "id": "ec54cb59ffab1e9e28f7d7de",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #42 - Clone Graph\" to \"LeetCode #133 - Clone Graph\"."
+    },
+    {
+      "id": "a594b35bde768a33eadd9554",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #43 - Course Schedule\" to \"LeetCode #207 - Course Schedule\"."
+    },
+    {
+      "id": "477ffe6497403789dffe1287",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #44 - Number of Islands\" to \"LeetCode #200 - Number of Islands\"."
+    },
+    {
+      "id": "309fb5fc100ff04dff088713",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #45 - Pacific Atlantic Water Flow\" to \"LeetCode #417 - Pacific Atlantic Water Flow\"."
+    },
+    {
+      "id": "92b1aaaa6b8dcd04ecf1e650",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #46 - Graph Valid Tree\" to \"LeetCode #261 - Graph Valid Tree\"."
+    },
+    {
+      "id": "96226eef5490f8032890f871",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph\" to \"LeetCode #323 - Number of Connected Components in an Undirected Graph\"."
+    },
+    {
+      "id": "bb89b6fb8536be6bebb9cabb",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #48 - Longest Consecutive Sequence\" to \"LeetCode #128 - Longest Consecutive Sequence\"."
+    },
+    {
+      "id": "13ef5291d93583acd331e912",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #49 - Alien Dictionary\" to \"LeetCode #269 - Alien Dictionary\"."
+    },
+    {
+      "id": "052c8dacf0558a32ac09a104",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #50 - Set Matrix Zeroes\" to \"LeetCode #73 - Set Matrix Zeroes\"."
+    },
+    {
+      "id": "1e02a84047694ce5a4931bc4",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #51 - Spiral Matrix\" to \"LeetCode #54 - Spiral Matrix\"."
+    },
+    {
+      "id": "0413c4315198743f0876bc03",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #52 - Rotate Image\" to \"LeetCode #48 - Rotate Image\"."
+    },
+    {
+      "id": "14de89b943910113b7feb3a2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #53 - Climbing Stairs\" to \"LeetCode #70 - Climbing Stairs\"."
+    },
+    {
+      "id": "d15d6aeb3b1e187a7a128bcd",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #54 - Coin Change\" to \"LeetCode #322 - Coin Change\"."
+    },
+    {
+      "id": "436775bc356dcd60cac65f4c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #55 - Longest Increasing Subsequence\" to \"LeetCode #300 - Longest Increasing Subsequence\"."
+    },
+    {
+      "id": "78880f6b53af933c6a95adca",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #56 - Longest Common Subsequence\" to \"LeetCode #1143 - Longest Common Subsequence\"."
+    },
+    {
+      "id": "c38ce5fdd36d06d201705f5b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #57 - Word Break\" to \"LeetCode #139 - Word Break\"."
+    },
+    {
+      "id": "b8166a2b037d809f652c223a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #58 - Combination Sum IV\" to \"LeetCode #377 - Combination Sum IV\"."
+    },
+    {
+      "id": "807e6fc1c6291c1c041dfcad",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #59 - House Robber\" to \"LeetCode #198 - House Robber\"."
+    },
+    {
+      "id": "83fa5aa470c04862247160fd",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #60 - House Robber II\" to \"LeetCode #213 - House Robber II\"."
+    },
+    {
+      "id": "ab0475641253f1b5b5312f1e",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF Work (Tech Lead Duties)\"."
+    },
+    {
+      "id": "378d3e2b784f83b8c1670f7d",
+      "date": "2026-09-29",
+      "text": "Completed \"LeetCode #91 - Decode Ways\"."
+    },
+    {
+      "id": "ec4a0b455baa1e4693c06613",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #61 - Decode Ways\" to \"LeetCode #91 - Decode Ways\"."
+    },
+    {
+      "id": "1222e53c90df8a78d93eec2f",
+      "date": "2026-09-29",
+      "text": "Completed \"LeetCode #62 - Unique Paths\"."
+    },
+    {
+      "id": "e5766f82baabfe5a25f6a56e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #62 - Unique Paths\" to \"LeetCode #62 - Unique Paths\"."
+    },
+    {
+      "id": "2bbc8035152c03ec0fe48a43",
+      "date": "2026-09-29",
+      "text": "Completed \"Palana Security — Threat modeling\"."
+    },
+    {
+      "id": "c58f947d8b0d2d29d5abd806",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO Meeting\"."
+    },
+    {
+      "id": "f8d0329e8870c4ad7aff9041",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO: Check reimbursements\"."
+    },
+    {
+      "id": "42946834d926f1daf743fc3d",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO: Check open grants & scholarships\"."
+    },
+    {
+      "id": "7f66c4687797d1a89f5fbc82",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF Work (Tech Lead Duties)\"."
+    },
+    {
+      "id": "d0ecd13735beac141a522230",
+      "date": "2026-09-29",
+      "text": "Completed \"LeetCode #55 - Jump Game\"."
+    },
+    {
+      "id": "50099679a7833a96ab0577af",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #63 - Jump Game\" to \"LeetCode #55 - Jump Game\"."
+    },
+    {
+      "id": "1e2e3c93e030b1214db2d6b3",
+      "date": "2026-09-29",
+      "text": "Completed \"LeetCode #337 - House Robber III\"."
+    },
+    {
+      "id": "b5f346d0040f7dc13f8a905e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #64 - House Robber III\" to \"LeetCode #337 - House Robber III\"."
+    },
+    {
+      "id": "056a43e494804b7ad1c5db43",
+      "date": "2026-09-29",
+      "text": "Completed \"Palana Security — Threat modeling\"."
+    },
+    {
+      "id": "12680c0920b9008c5ffdb515",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "701c5ea67d742b0366fdb566",
+      "date": "2026-09-29",
+      "text": "Completed \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "554e82a268bd1859d6defd27",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #1 - Two Sum\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "cdecd7162079b862e1fa8f30",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "2fe7220edf161b059908e78e",
+      "date": "2026-09-29",
+      "text": "Completed \"CompTIA Security+ final review\"."
+    },
+    {
+      "id": "270c4fd951fbbeb903642a34",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "753a7b0d6f9139238a5134ac",
+      "date": "2026-09-29",
+      "text": "Completed \"Git developer tool session\"."
+    },
+    {
+      "id": "90f104f5f48197818c9ea8fd",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "f4789eb5a9181318206f749d",
+      "date": "2026-09-29",
+      "text": "Completed \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "2c1f8f10bd2506f01b125abe",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "57f6098590886efa2247faf6",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "4e8e4d1e93c1a0b6f033a02d",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "2d665ddec8b01450ec4762f1",
+      "date": "2026-09-29",
+      "text": "Completed \"Personal website update\"."
+    },
+    {
+      "id": "2d14da786c8373b36e312da9",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "654d61881c826101e1f4e5c2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #3 - Contains Duplicate\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "28a713d95137e397e04580cb",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "96cee1d691c740c95c3d31c2",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "4bfa574cbce67860a5f88ea8",
+      "date": "2026-09-29",
+      "text": "Completed \"Update the Palana privacy policy\"."
+    },
+    {
+      "id": "5bb92e1bd500ea5ff4451fce",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "2b6a317aff80decf50b86d30",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "eea864a93e73eac74b063ead",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #4 - Product of Array Except Self\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "2cd2b778a00f692bad668d01",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "50a4cc1adc8c41340d13b1cf",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "066d72e7109928a54fb6ceb6",
+      "date": "2026-09-29",
+      "text": "Completed \"Git developer tool session\"."
+    },
+    {
+      "id": "1487263436769b29c9c9a6a6",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "e2f085545ff43b84650e7cec",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #5 - Maximum Subarray\" to \"LeetCode #53 - Maximum Subarray\"."
+    },
+    {
+      "id": "928e7d0e6f58f87da4f823dd",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "8e8ef801b9d287dc91d8ae01",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "e5a57a83fd7b9f75f415605c",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF: Check in with Roslyn on the task management site\"."
+    },
+    {
+      "id": "644d7414552bda41659d55ea",
+      "date": "2026-09-29",
+      "text": "Completed \"Check for upcoming interviews and prep any that are scheduled\"."
+    },
+    {
+      "id": "fb246dd5bee432bed6e1fc5a",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "3e0b49f566ee05c72019a671",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #6 - Maximum Product Subarray\" to \"LeetCode #152 - Maximum Product Subarray\"."
+    },
+    {
+      "id": "78116b4398ad817b80a70940",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "993c0eec8e480ab05435814a",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "c2b3905b881e0d87de33186f",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO budget: pull current numbers and list what changed\"."
+    },
+    {
+      "id": "75cc59f293c80bb2abf3cf7c",
+      "date": "2026-09-29",
+      "text": "Completed \"Prep for Matt meeting: review what I committed to last time\"."
+    },
+    {
+      "id": "6d4fcd938099a597d0e228d3",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "b16e308ea1e1cd656357b554",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "6ba548690e7cc6a427bc39cb",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "31659cbc1282160ffb878219",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "f1d0a0e29d538b7960e3a187",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "bbdfa6cc9e8351178abcddcb",
+      "date": "2026-09-29",
+      "text": "Completed \"Mentor meeting with Matt\"."
+    },
+    {
+      "id": "4d334cf64460227fcfca6d23",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "b95ec67ea096ea3b858cc2ae",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #8 - Search in Rotated Sorted Array\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "fa1a5324760261ee960ef56d",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "7c771c1e15d92b1787cee61c",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "92c11dea7d1b1f58ff3827a2",
+      "date": "2026-09-29",
+      "text": "Completed \"Git developer tool session\"."
+    },
+    {
+      "id": "d41b47345040d532e8d12f9c",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "d453a005dfee4b18fb5a79a2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #9 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "426dedc1db820ea9391cd488",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "a9c2f66d5c2fdca916faa07e",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "97bea44eeec3c65a9a7b1d6f",
+      "date": "2026-09-29",
+      "text": "Completed \"Security Hackathon prep (1 of 2)\"."
+    },
+    {
+      "id": "12472e3c322ed4e985508356",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO budget: update the sheet and send it out for review\"."
+    },
+    {
+      "id": "b552017883fe14af2df347bd",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "abaa73e595eabb78dfb96e53",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #10 - Container With Most Water\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "886b3546298500a945d89eee",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "a3df8868bdc4f6dfdad19bca",
+      "date": "2026-09-29",
+      "text": "Completed \"Threat modeling project work block\"."
+    },
+    {
+      "id": "60f4f92df2e7cd35169194ef",
+      "date": "2026-09-29",
+      "text": "Completed \"Security Hackathon prep (2 of 2)\"."
+    },
+    {
+      "id": "dfb1fd0fec9802339fa75f18",
+      "date": "2026-09-29",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "e130bf438dab726cb2fa212a",
+      "date": "2026-09-29",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "1f5296ed965acc38583b4de1",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #11 - Valid Palindrome\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "0588d6d2882cb0e372efde3f",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "318589a2a27721f0a1ce7452",
+      "date": "2026-09-29",
+      "text": "Completed \"DUE: Threat Modeling Project\"."
+    },
+    {
+      "id": "248b73a2d746f5610ae9b0c4",
+      "date": "2026-09-29",
+      "text": "Completed \"Git developer tool session\"."
+    },
+    {
+      "id": "79064af018db4f5cf01d463f",
+      "date": "2026-09-29",
+      "text": "Completed \"Security Hackathon — event day\"."
+    },
+    {
+      "id": "3955b8135c43a835c5e79df0",
+      "date": "2026-09-29",
+      "text": "Completed \"Kiro Hackathon prep (1 of 2)\"."
+    },
+    {
+      "id": "3ab03618af3204ef87eb7ec2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #12 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "50bfe6c6126e908eeb7d7b15",
+      "date": "2026-09-29",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "b084481326254f185d26acea",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #14 - Longest Repeating Character Replacement\" to \"LeetCode #424 - Longest Repeating Character Replacement\"."
+    },
+    {
+      "id": "3b8d6d6e2040416aea0d5afc",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #15 - Minimum Window Substring\" to \"LeetCode #76 - Minimum Window Substring\"."
+    },
+    {
+      "id": "786350d3783ee6b68ea24823",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #16 - Valid Anagram\" to \"LeetCode #242 - Valid Anagram\"."
+    },
+    {
+      "id": "659308191e42532eeddb1f8a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #17 - Group Anagrams\" to \"LeetCode #49 - Group Anagrams\"."
+    },
+    {
+      "id": "a4c8589880dae5efc823590a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters\" to \"LeetCode #3 - Longest Substring Without Repeating Characters\"."
+    },
+    {
+      "id": "74d145072dda6b22076153ea",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #3 - Longest Substring Without Repeating Characters\" from 2026-09-28 to 2026-10-02."
+    },
+    {
+      "id": "a85b0f500f1a065a736d45a0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #18 - Valid Parentheses\" to \"LeetCode #20 - Valid Parentheses\"."
+    },
+    {
+      "id": "af5096051aa87923964693b5",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #19 - Linked List Cycle\" to \"LeetCode #141 - Linked List Cycle\"."
+    },
+    {
+      "id": "6ac3adcdaaf7d121df66b93a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #20 - Reverse Linked List\" to \"LeetCode #206 - Reverse Linked List\"."
+    },
+    {
+      "id": "a7530ad4c880d51a8653cd90",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #21 - Merge Two Sorted Lists\" to \"LeetCode #21 - Merge Two Sorted Lists\"."
+    },
+    {
+      "id": "9229a9d7df8b60e9fee0b79e",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #21 - Merge Two Sorted Lists\" from 2026-10-06 to 2026-10-05."
+    },
+    {
+      "id": "77848c1091f871fe37bbd03b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #22 - Reorder List\" to \"LeetCode #143 - Reorder List\"."
+    },
+    {
+      "id": "385107a91f6693527d1c0049",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #23 - Remove Nth Node From End of List\" to \"LeetCode #19 - Remove Nth Node From End of List\"."
+    },
+    {
+      "id": "b045634329ab997f1c10ff33",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #19 - Remove Nth Node From End of List\" from 2026-10-08 to 2026-10-07."
+    },
+    {
+      "id": "1bc249d5e4df8e2bc51f22d8",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #24 - Merge k Sorted Lists\" to \"LeetCode #23 - Merge k Sorted Lists\"."
+    },
+    {
+      "id": "06ed2cc32a0c3aa02af72c6e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #25 - Linked List Cycle II\" to \"LeetCode #142 - Linked List Cycle II\"."
+    },
+    {
+      "id": "7c6fff4bcf8455a4e9420615",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #26 - Invert Binary Tree\" to \"LeetCode #226 - Invert Binary Tree\"."
+    },
+    {
+      "id": "8b2a698099e2968afe6947e4",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #27 - Maximum Depth of Binary Tree\" to \"LeetCode #104 - Maximum Depth of Binary Tree\"."
+    },
+    {
+      "id": "d06acfb6c520ef95d7fb00f2",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-05 to 2026-10-12."
+    },
+    {
+      "id": "f139fe1a5eac2bf9dc0b731e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #28 - Same Tree\" to \"LeetCode #100 - Same Tree\"."
+    },
+    {
+      "id": "949532a36dd657e554ce063f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #29 - Subtree of Another Tree\" to \"LeetCode #572 - Subtree of Another Tree\"."
+    },
+    {
+      "id": "1b3420a24311337492c11f19",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-07 to 2026-10-14."
+    },
+    {
+      "id": "f0122e8af1cabc89858de858",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree\" to \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\"."
+    },
+    {
+      "id": "73cc4ddcd922d62ca651dda0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #33 - Kth Smallest Element in a BST\" to \"LeetCode #230 - Kth Smallest Element in a BST\"."
+    },
+    {
+      "id": "8a0307b159f79d88011d4b41",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #230 - Kth Smallest Element in a BST\" from 2026-10-18 to 2026-10-15."
+    },
+    {
+      "id": "277b55da61df3bb7f5baa7ed",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #31 - Binary Tree Level Order Traversal\" to \"LeetCode #102 - Binary Tree Level Order Traversal\"."
+    },
+    {
+      "id": "90cf83617f7f4f3d30c756b0",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-10 to 2026-10-16."
+    },
+    {
+      "id": "e169b9817009170f6d2cd352",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #32 - Validate Binary Search Tree\" to \"LeetCode #98 - Validate Binary Search Tree\"."
+    },
+    {
+      "id": "8d510600631c4d7e54d884f4",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal\" to \"LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal\"."
+    },
+    {
+      "id": "d720371d074dc2655c008a3b",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-13 to 2026-10-19."
+    },
+    {
+      "id": "93bf985bc5c25d902b2a5031",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum\" to \"LeetCode #124 - Binary Tree Maximum Path Sum\"."
+    },
+    {
+      "id": "22a2de5d4ea0864b66e5082b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree\" to \"LeetCode #297 - Serialize and Deserialize Binary Tree\"."
+    },
+    {
+      "id": "9ecd219ea742ac36e61ef4bf",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-15 to 2026-10-21."
+    },
+    {
+      "id": "43aed2dec3c0ae345f15817d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #37 - Find Median from Data Stream\" to \"LeetCode #295 - Find Median from Data Stream\"."
+    },
+    {
+      "id": "2d82a1b741f193226acbda8d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #40 - Combination Sum\" to \"LeetCode #39 - Combination Sum\"."
+    },
+    {
+      "id": "b97d5407f256b60be73dbe9a",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #39 - Combination Sum\" from 2026-10-25 to 2026-10-22."
+    },
+    {
+      "id": "cbca7085ad426a896ed0ffcd",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #38 - Top K Frequent Elements\" to \"LeetCode #347 - Top K Frequent Elements\"."
+    },
+    {
+      "id": "52c10236cb3962b7b5272cf0",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-18 to 2026-10-23."
+    },
+    {
+      "id": "9b645d29744ed2bdb4eed443",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #39 - Kth Largest Element in an Array\" to \"LeetCode #215 - Kth Largest Element in an Array\"."
+    },
+    {
+      "id": "270650843e63a2dbf4939e68",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #41 - Word Search\" to \"LeetCode #79 - Word Search\"."
+    },
+    {
+      "id": "1bc893336e61a88186482d7f",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-20 to 2026-10-26."
+    },
+    {
+      "id": "568794477dc05d937f46002d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #42 - Clone Graph\" to \"LeetCode #133 - Clone Graph\"."
+    },
+    {
+      "id": "7faaeece6bab2a8b77f0ba24",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #43 - Course Schedule\" to \"LeetCode #207 - Course Schedule\"."
+    },
+    {
+      "id": "c5beed8fb5755d3a0e686540",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-22 to 2026-10-28."
+    },
+    {
+      "id": "24792fefbd327b16213def85",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #44 - Number of Islands\" to \"LeetCode #200 - Number of Islands\"."
+    },
+    {
+      "id": "340295d3e5afaf922d4a9f97",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph\" to \"LeetCode #323 - Number of Connected Components in an Undirected Graph\"."
+    },
+    {
+      "id": "ced7d27baaa304df8e134846",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #323 - Number of Connected Components in an Undirected Graph\" from 2026-11-01 to 2026-10-29."
+    },
+    {
+      "id": "2850400ac6fbda8b6cb52ef0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #45 - Pacific Atlantic Water Flow\" to \"LeetCode #417 - Pacific Atlantic Water Flow\"."
+    },
+    {
+      "id": "fde7bb28276261e849eca4c3",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-25 to 2026-10-30."
+    },
+    {
+      "id": "c9b11349e2e578cfc66ab5b2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #46 - Graph Valid Tree\" to \"LeetCode #261 - Graph Valid Tree\"."
+    },
+    {
+      "id": "92c4c857b783669ece1fb8b7",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #48 - Longest Consecutive Sequence\" to \"LeetCode #128 - Longest Consecutive Sequence\"."
+    },
+    {
+      "id": "b0db76d6d72f5eb0cb9c5708",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-27 to 2026-11-02."
+    },
+    {
+      "id": "3a586a66673557017c050c2a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #49 - Alien Dictionary\" to \"LeetCode #269 - Alien Dictionary\"."
+    },
+    {
+      "id": "59d15da5d14ab6253cf786be",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #50 - Set Matrix Zeroes\" to \"LeetCode #73 - Set Matrix Zeroes\"."
+    },
+    {
+      "id": "06ff1cdb7c5a5507ee802cf8",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-29 to 2026-11-04."
+    },
+    {
+      "id": "6ce38a149ee3d4e155319285",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #51 - Spiral Matrix\" to \"LeetCode #54 - Spiral Matrix\"."
+    },
+    {
+      "id": "6647232be39950800e865804",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #54 - Coin Change\" to \"LeetCode #322 - Coin Change\"."
+    },
+    {
+      "id": "f4526ceb1ac5502683801a48",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #322 - Coin Change\" from 2026-11-08 to 2026-11-05."
+    },
+    {
+      "id": "846d2e5d06b65ea00b0da8f9",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #52 - Rotate Image\" to \"LeetCode #48 - Rotate Image\"."
+    },
+    {
+      "id": "239c9ec943ea122355a0dcc7",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-01 to 2026-11-06."
+    },
+    {
+      "id": "bc345f8296b603a9ffaf348c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #53 - Climbing Stairs\" to \"LeetCode #70 - Climbing Stairs\"."
+    },
+    {
+      "id": "ff3791bd3179ef847b9a770d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #55 - Longest Increasing Subsequence\" to \"LeetCode #300 - Longest Increasing Subsequence\"."
+    },
+    {
+      "id": "1c61cf366482ea63282af37c",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-03 to 2026-11-09."
+    },
+    {
+      "id": "bb77bb3362c57460a93d6bcb",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #56 - Longest Common Subsequence\" to \"LeetCode #1143 - Longest Common Subsequence\"."
+    },
+    {
+      "id": "d836f4f7e13336f21d1c002a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #57 - Word Break\" to \"LeetCode #139 - Word Break\"."
+    },
+    {
+      "id": "d553a33ddedc67885a3cd88f",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-05 to 2026-11-11."
+    },
+    {
+      "id": "0102585815f31d96531a5ae7",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #58 - Combination Sum IV\" to \"LeetCode #377 - Combination Sum IV\"."
+    },
+    {
+      "id": "159e90d89a867281e0482200",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #61 - Decode Ways\" to \"LeetCode #91 - Decode Ways\"."
+    },
+    {
+      "id": "85ddb489d56cf8592b8efc29",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #91 - Decode Ways\" from 2026-11-15 to 2026-11-12."
+    },
+    {
+      "id": "806d74b8e5e8cf084f637201",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #59 - House Robber\" to \"LeetCode #198 - House Robber\"."
+    },
+    {
+      "id": "c2a6a7bf9fdeb15417624f25",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-08 to 2026-11-13."
+    },
+    {
+      "id": "e640448dcc9977a41bc3d668",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #60 - House Robber II\" to \"LeetCode #213 - House Robber II\"."
+    },
+    {
+      "id": "60a58b88eb65e527786674fa",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #62 - Unique Paths\" to \"LeetCode #62 - Unique Paths\"."
+    },
+    {
+      "id": "cb19a71c180829d6dd110865",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-10 to 2026-11-16."
+    },
+    {
+      "id": "da7294afc5093f42501f2840",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #63 - Jump Game\" to \"LeetCode #55 - Jump Game\"."
+    },
+    {
+      "id": "dd371f19a26b66dcd3fcc106",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #64 - House Robber III\" to \"LeetCode #337 - House Robber III\"."
+    },
+    {
+      "id": "8c815249e4c07466844aa792",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-12 to 2026-11-18."
+    },
+    {
+      "id": "f57de3bcf8bb9e6373de4a7f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #65 - Insert Interval\" to \"LeetCode #57 - Insert Interval\"."
+    },
+    {
+      "id": "a9236e3040d1f293550b7549",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #68 - Meeting Rooms\" to \"LeetCode #252 - Meeting Rooms\"."
+    },
+    {
+      "id": "e0d5ade16d7bfd389e0cdc34",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #252 - Meeting Rooms\" from 2026-11-22 to 2026-11-19."
+    },
+    {
+      "id": "0f6f983cb5e5c1bb494fb8fb",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #66 - Merge Intervals\" to \"LeetCode #56 - Merge Intervals\"."
+    },
+    {
+      "id": "1454c183b9ca735aab975bab",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-15 to 2026-11-20."
+    },
+    {
+      "id": "b220780c145ed9affb057ec0",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #67 - Non-overlapping Intervals\" to \"LeetCode #435 - Non-overlapping Intervals\"."
+    },
+    {
+      "id": "4a727c4320662f8c90e1dad7",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #69 - Meeting Rooms II\" to \"LeetCode #253 - Meeting Rooms II\"."
+    },
+    {
+      "id": "a2b384c8c70691a72fce6490",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-17 to 2026-11-23."
+    },
+    {
+      "id": "a52b4292cc6ad95b0602624b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #70 - Sum of Two Integers\" to \"LeetCode #371 - Sum of Two Integers\"."
+    },
+    {
+      "id": "525f8fc08abb9f136889204e",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #71 - Number of 1 Bits\" to \"LeetCode #191 - Number of 1 Bits\"."
+    },
+    {
+      "id": "1bafe0e395278303df5ebed9",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-19 to 2026-11-25."
+    },
+    {
+      "id": "7830ef37dc7a12254c72e8fa",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #72 - Counting Bits\" to \"LeetCode #338 - Counting Bits\"."
+    },
+    {
+      "id": "893bd810834b1ea5fdbbac7b",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #75 - Encode and Decode Strings\" to \"LeetCode #271 - Encode and Decode Strings\"."
+    },
+    {
+      "id": "c8be157f00ddf9078c850e59",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #271 - Encode and Decode Strings\" from 2026-11-29 to 2026-11-26."
+    },
+    {
+      "id": "8d2d92264d48f1d64099aaeb",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #73 - Reverse Bits\" to \"LeetCode #190 - Reverse Bits\"."
+    },
+    {
+      "id": "367edb65f0ef54ecd51db1f9",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-22 to 2026-11-27."
+    },
+    {
+      "id": "cd93b9c51d2e629b5e065301",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #74 - Missing Number\" to \"LeetCode #268 - Missing Number\"."
+    },
+    {
+      "id": "cc78a73d439f7ba864d4fc52",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #1 - Two Sum\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "0204ad8d7695dee2402feeb7",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-24 to 2026-11-30."
+    },
+    {
+      "id": "482a6575a7cddc548d5b4783",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "b99a8d2cf827d6a7767dfaae",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #3 - Contains Duplicate\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "69731ee299ae54d094e7395d",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-26 to 2026-12-02."
+    },
+    {
+      "id": "a342df5950c3cecc1f7e4602",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #4 - Product of Array Except Self\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "17028aa0db9b61cae3cf6a9a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "43978e1894b9d42babf5532e",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #153 - Find Minimum in Rotated Sorted Array\" from 2026-12-06 to 2026-12-03."
+    },
+    {
+      "id": "f44627efe450437fe20b9d4c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #5 - Maximum Subarray\" to \"LeetCode #53 - Maximum Subarray\"."
+    },
+    {
+      "id": "486b81ce603db9a3d7aa5490",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-29 to 2026-12-04."
+    },
+    {
+      "id": "a0ff99394ea48350118c89fb",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #6 - Maximum Product Subarray\" to \"LeetCode #152 - Maximum Product Subarray\"."
+    },
+    {
+      "id": "bb48bbaf02c62c5a2dceccd1",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #8 - Search in Rotated Sorted Array\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "22a7f63d2aa7c0b66d44eab8",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-01 to 2026-12-07."
+    },
+    {
+      "id": "1e2dccf8a722448289a7cb77",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #9 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "b6d9093bad20b7187a2922d8",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #10 - Container With Most Water\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "833282728d46f7c27dcebdb4",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-03 to 2026-12-09."
+    },
+    {
+      "id": "30fe217e85d4e72380f4f513",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #11 - Valid Palindrome\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "d69faf2342bfae8e9879ef06",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #14 - Longest Repeating Character Replacement\" to \"LeetCode #424 - Longest Repeating Character Replacement\"."
+    },
+    {
+      "id": "8d3fcc23ef7ca718d07820ec",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #424 - Longest Repeating Character Replacement\" from 2026-12-13 to 2026-12-10."
+    },
+    {
+      "id": "0112e29b78720d78dd940750",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #12 - 3Sum\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "32f6bd1e4f4a6332cdb044f1",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-06 to 2026-12-11."
+    },
+    {
+      "id": "ed1d5af087c551ff667bbdb6",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters\" to \"LeetCode #3 - Longest Substring Without Repeating Characters\"."
+    },
+    {
+      "id": "7d05aca76faa5c5cb1dda1ff",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #15 - Minimum Window Substring\" to \"LeetCode #76 - Minimum Window Substring\"."
+    },
+    {
+      "id": "5702ed8baf0cf02ef72aa145",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-08 to 2026-12-14."
+    },
+    {
+      "id": "c6f9bf492e65e39601953e05",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #16 - Valid Anagram\" to \"LeetCode #242 - Valid Anagram\"."
+    },
+    {
+      "id": "4cd183541f3058ebd702c70f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #17 - Group Anagrams\" to \"LeetCode #49 - Group Anagrams\"."
+    },
+    {
+      "id": "f719f2b026a4f5c280240bac",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-10 to 2026-12-16."
+    },
+    {
+      "id": "fdd3d03f7f92a1e3b991a42d",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #18 - Valid Parentheses\" to \"LeetCode #20 - Valid Parentheses\"."
+    },
+    {
+      "id": "b06b8bda8950dd016487f37f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #21 - Merge Two Sorted Lists\" to \"LeetCode #21 - Merge Two Sorted Lists\"."
+    },
+    {
+      "id": "d40ee63283ed3b13e0872134",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #21 - Merge Two Sorted Lists\" from 2026-12-20 to 2026-12-17."
+    },
+    {
+      "id": "64dc23aa77f390ada0644317",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #19 - Linked List Cycle\" to \"LeetCode #141 - Linked List Cycle\"."
+    },
+    {
+      "id": "47727eca65723cff071193e9",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-13 to 2026-12-18."
+    },
+    {
+      "id": "e486b154de09a31cfc8ec533",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #20 - Reverse Linked List\" to \"LeetCode #206 - Reverse Linked List\"."
+    },
+    {
+      "id": "a490169d02ed2d590c04ccb2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #22 - Reorder List\" to \"LeetCode #143 - Reorder List\"."
+    },
+    {
+      "id": "710dad28665bd62eb63e9744",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-15 to 2026-12-21."
+    },
+    {
+      "id": "d758bd43bd570e57d7bfe4a7",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #23 - Remove Nth Node From End of List\" to \"LeetCode #19 - Remove Nth Node From End of List\"."
+    },
+    {
+      "id": "07423b598b599bebd717c9c5",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #24 - Merge k Sorted Lists\" to \"LeetCode #23 - Merge k Sorted Lists\"."
+    },
+    {
+      "id": "01c48616f27051d0559bb7d1",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-17 to 2026-12-23."
+    },
+    {
+      "id": "27e9bc2d1ccd2c05e2bb22cf",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #25 - Linked List Cycle II\" to \"LeetCode #142 - Linked List Cycle II\"."
+    },
+    {
+      "id": "210c22b7d3e590cc194a5789",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #28 - Same Tree\" to \"LeetCode #100 - Same Tree\"."
+    },
+    {
+      "id": "653ec4740de8d68e8a5cad8d",
+      "date": "2026-09-29",
+      "text": "Moved \"LeetCode #100 - Same Tree\" from 2026-12-27 to 2026-12-24."
+    },
+    {
+      "id": "9fe1e9fdf85946c28a916428",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #26 - Invert Binary Tree\" to \"LeetCode #226 - Invert Binary Tree\"."
+    },
+    {
+      "id": "d3e1a5fa7e5c6093ebc22b89",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-20 to 2026-12-25."
+    },
+    {
+      "id": "a08adcbbcf322c9e5b78c77c",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #27 - Maximum Depth of Binary Tree\" to \"LeetCode #104 - Maximum Depth of Binary Tree\"."
+    },
+    {
+      "id": "dd88de525b329d227196b5b2",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #29 - Subtree of Another Tree\" to \"LeetCode #572 - Subtree of Another Tree\"."
+    },
+    {
+      "id": "75f1508ff754744fcb1e6ec4",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-22 to 2026-12-28."
+    },
+    {
+      "id": "a4698252fd7813b94ce35327",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree\" to \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\"."
+    },
+    {
+      "id": "42f590b7ce4c1b1bc3ca887f",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #31 - Binary Tree Level Order Traversal\" to \"LeetCode #102 - Binary Tree Level Order Traversal\"."
+    },
+    {
+      "id": "6aa8fd0ff226d9794d4549fd",
+      "date": "2026-09-29",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-24 to 2026-12-30."
+    },
+    {
+      "id": "eb72d995c4c4cbe027d62b0a",
+      "date": "2026-09-29",
+      "text": "Renamed task \"LeetCode Blind 75: #32 - Validate Binary Search Tree\" to \"LeetCode #98 - Validate Binary Search Tree\"."
+    },
+    {
+      "id": "e4fb43e233d26cae607f7c07",
+      "date": "2026-09-29",
+      "text": "Removed task \"AWS AI Practitioner Certification Exam (Part A)\"."
+    },
+    {
+      "id": "4dc02daa0dac02d92d240ac9",
+      "date": "2026-09-29",
+      "text": "Removed task \"AWS AI Practitioner Certification Exam (Part B)\"."
+    },
+    {
+      "id": "83bfb616b83b433f377f26ca",
+      "date": "2026-09-29",
+      "text": "Removed task \"CompTIA Security+ SY0-701 Certification Exam\"."
+    },
+    {
+      "id": "git:6aa6ca420f5a949dc64ea59bcd89db52bcdbc1e9",
+      "date": "2026-09-29",
+      "text": "Website update: feat: rollover, split cloud sync, assistant hardening, capacity rebalance, export and CSS cleanup."
     }
   ]
 }

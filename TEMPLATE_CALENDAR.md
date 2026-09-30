@@ -1362,3 +1362,385 @@
 - Removed task "Scanner: SQLi and XSS input fuzzer payloads injection (Part B) (Part A)".
 - Removed task "Scanner: SQLi and XSS input fuzzer payloads injection (Part B) (Part B)".
 - Removed task "Scanner: HTML reporting panel of discovered vulns".
+
+## September 29, 2026
+
+- Renamed task "LeetCode Blind 75: #1 - Two Sum" to "LeetCode #1 - Two Sum".
+- Renamed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Renamed task "LeetCode Blind 75: #3 - Contains Duplicate" to "LeetCode #217 - Contains Duplicate".
+- Renamed task "LeetCode Blind 75: #4 - Product of Array Except Self" to "LeetCode #238 - Product of Array Except Self".
+- Renamed task "LeetCode Blind 75: #5 - Maximum Subarray" to "LeetCode #53 - Maximum Subarray".
+- Renamed task "LeetCode Blind 75: #6 - Maximum Product Subarray" to "LeetCode #152 - Maximum Product Subarray".
+- Renamed task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Renamed task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Renamed task "LeetCode Blind 75: #9 - 3Sum" to "LeetCode #15 - 3Sum".
+- Renamed task "LeetCode Blind 75: #10 - Container With Most Water" to "LeetCode #11 - Container With Most Water".
+- Renamed task "LeetCode Blind 75: #11 - Valid Palindrome" to "LeetCode #125 - Valid Palindrome".
+- Renamed task "LeetCode Blind 75: #12 - 3Sum" to "LeetCode #15 - 3Sum".
+- Renamed task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters" to "LeetCode #3 - Longest Substring Without Repeating Characters".
+- Renamed task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement" to "LeetCode #424 - Longest Repeating Character Replacement".
+- Renamed task "LeetCode Blind 75: #15 - Minimum Window Substring" to "LeetCode #76 - Minimum Window Substring".
+- Renamed task "LeetCode Blind 75: #16 - Valid Anagram" to "LeetCode #242 - Valid Anagram".
+- Renamed task "LeetCode Blind 75: #17 - Group Anagrams" to "LeetCode #49 - Group Anagrams".
+- Renamed task "LeetCode Blind 75: #18 - Valid Parentheses" to "LeetCode #20 - Valid Parentheses".
+- Renamed task "LeetCode Blind 75: #19 - Linked List Cycle" to "LeetCode #141 - Linked List Cycle".
+- Renamed task "LeetCode Blind 75: #20 - Reverse Linked List" to "LeetCode #206 - Reverse Linked List".
+- Renamed task "LeetCode Blind 75: #21 - Merge Two Sorted Lists" to "LeetCode #21 - Merge Two Sorted Lists".
+- Renamed task "LeetCode Blind 75: #22 - Reorder List" to "LeetCode #143 - Reorder List".
+- Renamed task "LeetCode Blind 75: #23 - Remove Nth Node From End of List" to "LeetCode #19 - Remove Nth Node From End of List".
+- Renamed task "LeetCode Blind 75: #24 - Merge k Sorted Lists" to "LeetCode #23 - Merge k Sorted Lists".
+- Renamed task "LeetCode Blind 75: #25 - Linked List Cycle II" to "LeetCode #142 - Linked List Cycle II".
+- Renamed task "LeetCode Blind 75: #26 - Invert Binary Tree" to "LeetCode #226 - Invert Binary Tree".
+- Renamed task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree" to "LeetCode #104 - Maximum Depth of Binary Tree".
+- Renamed task "LeetCode Blind 75: #28 - Same Tree" to "LeetCode #100 - Same Tree".
+- Renamed task "LeetCode Blind 75: #29 - Subtree of Another Tree" to "LeetCode #572 - Subtree of Another Tree".
+- Renamed task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree" to "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal" to "LeetCode #102 - Binary Tree Level Order Traversal".
+- Renamed task "LeetCode Blind 75: #32 - Validate Binary Search Tree" to "LeetCode #98 - Validate Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST" to "LeetCode #230 - Kth Smallest Element in a BST".
+- Renamed task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal" to "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Renamed task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum" to "LeetCode #124 - Binary Tree Maximum Path Sum".
+- Renamed task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree" to "LeetCode #297 - Serialize and Deserialize Binary Tree".
+- Renamed task "LeetCode Blind 75: #37 - Find Median from Data Stream" to "LeetCode #295 - Find Median from Data Stream".
+- Renamed task "LeetCode Blind 75: #38 - Top K Frequent Elements" to "LeetCode #347 - Top K Frequent Elements".
+- Renamed task "LeetCode Blind 75: #39 - Kth Largest Element in an Array" to "LeetCode #215 - Kth Largest Element in an Array".
+- Renamed task "LeetCode Blind 75: #40 - Combination Sum" to "LeetCode #39 - Combination Sum".
+- Renamed task "LeetCode Blind 75: #41 - Word Search" to "LeetCode #79 - Word Search".
+- Renamed task "LeetCode Blind 75: #42 - Clone Graph" to "LeetCode #133 - Clone Graph".
+- Renamed task "LeetCode Blind 75: #43 - Course Schedule" to "LeetCode #207 - Course Schedule".
+- Renamed task "LeetCode Blind 75: #44 - Number of Islands" to "LeetCode #200 - Number of Islands".
+- Renamed task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow" to "LeetCode #417 - Pacific Atlantic Water Flow".
+- Renamed task "LeetCode Blind 75: #46 - Graph Valid Tree" to "LeetCode #261 - Graph Valid Tree".
+- Renamed task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph" to "LeetCode #323 - Number of Connected Components in an Undirected Graph".
+- Renamed task "LeetCode Blind 75: #48 - Longest Consecutive Sequence" to "LeetCode #128 - Longest Consecutive Sequence".
+- Renamed task "LeetCode Blind 75: #49 - Alien Dictionary" to "LeetCode #269 - Alien Dictionary".
+- Renamed task "LeetCode Blind 75: #50 - Set Matrix Zeroes" to "LeetCode #73 - Set Matrix Zeroes".
+- Renamed task "LeetCode Blind 75: #51 - Spiral Matrix" to "LeetCode #54 - Spiral Matrix".
+- Renamed task "LeetCode Blind 75: #52 - Rotate Image" to "LeetCode #48 - Rotate Image".
+- Renamed task "LeetCode Blind 75: #53 - Climbing Stairs" to "LeetCode #70 - Climbing Stairs".
+- Renamed task "LeetCode Blind 75: #54 - Coin Change" to "LeetCode #322 - Coin Change".
+- Renamed task "LeetCode Blind 75: #55 - Longest Increasing Subsequence" to "LeetCode #300 - Longest Increasing Subsequence".
+- Renamed task "LeetCode Blind 75: #56 - Longest Common Subsequence" to "LeetCode #1143 - Longest Common Subsequence".
+- Renamed task "LeetCode Blind 75: #57 - Word Break" to "LeetCode #139 - Word Break".
+- Renamed task "LeetCode Blind 75: #58 - Combination Sum IV" to "LeetCode #377 - Combination Sum IV".
+- Renamed task "LeetCode Blind 75: #59 - House Robber" to "LeetCode #198 - House Robber".
+- Renamed task "LeetCode Blind 75: #60 - House Robber II" to "LeetCode #213 - House Robber II".
+- Renamed task "LeetCode Blind 75: #61 - Decode Ways" to "LeetCode #91 - Decode Ways".
+- Renamed task "LeetCode Blind 75: #62 - Unique Paths" to "LeetCode #62 - Unique Paths".
+- Renamed task "LeetCode Blind 75: #63 - Jump Game" to "LeetCode #55 - Jump Game".
+- Renamed task "LeetCode Blind 75: #64 - House Robber III" to "LeetCode #337 - House Robber III".
+- Renamed task "LeetCode Blind 75: #65 - Insert Interval" to "LeetCode #57 - Insert Interval".
+- Renamed task "LeetCode Blind 75: #66 - Merge Intervals" to "LeetCode #56 - Merge Intervals".
+- Renamed task "LeetCode Blind 75: #67 - Non-overlapping Intervals" to "LeetCode #435 - Non-overlapping Intervals".
+- Renamed task "LeetCode Blind 75: #68 - Meeting Rooms" to "LeetCode #252 - Meeting Rooms".
+- Renamed task "LeetCode Blind 75: #69 - Meeting Rooms II" to "LeetCode #253 - Meeting Rooms II".
+- Renamed task "LeetCode Blind 75: #70 - Sum of Two Integers" to "LeetCode #371 - Sum of Two Integers".
+- Renamed task "LeetCode Blind 75: #71 - Number of 1 Bits" to "LeetCode #191 - Number of 1 Bits".
+- Renamed task "LeetCode Blind 75: #72 - Counting Bits" to "LeetCode #338 - Counting Bits".
+- Renamed task "LeetCode Blind 75: #73 - Reverse Bits" to "LeetCode #190 - Reverse Bits".
+- Renamed task "LeetCode Blind 75: #74 - Missing Number" to "LeetCode #268 - Missing Number".
+- Renamed task "LeetCode Blind 75: #75 - Encode and Decode Strings" to "LeetCode #271 - Encode and Decode Strings".
+- Renamed task "LeetCode Blind 75: #1 - Two Sum" to "LeetCode #1 - Two Sum".
+- Added task "AWS AI Practitioner Certification Exam".
+- Added task "AWS AI Practitioner Certification Exam".
+- Renamed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Renamed task "LeetCode Blind 75: #3 - Contains Duplicate" to "LeetCode #217 - Contains Duplicate".
+- Renamed task "LeetCode Blind 75: #4 - Product of Array Except Self" to "LeetCode #238 - Product of Array Except Self".
+- Renamed task "LeetCode Blind 75: #5 - Maximum Subarray" to "LeetCode #53 - Maximum Subarray".
+- Renamed task "LeetCode Blind 75: #6 - Maximum Product Subarray" to "LeetCode #152 - Maximum Product Subarray".
+- Renamed task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Renamed task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Renamed task "LeetCode Blind 75: #9 - 3Sum" to "LeetCode #15 - 3Sum".
+- Renamed task "LeetCode Blind 75: #10 - Container With Most Water" to "LeetCode #11 - Container With Most Water".
+- Renamed task "LeetCode Blind 75: #11 - Valid Palindrome" to "LeetCode #125 - Valid Palindrome".
+- Renamed task "LeetCode Blind 75: #1 - Two Sum" to "LeetCode #1 - Two Sum".
+- Renamed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Renamed task "LeetCode Blind 75: #3 - Contains Duplicate" to "LeetCode #217 - Contains Duplicate".
+- Renamed task "LeetCode Blind 75: #4 - Product of Array Except Self" to "LeetCode #238 - Product of Array Except Self".
+- Renamed task "LeetCode Blind 75: #5 - Maximum Subarray" to "LeetCode #53 - Maximum Subarray".
+- Renamed task "LeetCode Blind 75: #6 - Maximum Product Subarray" to "LeetCode #152 - Maximum Product Subarray".
+- Renamed task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Renamed task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Renamed task "LeetCode Blind 75: #9 - 3Sum" to "LeetCode #15 - 3Sum".
+- Renamed task "LeetCode Blind 75: #10 - Container With Most Water" to "LeetCode #11 - Container With Most Water".
+- Renamed task "LeetCode Blind 75: #11 - Valid Palindrome" to "LeetCode #125 - Valid Palindrome".
+- Renamed task "LeetCode Blind 75: #12 - 3Sum" to "LeetCode #15 - 3Sum".
+- Renamed task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters" to "LeetCode #3 - Longest Substring Without Repeating Characters".
+- Renamed task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement" to "LeetCode #424 - Longest Repeating Character Replacement".
+- Renamed task "LeetCode Blind 75: #15 - Minimum Window Substring" to "LeetCode #76 - Minimum Window Substring".
+- Renamed task "LeetCode Blind 75: #16 - Valid Anagram" to "LeetCode #242 - Valid Anagram".
+- Renamed task "LeetCode Blind 75: #17 - Group Anagrams" to "LeetCode #49 - Group Anagrams".
+- Renamed task "LeetCode Blind 75: #18 - Valid Parentheses" to "LeetCode #20 - Valid Parentheses".
+- Renamed task "LeetCode Blind 75: #19 - Linked List Cycle" to "LeetCode #141 - Linked List Cycle".
+- Renamed task "LeetCode Blind 75: #20 - Reverse Linked List" to "LeetCode #206 - Reverse Linked List".
+- Renamed task "LeetCode Blind 75: #21 - Merge Two Sorted Lists" to "LeetCode #21 - Merge Two Sorted Lists".
+- Renamed task "LeetCode Blind 75: #22 - Reorder List" to "LeetCode #143 - Reorder List".
+- Renamed task "LeetCode Blind 75: #23 - Remove Nth Node From End of List" to "LeetCode #19 - Remove Nth Node From End of List".
+- Renamed task "LeetCode Blind 75: #24 - Merge k Sorted Lists" to "LeetCode #23 - Merge k Sorted Lists".
+- Renamed task "LeetCode Blind 75: #25 - Linked List Cycle II" to "LeetCode #142 - Linked List Cycle II".
+- Renamed task "LeetCode Blind 75: #26 - Invert Binary Tree" to "LeetCode #226 - Invert Binary Tree".
+- Renamed task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree" to "LeetCode #104 - Maximum Depth of Binary Tree".
+- Renamed task "LeetCode Blind 75: #28 - Same Tree" to "LeetCode #100 - Same Tree".
+- Renamed task "LeetCode Blind 75: #29 - Subtree of Another Tree" to "LeetCode #572 - Subtree of Another Tree".
+- Renamed task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree" to "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal" to "LeetCode #102 - Binary Tree Level Order Traversal".
+- Renamed task "LeetCode Blind 75: #32 - Validate Binary Search Tree" to "LeetCode #98 - Validate Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST" to "LeetCode #230 - Kth Smallest Element in a BST".
+- Renamed task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal" to "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Renamed task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum" to "LeetCode #124 - Binary Tree Maximum Path Sum".
+- Renamed task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree" to "LeetCode #297 - Serialize and Deserialize Binary Tree".
+- Renamed task "LeetCode Blind 75: #37 - Find Median from Data Stream" to "LeetCode #295 - Find Median from Data Stream".
+- Renamed task "LeetCode Blind 75: #38 - Top K Frequent Elements" to "LeetCode #347 - Top K Frequent Elements".
+- Renamed task "LeetCode Blind 75: #39 - Kth Largest Element in an Array" to "LeetCode #215 - Kth Largest Element in an Array".
+- Renamed task "LeetCode Blind 75: #40 - Combination Sum" to "LeetCode #39 - Combination Sum".
+- Renamed task "LeetCode Blind 75: #41 - Word Search" to "LeetCode #79 - Word Search".
+- Renamed task "LeetCode Blind 75: #42 - Clone Graph" to "LeetCode #133 - Clone Graph".
+- Renamed task "LeetCode Blind 75: #43 - Course Schedule" to "LeetCode #207 - Course Schedule".
+- Renamed task "LeetCode Blind 75: #44 - Number of Islands" to "LeetCode #200 - Number of Islands".
+- Renamed task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow" to "LeetCode #417 - Pacific Atlantic Water Flow".
+- Renamed task "LeetCode Blind 75: #46 - Graph Valid Tree" to "LeetCode #261 - Graph Valid Tree".
+- Renamed task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph" to "LeetCode #323 - Number of Connected Components in an Undirected Graph".
+- Renamed task "LeetCode Blind 75: #48 - Longest Consecutive Sequence" to "LeetCode #128 - Longest Consecutive Sequence".
+- Renamed task "LeetCode Blind 75: #49 - Alien Dictionary" to "LeetCode #269 - Alien Dictionary".
+- Renamed task "LeetCode Blind 75: #50 - Set Matrix Zeroes" to "LeetCode #73 - Set Matrix Zeroes".
+- Renamed task "LeetCode Blind 75: #51 - Spiral Matrix" to "LeetCode #54 - Spiral Matrix".
+- Renamed task "LeetCode Blind 75: #52 - Rotate Image" to "LeetCode #48 - Rotate Image".
+- Renamed task "LeetCode Blind 75: #53 - Climbing Stairs" to "LeetCode #70 - Climbing Stairs".
+- Renamed task "LeetCode Blind 75: #54 - Coin Change" to "LeetCode #322 - Coin Change".
+- Renamed task "LeetCode Blind 75: #55 - Longest Increasing Subsequence" to "LeetCode #300 - Longest Increasing Subsequence".
+- Renamed task "LeetCode Blind 75: #56 - Longest Common Subsequence" to "LeetCode #1143 - Longest Common Subsequence".
+- Renamed task "LeetCode Blind 75: #57 - Word Break" to "LeetCode #139 - Word Break".
+- Renamed task "LeetCode Blind 75: #58 - Combination Sum IV" to "LeetCode #377 - Combination Sum IV".
+- Renamed task "LeetCode Blind 75: #59 - House Robber" to "LeetCode #198 - House Robber".
+- Renamed task "LeetCode Blind 75: #60 - House Robber II" to "LeetCode #213 - House Robber II".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "LeetCode #91 - Decode Ways".
+- Renamed task "LeetCode Blind 75: #61 - Decode Ways" to "LeetCode #91 - Decode Ways".
+- Completed "LeetCode #62 - Unique Paths".
+- Renamed task "LeetCode Blind 75: #62 - Unique Paths" to "LeetCode #62 - Unique Paths".
+- Completed "Palana Security — Threat modeling".
+- Completed "WINFO Meeting".
+- Completed "WINFO: Check reimbursements".
+- Completed "WINFO: Check open grants & scholarships".
+- Completed "AHF Work (Tech Lead Duties)".
+- Completed "LeetCode #55 - Jump Game".
+- Renamed task "LeetCode Blind 75: #63 - Jump Game" to "LeetCode #55 - Jump Game".
+- Completed "LeetCode #337 - House Robber III".
+- Renamed task "LeetCode Blind 75: #64 - House Robber III" to "LeetCode #337 - House Robber III".
+- Completed "Palana Security — Threat modeling".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #1 - Two Sum".
+- Renamed task "LeetCode Blind 75: #1 - Two Sum" to "LeetCode #1 - Two Sum".
+- Completed "AHF work (tech lead duties)".
+- Completed "CompTIA Security+ final review".
+- Completed "Threat modeling project work block".
+- Completed "Git developer tool session".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Renamed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "Personal website update".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #3 - Contains Duplicate" to "LeetCode #217 - Contains Duplicate".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "Update the Palana privacy policy".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #4 - Product of Array Except Self" to "LeetCode #238 - Product of Array Except Self".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "Git developer tool session".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #5 - Maximum Subarray" to "LeetCode #53 - Maximum Subarray".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "AHF: Check in with Roslyn on the task management site".
+- Completed "Check for upcoming interviews and prep any that are scheduled".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #6 - Maximum Product Subarray" to "LeetCode #152 - Maximum Product Subarray".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "WINFO budget: pull current numbers and list what changed".
+- Completed "Prep for Matt meeting: review what I committed to last time".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Mentor meeting with Matt".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "Git developer tool session".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #9 - 3Sum" to "LeetCode #15 - 3Sum".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "Security Hackathon prep (1 of 2)".
+- Completed "WINFO budget: update the sheet and send it out for review".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #10 - Container With Most Water" to "LeetCode #11 - Container With Most Water".
+- Completed "AHF work (tech lead duties)".
+- Completed "Threat modeling project work block".
+- Completed "Security Hackathon prep (2 of 2)".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Job applications (5 today)".
+- Renamed task "LeetCode Blind 75: #11 - Valid Palindrome" to "LeetCode #125 - Valid Palindrome".
+- Completed "AHF work (tech lead duties)".
+- Completed "DUE: Threat Modeling Project".
+- Completed "Git developer tool session".
+- Completed "Security Hackathon — event day".
+- Completed "Kiro Hackathon prep (1 of 2)".
+- Renamed task "LeetCode Blind 75: #12 - 3Sum" to "LeetCode #15 - 3Sum".
+- Completed "AHF work (tech lead duties)".
+- Renamed task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement" to "LeetCode #424 - Longest Repeating Character Replacement".
+- Renamed task "LeetCode Blind 75: #15 - Minimum Window Substring" to "LeetCode #76 - Minimum Window Substring".
+- Renamed task "LeetCode Blind 75: #16 - Valid Anagram" to "LeetCode #242 - Valid Anagram".
+- Renamed task "LeetCode Blind 75: #17 - Group Anagrams" to "LeetCode #49 - Group Anagrams".
+- Renamed task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters" to "LeetCode #3 - Longest Substring Without Repeating Characters".
+- Moved "LeetCode #3 - Longest Substring Without Repeating Characters" from 2026-09-28 to 2026-10-02.
+- Renamed task "LeetCode Blind 75: #18 - Valid Parentheses" to "LeetCode #20 - Valid Parentheses".
+- Renamed task "LeetCode Blind 75: #19 - Linked List Cycle" to "LeetCode #141 - Linked List Cycle".
+- Renamed task "LeetCode Blind 75: #20 - Reverse Linked List" to "LeetCode #206 - Reverse Linked List".
+- Renamed task "LeetCode Blind 75: #21 - Merge Two Sorted Lists" to "LeetCode #21 - Merge Two Sorted Lists".
+- Moved "LeetCode #21 - Merge Two Sorted Lists" from 2026-10-06 to 2026-10-05.
+- Renamed task "LeetCode Blind 75: #22 - Reorder List" to "LeetCode #143 - Reorder List".
+- Renamed task "LeetCode Blind 75: #23 - Remove Nth Node From End of List" to "LeetCode #19 - Remove Nth Node From End of List".
+- Moved "LeetCode #19 - Remove Nth Node From End of List" from 2026-10-08 to 2026-10-07.
+- Renamed task "LeetCode Blind 75: #24 - Merge k Sorted Lists" to "LeetCode #23 - Merge k Sorted Lists".
+- Renamed task "LeetCode Blind 75: #25 - Linked List Cycle II" to "LeetCode #142 - Linked List Cycle II".
+- Renamed task "LeetCode Blind 75: #26 - Invert Binary Tree" to "LeetCode #226 - Invert Binary Tree".
+- Renamed task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree" to "LeetCode #104 - Maximum Depth of Binary Tree".
+- Moved "Job applications (5 today)" from 2026-10-05 to 2026-10-12.
+- Renamed task "LeetCode Blind 75: #28 - Same Tree" to "LeetCode #100 - Same Tree".
+- Renamed task "LeetCode Blind 75: #29 - Subtree of Another Tree" to "LeetCode #572 - Subtree of Another Tree".
+- Moved "Job applications (5 today)" from 2026-10-07 to 2026-10-14.
+- Renamed task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree" to "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #33 - Kth Smallest Element in a BST" to "LeetCode #230 - Kth Smallest Element in a BST".
+- Moved "LeetCode #230 - Kth Smallest Element in a BST" from 2026-10-18 to 2026-10-15.
+- Renamed task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal" to "LeetCode #102 - Binary Tree Level Order Traversal".
+- Moved "Job applications (5 today)" from 2026-10-10 to 2026-10-16.
+- Renamed task "LeetCode Blind 75: #32 - Validate Binary Search Tree" to "LeetCode #98 - Validate Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal" to "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Moved "Job applications (5 today)" from 2026-10-13 to 2026-10-19.
+- Renamed task "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum" to "LeetCode #124 - Binary Tree Maximum Path Sum".
+- Renamed task "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree" to "LeetCode #297 - Serialize and Deserialize Binary Tree".
+- Moved "Job applications (5 today)" from 2026-10-15 to 2026-10-21.
+- Renamed task "LeetCode Blind 75: #37 - Find Median from Data Stream" to "LeetCode #295 - Find Median from Data Stream".
+- Renamed task "LeetCode Blind 75: #40 - Combination Sum" to "LeetCode #39 - Combination Sum".
+- Moved "LeetCode #39 - Combination Sum" from 2026-10-25 to 2026-10-22.
+- Renamed task "LeetCode Blind 75: #38 - Top K Frequent Elements" to "LeetCode #347 - Top K Frequent Elements".
+- Moved "Job applications (5 today)" from 2026-10-18 to 2026-10-23.
+- Renamed task "LeetCode Blind 75: #39 - Kth Largest Element in an Array" to "LeetCode #215 - Kth Largest Element in an Array".
+- Renamed task "LeetCode Blind 75: #41 - Word Search" to "LeetCode #79 - Word Search".
+- Moved "Job applications (5 today)" from 2026-10-20 to 2026-10-26.
+- Renamed task "LeetCode Blind 75: #42 - Clone Graph" to "LeetCode #133 - Clone Graph".
+- Renamed task "LeetCode Blind 75: #43 - Course Schedule" to "LeetCode #207 - Course Schedule".
+- Moved "Job applications (5 today)" from 2026-10-22 to 2026-10-28.
+- Renamed task "LeetCode Blind 75: #44 - Number of Islands" to "LeetCode #200 - Number of Islands".
+- Renamed task "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph" to "LeetCode #323 - Number of Connected Components in an Undirected Graph".
+- Moved "LeetCode #323 - Number of Connected Components in an Undirected Graph" from 2026-11-01 to 2026-10-29.
+- Renamed task "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow" to "LeetCode #417 - Pacific Atlantic Water Flow".
+- Moved "Job applications (5 today)" from 2026-10-25 to 2026-10-30.
+- Renamed task "LeetCode Blind 75: #46 - Graph Valid Tree" to "LeetCode #261 - Graph Valid Tree".
+- Renamed task "LeetCode Blind 75: #48 - Longest Consecutive Sequence" to "LeetCode #128 - Longest Consecutive Sequence".
+- Moved "Job applications (5 today)" from 2026-10-27 to 2026-11-02.
+- Renamed task "LeetCode Blind 75: #49 - Alien Dictionary" to "LeetCode #269 - Alien Dictionary".
+- Renamed task "LeetCode Blind 75: #50 - Set Matrix Zeroes" to "LeetCode #73 - Set Matrix Zeroes".
+- Moved "Job applications (5 today)" from 2026-10-29 to 2026-11-04.
+- Renamed task "LeetCode Blind 75: #51 - Spiral Matrix" to "LeetCode #54 - Spiral Matrix".
+- Renamed task "LeetCode Blind 75: #54 - Coin Change" to "LeetCode #322 - Coin Change".
+- Moved "LeetCode #322 - Coin Change" from 2026-11-08 to 2026-11-05.
+- Renamed task "LeetCode Blind 75: #52 - Rotate Image" to "LeetCode #48 - Rotate Image".
+- Moved "Job applications (5 today)" from 2026-11-01 to 2026-11-06.
+- Renamed task "LeetCode Blind 75: #53 - Climbing Stairs" to "LeetCode #70 - Climbing Stairs".
+- Renamed task "LeetCode Blind 75: #55 - Longest Increasing Subsequence" to "LeetCode #300 - Longest Increasing Subsequence".
+- Moved "Job applications (5 today)" from 2026-11-03 to 2026-11-09.
+- Renamed task "LeetCode Blind 75: #56 - Longest Common Subsequence" to "LeetCode #1143 - Longest Common Subsequence".
+- Renamed task "LeetCode Blind 75: #57 - Word Break" to "LeetCode #139 - Word Break".
+- Moved "Job applications (5 today)" from 2026-11-05 to 2026-11-11.
+- Renamed task "LeetCode Blind 75: #58 - Combination Sum IV" to "LeetCode #377 - Combination Sum IV".
+- Renamed task "LeetCode Blind 75: #61 - Decode Ways" to "LeetCode #91 - Decode Ways".
+- Moved "LeetCode #91 - Decode Ways" from 2026-11-15 to 2026-11-12.
+- Renamed task "LeetCode Blind 75: #59 - House Robber" to "LeetCode #198 - House Robber".
+- Moved "Job applications (5 today)" from 2026-11-08 to 2026-11-13.
+- Renamed task "LeetCode Blind 75: #60 - House Robber II" to "LeetCode #213 - House Robber II".
+- Renamed task "LeetCode Blind 75: #62 - Unique Paths" to "LeetCode #62 - Unique Paths".
+- Moved "Job applications (5 today)" from 2026-11-10 to 2026-11-16.
+- Renamed task "LeetCode Blind 75: #63 - Jump Game" to "LeetCode #55 - Jump Game".
+- Renamed task "LeetCode Blind 75: #64 - House Robber III" to "LeetCode #337 - House Robber III".
+- Moved "Job applications (5 today)" from 2026-11-12 to 2026-11-18.
+- Renamed task "LeetCode Blind 75: #65 - Insert Interval" to "LeetCode #57 - Insert Interval".
+- Renamed task "LeetCode Blind 75: #68 - Meeting Rooms" to "LeetCode #252 - Meeting Rooms".
+- Moved "LeetCode #252 - Meeting Rooms" from 2026-11-22 to 2026-11-19.
+- Renamed task "LeetCode Blind 75: #66 - Merge Intervals" to "LeetCode #56 - Merge Intervals".
+- Moved "Job applications (5 today)" from 2026-11-15 to 2026-11-20.
+- Renamed task "LeetCode Blind 75: #67 - Non-overlapping Intervals" to "LeetCode #435 - Non-overlapping Intervals".
+- Renamed task "LeetCode Blind 75: #69 - Meeting Rooms II" to "LeetCode #253 - Meeting Rooms II".
+- Moved "Job applications (5 today)" from 2026-11-17 to 2026-11-23.
+- Renamed task "LeetCode Blind 75: #70 - Sum of Two Integers" to "LeetCode #371 - Sum of Two Integers".
+- Renamed task "LeetCode Blind 75: #71 - Number of 1 Bits" to "LeetCode #191 - Number of 1 Bits".
+- Moved "Job applications (5 today)" from 2026-11-19 to 2026-11-25.
+- Renamed task "LeetCode Blind 75: #72 - Counting Bits" to "LeetCode #338 - Counting Bits".
+- Renamed task "LeetCode Blind 75: #75 - Encode and Decode Strings" to "LeetCode #271 - Encode and Decode Strings".
+- Moved "LeetCode #271 - Encode and Decode Strings" from 2026-11-29 to 2026-11-26.
+- Renamed task "LeetCode Blind 75: #73 - Reverse Bits" to "LeetCode #190 - Reverse Bits".
+- Moved "Job applications (5 today)" from 2026-11-22 to 2026-11-27.
+- Renamed task "LeetCode Blind 75: #74 - Missing Number" to "LeetCode #268 - Missing Number".
+- Renamed task "LeetCode Blind 75: #1 - Two Sum" to "LeetCode #1 - Two Sum".
+- Moved "Job applications (5 today)" from 2026-11-24 to 2026-11-30.
+- Renamed task "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Renamed task "LeetCode Blind 75: #3 - Contains Duplicate" to "LeetCode #217 - Contains Duplicate".
+- Moved "Job applications (5 today)" from 2026-11-26 to 2026-12-02.
+- Renamed task "LeetCode Blind 75: #4 - Product of Array Except Self" to "LeetCode #238 - Product of Array Except Self".
+- Renamed task "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Moved "LeetCode #153 - Find Minimum in Rotated Sorted Array" from 2026-12-06 to 2026-12-03.
+- Renamed task "LeetCode Blind 75: #5 - Maximum Subarray" to "LeetCode #53 - Maximum Subarray".
+- Moved "Job applications (5 today)" from 2026-11-29 to 2026-12-04.
+- Renamed task "LeetCode Blind 75: #6 - Maximum Product Subarray" to "LeetCode #152 - Maximum Product Subarray".
+- Renamed task "LeetCode Blind 75: #8 - Search in Rotated Sorted Array" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Moved "Job applications (5 today)" from 2026-12-01 to 2026-12-07.
+- Renamed task "LeetCode Blind 75: #9 - 3Sum" to "LeetCode #15 - 3Sum".
+- Renamed task "LeetCode Blind 75: #10 - Container With Most Water" to "LeetCode #11 - Container With Most Water".
+- Moved "Job applications (5 today)" from 2026-12-03 to 2026-12-09.
+- Renamed task "LeetCode Blind 75: #11 - Valid Palindrome" to "LeetCode #125 - Valid Palindrome".
+- Renamed task "LeetCode Blind 75: #14 - Longest Repeating Character Replacement" to "LeetCode #424 - Longest Repeating Character Replacement".
+- Moved "LeetCode #424 - Longest Repeating Character Replacement" from 2026-12-13 to 2026-12-10.
+- Renamed task "LeetCode Blind 75: #12 - 3Sum" to "LeetCode #15 - 3Sum".
+- Moved "Job applications (5 today)" from 2026-12-06 to 2026-12-11.
+- Renamed task "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters" to "LeetCode #3 - Longest Substring Without Repeating Characters".
+- Renamed task "LeetCode Blind 75: #15 - Minimum Window Substring" to "LeetCode #76 - Minimum Window Substring".
+- Moved "Job applications (5 today)" from 2026-12-08 to 2026-12-14.
+- Renamed task "LeetCode Blind 75: #16 - Valid Anagram" to "LeetCode #242 - Valid Anagram".
+- Renamed task "LeetCode Blind 75: #17 - Group Anagrams" to "LeetCode #49 - Group Anagrams".
+- Moved "Job applications (5 today)" from 2026-12-10 to 2026-12-16.
+- Renamed task "LeetCode Blind 75: #18 - Valid Parentheses" to "LeetCode #20 - Valid Parentheses".
+- Renamed task "LeetCode Blind 75: #21 - Merge Two Sorted Lists" to "LeetCode #21 - Merge Two Sorted Lists".
+- Moved "LeetCode #21 - Merge Two Sorted Lists" from 2026-12-20 to 2026-12-17.
+- Renamed task "LeetCode Blind 75: #19 - Linked List Cycle" to "LeetCode #141 - Linked List Cycle".
+- Moved "Job applications (5 today)" from 2026-12-13 to 2026-12-18.
+- Renamed task "LeetCode Blind 75: #20 - Reverse Linked List" to "LeetCode #206 - Reverse Linked List".
+- Renamed task "LeetCode Blind 75: #22 - Reorder List" to "LeetCode #143 - Reorder List".
+- Moved "Job applications (5 today)" from 2026-12-15 to 2026-12-21.
+- Renamed task "LeetCode Blind 75: #23 - Remove Nth Node From End of List" to "LeetCode #19 - Remove Nth Node From End of List".
+- Renamed task "LeetCode Blind 75: #24 - Merge k Sorted Lists" to "LeetCode #23 - Merge k Sorted Lists".
+- Moved "Job applications (5 today)" from 2026-12-17 to 2026-12-23.
+- Renamed task "LeetCode Blind 75: #25 - Linked List Cycle II" to "LeetCode #142 - Linked List Cycle II".
+- Renamed task "LeetCode Blind 75: #28 - Same Tree" to "LeetCode #100 - Same Tree".
+- Moved "LeetCode #100 - Same Tree" from 2026-12-27 to 2026-12-24.
+- Renamed task "LeetCode Blind 75: #26 - Invert Binary Tree" to "LeetCode #226 - Invert Binary Tree".
+- Moved "Job applications (5 today)" from 2026-12-20 to 2026-12-25.
+- Renamed task "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree" to "LeetCode #104 - Maximum Depth of Binary Tree".
+- Renamed task "LeetCode Blind 75: #29 - Subtree of Another Tree" to "LeetCode #572 - Subtree of Another Tree".
+- Moved "Job applications (5 today)" from 2026-12-22 to 2026-12-28.
+- Renamed task "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree" to "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree".
+- Renamed task "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal" to "LeetCode #102 - Binary Tree Level Order Traversal".
+- Moved "Job applications (5 today)" from 2026-12-24 to 2026-12-30.
+- Renamed task "LeetCode Blind 75: #32 - Validate Binary Search Tree" to "LeetCode #98 - Validate Binary Search Tree".
+- Removed task "AWS AI Practitioner Certification Exam (Part A)".
+- Removed task "AWS AI Practitioner Certification Exam (Part B)".
+- Removed task "CompTIA Security+ SY0-701 Certification Exam".
+- Website update: feat: rollover, split cloud sync, assistant hardening, capacity rebalance, export and CSS cleanup.

@@ -2,9 +2,9 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-09-27T23:56:37.408Z",
-  "firestoreUpdatedAt": "2026-09-22T21:10:33.832Z",
-  "sourceHead": "e02e65002402571096fe769c4ee86d9f0366729f",
+  "lastCheckedAt": "2026-09-30T01:00:37.371Z",
+  "firestoreUpdatedAt": "2026-09-28T21:26:50.274Z",
+  "sourceHead": "6aa6ca420f5a949dc64ea59bcd89db52bcdbc1e9",
   "tasks": {
     "2026-06-13_ahf": {
       "id": "2026-06-13_ahf",
@@ -35,7 +35,7 @@
     },
     "2026-06-13_leetcode_backfill_1": {
       "id": "2026-06-13_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #1 - Two Sum",
+      "title": "LeetCode #1 - Two Sum",
       "date": "2026-06-13",
       "completed": true,
       "skipped": false,
@@ -44,7 +44,7 @@
     },
     "2026-06-13_leetcode_backfill_2": {
       "id": "2026-06-13_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock",
+      "title": "LeetCode #121 - Best Time to Buy and Sell Stock",
       "date": "2026-06-13",
       "completed": true,
       "skipped": false,
@@ -71,7 +71,7 @@
     },
     "2026-06-14_leetcode_backfill_1": {
       "id": "2026-06-14_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #3 - Contains Duplicate",
+      "title": "LeetCode #217 - Contains Duplicate",
       "date": "2026-06-14",
       "completed": true,
       "skipped": false,
@@ -80,7 +80,7 @@
     },
     "2026-06-14_leetcode_backfill_2": {
       "id": "2026-06-14_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #4 - Product of Array Except Self",
+      "title": "LeetCode #238 - Product of Array Except Self",
       "date": "2026-06-14",
       "completed": true,
       "skipped": false,
@@ -197,7 +197,7 @@
     },
     "2026-06-15_leetcode_backfill_1": {
       "id": "2026-06-15_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #5 - Maximum Subarray",
+      "title": "LeetCode #53 - Maximum Subarray",
       "date": "2026-06-15",
       "completed": true,
       "skipped": false,
@@ -206,7 +206,7 @@
     },
     "2026-06-15_leetcode_backfill_2": {
       "id": "2026-06-15_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #6 - Maximum Product Subarray",
+      "title": "LeetCode #152 - Maximum Product Subarray",
       "date": "2026-06-15",
       "completed": true,
       "skipped": false,
@@ -287,7 +287,7 @@
     },
     "2026-06-16_leetcode_backfill_1": {
       "id": "2026-06-16_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array",
+      "title": "LeetCode #153 - Find Minimum in Rotated Sorted Array",
       "date": "2026-06-16",
       "completed": true,
       "skipped": false,
@@ -296,7 +296,7 @@
     },
     "2026-06-16_leetcode_backfill_2": {
       "id": "2026-06-16_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #8 - Search in Rotated Sorted Array",
+      "title": "LeetCode #33 - Search in Rotated Sorted Array",
       "date": "2026-06-16",
       "completed": true,
       "skipped": false,
@@ -368,7 +368,7 @@
     },
     "2026-06-17_leetcode_backfill_1": {
       "id": "2026-06-17_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #9 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-06-17",
       "completed": true,
       "skipped": false,
@@ -377,7 +377,7 @@
     },
     "2026-06-17_leetcode_backfill_2": {
       "id": "2026-06-17_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #10 - Container With Most Water",
+      "title": "LeetCode #11 - Container With Most Water",
       "date": "2026-06-17",
       "completed": true,
       "skipped": false,
@@ -431,7 +431,7 @@
     },
     "2026-06-18_leetcode_backfill_1": {
       "id": "2026-06-18_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #11 - Valid Palindrome",
+      "title": "LeetCode #125 - Valid Palindrome",
       "date": "2026-06-18",
       "completed": true,
       "skipped": false,
@@ -440,7 +440,7 @@
     },
     "2026-06-18_leetcode_backfill_2": {
       "id": "2026-06-18_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #12 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-06-18",
       "completed": true,
       "skipped": false,
@@ -512,7 +512,7 @@
     },
     "2026-06-19_leetcode_backfill_1": {
       "id": "2026-06-19_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters",
+      "title": "LeetCode #3 - Longest Substring Without Repeating Characters",
       "date": "2026-06-19",
       "completed": true,
       "skipped": false,
@@ -521,7 +521,7 @@
     },
     "2026-06-19_leetcode_backfill_2": {
       "id": "2026-06-19_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #14 - Longest Repeating Character Replacement",
+      "title": "LeetCode #424 - Longest Repeating Character Replacement",
       "date": "2026-06-19",
       "completed": true,
       "skipped": false,
@@ -566,7 +566,7 @@
     },
     "2026-06-20_leetcode_backfill_1": {
       "id": "2026-06-20_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #15 - Minimum Window Substring",
+      "title": "LeetCode #76 - Minimum Window Substring",
       "date": "2026-06-20",
       "completed": true,
       "skipped": false,
@@ -575,7 +575,7 @@
     },
     "2026-06-20_leetcode_backfill_2": {
       "id": "2026-06-20_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #16 - Valid Anagram",
+      "title": "LeetCode #242 - Valid Anagram",
       "date": "2026-06-20",
       "completed": true,
       "skipped": false,
@@ -638,7 +638,7 @@
     },
     "2026-06-21_leetcode_backfill_1": {
       "id": "2026-06-21_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #17 - Group Anagrams",
+      "title": "LeetCode #49 - Group Anagrams",
       "date": "2026-06-21",
       "completed": true,
       "skipped": false,
@@ -647,7 +647,7 @@
     },
     "2026-06-21_leetcode_backfill_2": {
       "id": "2026-06-21_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #18 - Valid Parentheses",
+      "title": "LeetCode #20 - Valid Parentheses",
       "date": "2026-06-21",
       "completed": true,
       "skipped": false,
@@ -728,7 +728,7 @@
     },
     "2026-06-22_leetcode_backfill_1": {
       "id": "2026-06-22_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #19 - Linked List Cycle",
+      "title": "LeetCode #141 - Linked List Cycle",
       "date": "2026-06-22",
       "completed": true,
       "skipped": false,
@@ -737,7 +737,7 @@
     },
     "2026-06-22_leetcode_backfill_2": {
       "id": "2026-06-22_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #20 - Reverse Linked List",
+      "title": "LeetCode #206 - Reverse Linked List",
       "date": "2026-06-22",
       "completed": true,
       "skipped": false,
@@ -827,7 +827,7 @@
     },
     "2026-06-23_leetcode_backfill_1": {
       "id": "2026-06-23_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #21 - Merge Two Sorted Lists",
+      "title": "LeetCode #21 - Merge Two Sorted Lists",
       "date": "2026-06-23",
       "completed": true,
       "skipped": false,
@@ -836,7 +836,7 @@
     },
     "2026-06-23_leetcode_backfill_2": {
       "id": "2026-06-23_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #22 - Reorder List",
+      "title": "LeetCode #143 - Reorder List",
       "date": "2026-06-23",
       "completed": true,
       "skipped": false,
@@ -890,7 +890,7 @@
     },
     "2026-06-24_leetcode_backfill_1": {
       "id": "2026-06-24_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #23 - Remove Nth Node From End of List",
+      "title": "LeetCode #19 - Remove Nth Node From End of List",
       "date": "2026-06-24",
       "completed": true,
       "skipped": false,
@@ -899,7 +899,7 @@
     },
     "2026-06-24_leetcode_backfill_2": {
       "id": "2026-06-24_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #24 - Merge k Sorted Lists",
+      "title": "LeetCode #23 - Merge k Sorted Lists",
       "date": "2026-06-24",
       "completed": true,
       "skipped": false,
@@ -917,7 +917,7 @@
     },
     "2026-06-25_leetcode_backfill_1": {
       "id": "2026-06-25_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #25 - Linked List Cycle II",
+      "title": "LeetCode #142 - Linked List Cycle II",
       "date": "2026-06-25",
       "completed": true,
       "skipped": false,
@@ -926,7 +926,7 @@
     },
     "2026-06-25_leetcode_backfill_2": {
       "id": "2026-06-25_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #26 - Invert Binary Tree",
+      "title": "LeetCode #226 - Invert Binary Tree",
       "date": "2026-06-25",
       "completed": true,
       "skipped": false,
@@ -944,7 +944,7 @@
     },
     "2026-06-26_leetcode_backfill_1": {
       "id": "2026-06-26_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree",
+      "title": "LeetCode #104 - Maximum Depth of Binary Tree",
       "date": "2026-06-26",
       "completed": true,
       "skipped": false,
@@ -953,7 +953,7 @@
     },
     "2026-06-26_leetcode_backfill_2": {
       "id": "2026-06-26_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #28 - Same Tree",
+      "title": "LeetCode #100 - Same Tree",
       "date": "2026-06-26",
       "completed": true,
       "skipped": false,
@@ -971,7 +971,7 @@
     },
     "2026-06-27_leetcode_backfill_1": {
       "id": "2026-06-27_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #29 - Subtree of Another Tree",
+      "title": "LeetCode #572 - Subtree of Another Tree",
       "date": "2026-06-27",
       "completed": true,
       "skipped": false,
@@ -980,7 +980,7 @@
     },
     "2026-06-27_leetcode_backfill_2": {
       "id": "2026-06-27_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree",
+      "title": "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree",
       "date": "2026-06-27",
       "completed": true,
       "skipped": false,
@@ -1007,7 +1007,7 @@
     },
     "2026-06-28_leetcode_backfill_1": {
       "id": "2026-06-28_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal",
+      "title": "LeetCode #102 - Binary Tree Level Order Traversal",
       "date": "2026-06-28",
       "completed": true,
       "skipped": false,
@@ -1016,7 +1016,7 @@
     },
     "2026-06-28_leetcode_backfill_2": {
       "id": "2026-06-28_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #32 - Validate Binary Search Tree",
+      "title": "LeetCode #98 - Validate Binary Search Tree",
       "date": "2026-06-28",
       "completed": true,
       "skipped": false,
@@ -1070,7 +1070,7 @@
     },
     "2026-06-29_leetcode_backfill_1": {
       "id": "2026-06-29_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #33 - Kth Smallest Element in a BST",
+      "title": "LeetCode #230 - Kth Smallest Element in a BST",
       "date": "2026-06-29",
       "completed": true,
       "skipped": false,
@@ -1079,7 +1079,7 @@
     },
     "2026-06-29_leetcode_backfill_2": {
       "id": "2026-06-29_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal",
+      "title": "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal",
       "date": "2026-06-29",
       "completed": true,
       "skipped": false,
@@ -1106,7 +1106,7 @@
     },
     "2026-06-30_leetcode_backfill_1": {
       "id": "2026-06-30_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum",
+      "title": "LeetCode #124 - Binary Tree Maximum Path Sum",
       "date": "2026-06-30",
       "completed": true,
       "skipped": false,
@@ -1115,7 +1115,7 @@
     },
     "2026-06-30_leetcode_backfill_2": {
       "id": "2026-06-30_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree",
+      "title": "LeetCode #297 - Serialize and Deserialize Binary Tree",
       "date": "2026-06-30",
       "completed": true,
       "skipped": false,
@@ -1142,7 +1142,7 @@
     },
     "2026-07-01_leetcode_backfill_1": {
       "id": "2026-07-01_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #37 - Find Median from Data Stream",
+      "title": "LeetCode #295 - Find Median from Data Stream",
       "date": "2026-07-01",
       "completed": true,
       "skipped": false,
@@ -1151,7 +1151,7 @@
     },
     "2026-07-01_leetcode_backfill_2": {
       "id": "2026-07-01_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #38 - Top K Frequent Elements",
+      "title": "LeetCode #347 - Top K Frequent Elements",
       "date": "2026-07-01",
       "completed": true,
       "skipped": false,
@@ -1169,7 +1169,7 @@
     },
     "2026-07-02_leetcode_backfill_1": {
       "id": "2026-07-02_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #39 - Kth Largest Element in an Array",
+      "title": "LeetCode #215 - Kth Largest Element in an Array",
       "date": "2026-07-02",
       "completed": true,
       "skipped": false,
@@ -1178,7 +1178,7 @@
     },
     "2026-07-02_leetcode_backfill_2": {
       "id": "2026-07-02_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #40 - Combination Sum",
+      "title": "LeetCode #39 - Combination Sum",
       "date": "2026-07-02",
       "completed": true,
       "skipped": false,
@@ -1196,7 +1196,7 @@
     },
     "2026-07-03_leetcode_backfill_1": {
       "id": "2026-07-03_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #41 - Word Search",
+      "title": "LeetCode #79 - Word Search",
       "date": "2026-07-03",
       "completed": true,
       "skipped": false,
@@ -1205,7 +1205,7 @@
     },
     "2026-07-03_leetcode_backfill_2": {
       "id": "2026-07-03_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #42 - Clone Graph",
+      "title": "LeetCode #133 - Clone Graph",
       "date": "2026-07-03",
       "completed": true,
       "skipped": false,
@@ -1223,7 +1223,7 @@
     },
     "2026-07-04_leetcode_backfill_1": {
       "id": "2026-07-04_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #43 - Course Schedule",
+      "title": "LeetCode #207 - Course Schedule",
       "date": "2026-07-04",
       "completed": true,
       "skipped": false,
@@ -1232,7 +1232,7 @@
     },
     "2026-07-04_leetcode_backfill_2": {
       "id": "2026-07-04_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #44 - Number of Islands",
+      "title": "LeetCode #200 - Number of Islands",
       "date": "2026-07-04",
       "completed": true,
       "skipped": false,
@@ -1259,7 +1259,7 @@
     },
     "2026-07-05_leetcode_backfill_1": {
       "id": "2026-07-05_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow",
+      "title": "LeetCode #417 - Pacific Atlantic Water Flow",
       "date": "2026-07-05",
       "completed": true,
       "skipped": false,
@@ -1268,7 +1268,7 @@
     },
     "2026-07-05_leetcode_backfill_2": {
       "id": "2026-07-05_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #46 - Graph Valid Tree",
+      "title": "LeetCode #261 - Graph Valid Tree",
       "date": "2026-07-05",
       "completed": true,
       "skipped": false,
@@ -1295,7 +1295,7 @@
     },
     "2026-07-06_leetcode_backfill_1": {
       "id": "2026-07-06_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph",
+      "title": "LeetCode #323 - Number of Connected Components in an Undirected Graph",
       "date": "2026-07-06",
       "completed": true,
       "skipped": false,
@@ -1304,7 +1304,7 @@
     },
     "2026-07-06_leetcode_backfill_2": {
       "id": "2026-07-06_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #48 - Longest Consecutive Sequence",
+      "title": "LeetCode #128 - Longest Consecutive Sequence",
       "date": "2026-07-06",
       "completed": true,
       "skipped": false,
@@ -1322,7 +1322,7 @@
     },
     "2026-07-07_leetcode_backfill_1": {
       "id": "2026-07-07_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #49 - Alien Dictionary",
+      "title": "LeetCode #269 - Alien Dictionary",
       "date": "2026-07-07",
       "completed": true,
       "skipped": false,
@@ -1331,7 +1331,7 @@
     },
     "2026-07-07_leetcode_backfill_2": {
       "id": "2026-07-07_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #50 - Set Matrix Zeroes",
+      "title": "LeetCode #73 - Set Matrix Zeroes",
       "date": "2026-07-07",
       "completed": true,
       "skipped": false,
@@ -1349,7 +1349,7 @@
     },
     "2026-07-08_leetcode_backfill_1": {
       "id": "2026-07-08_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #51 - Spiral Matrix",
+      "title": "LeetCode #54 - Spiral Matrix",
       "date": "2026-07-08",
       "completed": true,
       "skipped": false,
@@ -1358,7 +1358,7 @@
     },
     "2026-07-08_leetcode_backfill_2": {
       "id": "2026-07-08_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #52 - Rotate Image",
+      "title": "LeetCode #48 - Rotate Image",
       "date": "2026-07-08",
       "completed": true,
       "skipped": false,
@@ -1421,7 +1421,7 @@
     },
     "2026-07-09_leetcode_backfill_1": {
       "id": "2026-07-09_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #53 - Climbing Stairs",
+      "title": "LeetCode #70 - Climbing Stairs",
       "date": "2026-07-09",
       "completed": true,
       "skipped": false,
@@ -1430,7 +1430,7 @@
     },
     "2026-07-09_leetcode_backfill_2": {
       "id": "2026-07-09_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #54 - Coin Change",
+      "title": "LeetCode #322 - Coin Change",
       "date": "2026-07-09",
       "completed": true,
       "skipped": false,
@@ -1493,7 +1493,7 @@
     },
     "2026-07-10_leetcode_backfill_1": {
       "id": "2026-07-10_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #55 - Longest Increasing Subsequence",
+      "title": "LeetCode #300 - Longest Increasing Subsequence",
       "date": "2026-07-10",
       "completed": true,
       "skipped": false,
@@ -1502,7 +1502,7 @@
     },
     "2026-07-10_leetcode_backfill_2": {
       "id": "2026-07-10_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #56 - Longest Common Subsequence",
+      "title": "LeetCode #1143 - Longest Common Subsequence",
       "date": "2026-07-10",
       "completed": true,
       "skipped": false,
@@ -1547,7 +1547,7 @@
     },
     "2026-07-11_leetcode_backfill_1": {
       "id": "2026-07-11_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #57 - Word Break",
+      "title": "LeetCode #139 - Word Break",
       "date": "2026-07-11",
       "completed": true,
       "skipped": false,
@@ -1556,7 +1556,7 @@
     },
     "2026-07-11_leetcode_backfill_2": {
       "id": "2026-07-11_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #58 - Combination Sum IV",
+      "title": "LeetCode #377 - Combination Sum IV",
       "date": "2026-07-11",
       "completed": true,
       "skipped": false,
@@ -1583,7 +1583,7 @@
     },
     "2026-07-12_leetcode_backfill_1": {
       "id": "2026-07-12_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #59 - House Robber",
+      "title": "LeetCode #198 - House Robber",
       "date": "2026-07-12",
       "completed": true,
       "skipped": false,
@@ -1592,7 +1592,7 @@
     },
     "2026-07-12_leetcode_backfill_2": {
       "id": "2026-07-12_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #60 - House Robber II",
+      "title": "LeetCode #213 - House Robber II",
       "date": "2026-07-12",
       "completed": true,
       "skipped": false,
@@ -1655,7 +1655,7 @@
     },
     "2026-07-13_leetcode_backfill_1": {
       "id": "2026-07-13_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #61 - Decode Ways",
+      "title": "LeetCode #91 - Decode Ways",
       "date": "2026-07-13",
       "completed": true,
       "skipped": false,
@@ -1664,7 +1664,7 @@
     },
     "2026-07-13_leetcode_backfill_2": {
       "id": "2026-07-13_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #62 - Unique Paths",
+      "title": "LeetCode #62 - Unique Paths",
       "date": "2026-07-13",
       "completed": true,
       "skipped": false,
@@ -1736,7 +1736,7 @@
     },
     "2026-07-14_leetcode_backfill_1": {
       "id": "2026-07-14_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #63 - Jump Game",
+      "title": "LeetCode #55 - Jump Game",
       "date": "2026-07-14",
       "completed": true,
       "skipped": false,
@@ -1745,7 +1745,7 @@
     },
     "2026-07-14_leetcode_backfill_2": {
       "id": "2026-07-14_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #64 - House Robber III",
+      "title": "LeetCode #337 - House Robber III",
       "date": "2026-07-14",
       "completed": true,
       "skipped": false,
@@ -1808,7 +1808,7 @@
     },
     "2026-07-15_leetcode_backfill_1": {
       "id": "2026-07-15_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #65 - Insert Interval",
+      "title": "LeetCode #57 - Insert Interval",
       "date": "2026-07-15",
       "completed": true,
       "skipped": false,
@@ -1817,7 +1817,7 @@
     },
     "2026-07-15_leetcode_backfill_2": {
       "id": "2026-07-15_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #66 - Merge Intervals",
+      "title": "LeetCode #56 - Merge Intervals",
       "date": "2026-07-15",
       "completed": true,
       "skipped": false,
@@ -1871,7 +1871,7 @@
     },
     "2026-07-16_leetcode_backfill_1": {
       "id": "2026-07-16_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #67 - Non-overlapping Intervals",
+      "title": "LeetCode #435 - Non-overlapping Intervals",
       "date": "2026-07-16",
       "completed": true,
       "skipped": false,
@@ -1880,7 +1880,7 @@
     },
     "2026-07-16_leetcode_backfill_2": {
       "id": "2026-07-16_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #68 - Meeting Rooms",
+      "title": "LeetCode #252 - Meeting Rooms",
       "date": "2026-07-16",
       "completed": true,
       "skipped": false,
@@ -1943,7 +1943,7 @@
     },
     "2026-07-17_leetcode_backfill_1": {
       "id": "2026-07-17_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #69 - Meeting Rooms II",
+      "title": "LeetCode #253 - Meeting Rooms II",
       "date": "2026-07-17",
       "completed": true,
       "skipped": false,
@@ -1952,7 +1952,7 @@
     },
     "2026-07-17_leetcode_backfill_2": {
       "id": "2026-07-17_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #70 - Sum of Two Integers",
+      "title": "LeetCode #371 - Sum of Two Integers",
       "date": "2026-07-17",
       "completed": true,
       "skipped": false,
@@ -1986,18 +1986,9 @@
       "duration": 1.5,
       "category": "aws"
     },
-    "2026-07-18_curr_30_aws_p1": {
-      "id": "2026-07-18_curr_30_aws_p1",
-      "title": "AWS AI Practitioner Certification Exam (Part A)",
-      "date": "2026-07-18",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.5,
-      "category": "aws"
-    },
     "2026-07-18_leetcode_backfill_1": {
       "id": "2026-07-18_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #71 - Number of 1 Bits",
+      "title": "LeetCode #191 - Number of 1 Bits",
       "date": "2026-07-18",
       "completed": true,
       "skipped": false,
@@ -2006,7 +1997,7 @@
     },
     "2026-07-18_leetcode_backfill_2": {
       "id": "2026-07-18_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #72 - Counting Bits",
+      "title": "LeetCode #338 - Counting Bits",
       "date": "2026-07-18",
       "completed": true,
       "skipped": false,
@@ -2033,7 +2024,7 @@
     },
     "2026-07-19_leetcode_backfill_1": {
       "id": "2026-07-19_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #73 - Reverse Bits",
+      "title": "LeetCode #190 - Reverse Bits",
       "date": "2026-07-19",
       "completed": true,
       "skipped": false,
@@ -2042,7 +2033,7 @@
     },
     "2026-07-19_leetcode_backfill_2": {
       "id": "2026-07-19_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #74 - Missing Number",
+      "title": "LeetCode #268 - Missing Number",
       "date": "2026-07-19",
       "completed": true,
       "skipped": false,
@@ -2085,18 +2076,9 @@
       "duration": 1,
       "category": "mentor"
     },
-    "2026-07-20_curr_30_aws": {
-      "id": "2026-07-20_curr_30_aws",
-      "title": "AWS AI Practitioner Certification Exam (Part B)",
-      "date": "2026-07-20",
-      "completed": false,
-      "skipped": false,
-      "duration": 1,
-      "category": "aws"
-    },
     "2026-07-20_leetcode_backfill_1": {
       "id": "2026-07-20_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #75 - Encode and Decode Strings",
+      "title": "LeetCode #271 - Encode and Decode Strings",
       "date": "2026-07-20",
       "completed": true,
       "skipped": false,
@@ -2105,12 +2087,30 @@
     },
     "2026-07-20_leetcode_backfill_2": {
       "id": "2026-07-20_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #1 - Two Sum",
+      "title": "LeetCode #1 - Two Sum",
       "date": "2026-07-20",
       "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "leetcode"
+    },
+    "2026-07-20_curr_0_aws": {
+      "id": "2026-07-20_curr_0_aws",
+      "title": "AWS AI Practitioner Certification Exam",
+      "date": "2026-07-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "aws"
+    },
+    "2026-07-20_curr_1_aws": {
+      "id": "2026-07-20_curr_1_aws",
+      "title": "AWS AI Practitioner Certification Exam",
+      "date": "2026-07-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 1,
+      "category": "aws"
     },
     "2026-07-21_ahf_0": {
       "id": "2026-07-21_ahf_0",
@@ -2168,7 +2168,7 @@
     },
     "2026-07-21_leetcode_backfill_1": {
       "id": "2026-07-21_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock",
+      "title": "LeetCode #121 - Best Time to Buy and Sell Stock",
       "date": "2026-07-21",
       "completed": true,
       "skipped": false,
@@ -2177,7 +2177,7 @@
     },
     "2026-07-21_leetcode_backfill_2": {
       "id": "2026-07-21_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #3 - Contains Duplicate",
+      "title": "LeetCode #217 - Contains Duplicate",
       "date": "2026-07-21",
       "completed": true,
       "skipped": false,
@@ -2204,7 +2204,7 @@
     },
     "2026-07-22_leetcode_backfill_1": {
       "id": "2026-07-22_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #4 - Product of Array Except Self",
+      "title": "LeetCode #238 - Product of Array Except Self",
       "date": "2026-07-22",
       "completed": true,
       "skipped": false,
@@ -2213,7 +2213,7 @@
     },
     "2026-07-22_leetcode_backfill_2": {
       "id": "2026-07-22_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #5 - Maximum Subarray",
+      "title": "LeetCode #53 - Maximum Subarray",
       "date": "2026-07-22",
       "completed": true,
       "skipped": false,
@@ -2240,7 +2240,7 @@
     },
     "2026-07-23_leetcode_backfill_1": {
       "id": "2026-07-23_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #6 - Maximum Product Subarray",
+      "title": "LeetCode #152 - Maximum Product Subarray",
       "date": "2026-07-23",
       "completed": true,
       "skipped": false,
@@ -2249,7 +2249,7 @@
     },
     "2026-07-23_leetcode_backfill_2": {
       "id": "2026-07-23_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array",
+      "title": "LeetCode #153 - Find Minimum in Rotated Sorted Array",
       "date": "2026-07-23",
       "completed": true,
       "skipped": false,
@@ -2276,7 +2276,7 @@
     },
     "2026-07-24_leetcode_backfill_1": {
       "id": "2026-07-24_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #8 - Search in Rotated Sorted Array",
+      "title": "LeetCode #33 - Search in Rotated Sorted Array",
       "date": "2026-07-24",
       "completed": true,
       "skipped": false,
@@ -2285,7 +2285,7 @@
     },
     "2026-07-24_leetcode_backfill_2": {
       "id": "2026-07-24_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #9 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-07-24",
       "completed": true,
       "skipped": false,
@@ -2303,7 +2303,7 @@
     },
     "2026-07-25_leetcode_backfill_1": {
       "id": "2026-07-25_leetcode_backfill_1",
-      "title": "LeetCode Blind 75: #10 - Container With Most Water",
+      "title": "LeetCode #11 - Container With Most Water",
       "date": "2026-07-25",
       "completed": true,
       "skipped": false,
@@ -2312,7 +2312,7 @@
     },
     "2026-07-25_leetcode_backfill_2": {
       "id": "2026-07-25_leetcode_backfill_2",
-      "title": "LeetCode Blind 75: #11 - Valid Palindrome",
+      "title": "LeetCode #125 - Valid Palindrome",
       "date": "2026-07-25",
       "completed": true,
       "skipped": false,
@@ -2330,7 +2330,7 @@
     },
     "2026-07-26_leetcode_1": {
       "id": "2026-07-26_leetcode_1",
-      "title": "LeetCode Blind 75: #1 - Two Sum",
+      "title": "LeetCode #1 - Two Sum",
       "date": "2026-07-26",
       "completed": true,
       "skipped": false,
@@ -2339,7 +2339,7 @@
     },
     "2026-07-26_leetcode_2": {
       "id": "2026-07-26_leetcode_2",
-      "title": "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock",
+      "title": "LeetCode #121 - Best Time to Buy and Sell Stock",
       "date": "2026-07-26",
       "completed": true,
       "skipped": false,
@@ -2366,7 +2366,7 @@
     },
     "2026-07-27_leetcode_1": {
       "id": "2026-07-27_leetcode_1",
-      "title": "LeetCode Blind 75: #3 - Contains Duplicate",
+      "title": "LeetCode #217 - Contains Duplicate",
       "date": "2026-07-27",
       "completed": true,
       "skipped": false,
@@ -2375,7 +2375,7 @@
     },
     "2026-07-27_leetcode_2": {
       "id": "2026-07-27_leetcode_2",
-      "title": "LeetCode Blind 75: #4 - Product of Array Except Self",
+      "title": "LeetCode #238 - Product of Array Except Self",
       "date": "2026-07-27",
       "completed": true,
       "skipped": false,
@@ -2447,7 +2447,7 @@
     },
     "2026-07-28_leetcode_1": {
       "id": "2026-07-28_leetcode_1",
-      "title": "LeetCode Blind 75: #5 - Maximum Subarray",
+      "title": "LeetCode #53 - Maximum Subarray",
       "date": "2026-07-28",
       "completed": true,
       "skipped": false,
@@ -2456,7 +2456,7 @@
     },
     "2026-07-28_leetcode_2": {
       "id": "2026-07-28_leetcode_2",
-      "title": "LeetCode Blind 75: #6 - Maximum Product Subarray",
+      "title": "LeetCode #152 - Maximum Product Subarray",
       "date": "2026-07-28",
       "completed": true,
       "skipped": false,
@@ -2528,7 +2528,7 @@
     },
     "2026-07-29_leetcode_1": {
       "id": "2026-07-29_leetcode_1",
-      "title": "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array",
+      "title": "LeetCode #153 - Find Minimum in Rotated Sorted Array",
       "date": "2026-07-29",
       "completed": true,
       "skipped": false,
@@ -2537,7 +2537,7 @@
     },
     "2026-07-29_leetcode_2": {
       "id": "2026-07-29_leetcode_2",
-      "title": "LeetCode Blind 75: #8 - Search in Rotated Sorted Array",
+      "title": "LeetCode #33 - Search in Rotated Sorted Array",
       "date": "2026-07-29",
       "completed": true,
       "skipped": false,
@@ -2573,7 +2573,7 @@
     },
     "2026-07-30_leetcode_1": {
       "id": "2026-07-30_leetcode_1",
-      "title": "LeetCode Blind 75: #9 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-07-30",
       "completed": true,
       "skipped": false,
@@ -2582,7 +2582,7 @@
     },
     "2026-07-30_leetcode_2": {
       "id": "2026-07-30_leetcode_2",
-      "title": "LeetCode Blind 75: #10 - Container With Most Water",
+      "title": "LeetCode #11 - Container With Most Water",
       "date": "2026-07-30",
       "completed": true,
       "skipped": false,
@@ -2609,7 +2609,7 @@
     },
     "2026-07-31_leetcode_1": {
       "id": "2026-07-31_leetcode_1",
-      "title": "LeetCode Blind 75: #11 - Valid Palindrome",
+      "title": "LeetCode #125 - Valid Palindrome",
       "date": "2026-07-31",
       "completed": true,
       "skipped": false,
@@ -2618,7 +2618,7 @@
     },
     "2026-07-31_leetcode_2": {
       "id": "2026-07-31_leetcode_2",
-      "title": "LeetCode Blind 75: #12 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-07-31",
       "completed": true,
       "skipped": false,
@@ -2645,7 +2645,7 @@
     },
     "2026-08-01_leetcode_1": {
       "id": "2026-08-01_leetcode_1",
-      "title": "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters",
+      "title": "LeetCode #3 - Longest Substring Without Repeating Characters",
       "date": "2026-08-01",
       "completed": true,
       "skipped": false,
@@ -2654,7 +2654,7 @@
     },
     "2026-08-01_leetcode_2": {
       "id": "2026-08-01_leetcode_2",
-      "title": "LeetCode Blind 75: #14 - Longest Repeating Character Replacement",
+      "title": "LeetCode #424 - Longest Repeating Character Replacement",
       "date": "2026-08-01",
       "completed": true,
       "skipped": false,
@@ -2672,7 +2672,7 @@
     },
     "2026-08-02_leetcode_1": {
       "id": "2026-08-02_leetcode_1",
-      "title": "LeetCode Blind 75: #15 - Minimum Window Substring",
+      "title": "LeetCode #76 - Minimum Window Substring",
       "date": "2026-08-02",
       "completed": true,
       "skipped": false,
@@ -2681,7 +2681,7 @@
     },
     "2026-08-02_leetcode_2": {
       "id": "2026-08-02_leetcode_2",
-      "title": "LeetCode Blind 75: #16 - Valid Anagram",
+      "title": "LeetCode #242 - Valid Anagram",
       "date": "2026-08-02",
       "completed": true,
       "skipped": false,
@@ -2708,7 +2708,7 @@
     },
     "2026-08-03_leetcode_1": {
       "id": "2026-08-03_leetcode_1",
-      "title": "LeetCode Blind 75: #17 - Group Anagrams",
+      "title": "LeetCode #49 - Group Anagrams",
       "date": "2026-08-03",
       "completed": true,
       "skipped": false,
@@ -2717,7 +2717,7 @@
     },
     "2026-08-03_leetcode_2": {
       "id": "2026-08-03_leetcode_2",
-      "title": "LeetCode Blind 75: #18 - Valid Parentheses",
+      "title": "LeetCode #20 - Valid Parentheses",
       "date": "2026-08-03",
       "completed": true,
       "skipped": false,
@@ -2798,7 +2798,7 @@
     },
     "2026-08-04_leetcode_1": {
       "id": "2026-08-04_leetcode_1",
-      "title": "LeetCode Blind 75: #19 - Linked List Cycle",
+      "title": "LeetCode #141 - Linked List Cycle",
       "date": "2026-08-04",
       "completed": true,
       "skipped": false,
@@ -2807,7 +2807,7 @@
     },
     "2026-08-04_leetcode_2": {
       "id": "2026-08-04_leetcode_2",
-      "title": "LeetCode Blind 75: #20 - Reverse Linked List",
+      "title": "LeetCode #206 - Reverse Linked List",
       "date": "2026-08-04",
       "completed": true,
       "skipped": false,
@@ -2888,7 +2888,7 @@
     },
     "2026-08-05_leetcode_1": {
       "id": "2026-08-05_leetcode_1",
-      "title": "LeetCode Blind 75: #21 - Merge Two Sorted Lists",
+      "title": "LeetCode #21 - Merge Two Sorted Lists",
       "date": "2026-08-05",
       "completed": true,
       "skipped": false,
@@ -2897,7 +2897,7 @@
     },
     "2026-08-05_leetcode_2": {
       "id": "2026-08-05_leetcode_2",
-      "title": "LeetCode Blind 75: #22 - Reorder List",
+      "title": "LeetCode #143 - Reorder List",
       "date": "2026-08-05",
       "completed": true,
       "skipped": false,
@@ -2960,7 +2960,7 @@
     },
     "2026-08-06_leetcode_1": {
       "id": "2026-08-06_leetcode_1",
-      "title": "LeetCode Blind 75: #23 - Remove Nth Node From End of List",
+      "title": "LeetCode #19 - Remove Nth Node From End of List",
       "date": "2026-08-06",
       "completed": true,
       "skipped": false,
@@ -2969,7 +2969,7 @@
     },
     "2026-08-06_leetcode_2": {
       "id": "2026-08-06_leetcode_2",
-      "title": "LeetCode Blind 75: #24 - Merge k Sorted Lists",
+      "title": "LeetCode #23 - Merge k Sorted Lists",
       "date": "2026-08-06",
       "completed": true,
       "skipped": false,
@@ -3023,7 +3023,7 @@
     },
     "2026-08-07_leetcode_1": {
       "id": "2026-08-07_leetcode_1",
-      "title": "LeetCode Blind 75: #25 - Linked List Cycle II",
+      "title": "LeetCode #142 - Linked List Cycle II",
       "date": "2026-08-07",
       "completed": true,
       "skipped": false,
@@ -3032,7 +3032,7 @@
     },
     "2026-08-07_leetcode_2": {
       "id": "2026-08-07_leetcode_2",
-      "title": "LeetCode Blind 75: #26 - Invert Binary Tree",
+      "title": "LeetCode #226 - Invert Binary Tree",
       "date": "2026-08-07",
       "completed": true,
       "skipped": false,
@@ -3095,7 +3095,7 @@
     },
     "2026-08-08_leetcode_1": {
       "id": "2026-08-08_leetcode_1",
-      "title": "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree",
+      "title": "LeetCode #104 - Maximum Depth of Binary Tree",
       "date": "2026-08-08",
       "completed": true,
       "skipped": false,
@@ -3104,7 +3104,7 @@
     },
     "2026-08-08_leetcode_2": {
       "id": "2026-08-08_leetcode_2",
-      "title": "LeetCode Blind 75: #28 - Same Tree",
+      "title": "LeetCode #100 - Same Tree",
       "date": "2026-08-08",
       "completed": true,
       "skipped": false,
@@ -3149,7 +3149,7 @@
     },
     "2026-08-09_leetcode_1": {
       "id": "2026-08-09_leetcode_1",
-      "title": "LeetCode Blind 75: #29 - Subtree of Another Tree",
+      "title": "LeetCode #572 - Subtree of Another Tree",
       "date": "2026-08-09",
       "completed": true,
       "skipped": false,
@@ -3158,7 +3158,7 @@
     },
     "2026-08-09_leetcode_2": {
       "id": "2026-08-09_leetcode_2",
-      "title": "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree",
+      "title": "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree",
       "date": "2026-08-09",
       "completed": true,
       "skipped": false,
@@ -3194,7 +3194,7 @@
     },
     "2026-08-10_leetcode_1": {
       "id": "2026-08-10_leetcode_1",
-      "title": "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal",
+      "title": "LeetCode #102 - Binary Tree Level Order Traversal",
       "date": "2026-08-10",
       "completed": true,
       "skipped": false,
@@ -3203,7 +3203,7 @@
     },
     "2026-08-10_leetcode_2": {
       "id": "2026-08-10_leetcode_2",
-      "title": "LeetCode Blind 75: #32 - Validate Binary Search Tree",
+      "title": "LeetCode #98 - Validate Binary Search Tree",
       "date": "2026-08-10",
       "completed": true,
       "skipped": false,
@@ -3950,7 +3950,7 @@
     },
     "2026-08-18_leetcode_1": {
       "id": "2026-08-18_leetcode_1",
-      "title": "LeetCode Blind 75: #33 - Kth Smallest Element in a BST",
+      "title": "LeetCode #230 - Kth Smallest Element in a BST",
       "date": "2026-08-18",
       "completed": true,
       "skipped": false,
@@ -3959,7 +3959,7 @@
     },
     "2026-08-18_leetcode_2": {
       "id": "2026-08-18_leetcode_2",
-      "title": "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal",
+      "title": "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal",
       "date": "2026-08-18",
       "completed": true,
       "skipped": false,
@@ -4040,7 +4040,7 @@
     },
     "2026-08-19_leetcode_1": {
       "id": "2026-08-19_leetcode_1",
-      "title": "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum",
+      "title": "LeetCode #124 - Binary Tree Maximum Path Sum",
       "date": "2026-08-19",
       "completed": true,
       "skipped": false,
@@ -4049,7 +4049,7 @@
     },
     "2026-08-19_leetcode_2": {
       "id": "2026-08-19_leetcode_2",
-      "title": "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree",
+      "title": "LeetCode #297 - Serialize and Deserialize Binary Tree",
       "date": "2026-08-19",
       "completed": true,
       "skipped": false,
@@ -4121,7 +4121,7 @@
     },
     "2026-08-20_leetcode_1": {
       "id": "2026-08-20_leetcode_1",
-      "title": "LeetCode Blind 75: #37 - Find Median from Data Stream",
+      "title": "LeetCode #295 - Find Median from Data Stream",
       "date": "2026-08-20",
       "completed": true,
       "skipped": false,
@@ -4130,7 +4130,7 @@
     },
     "2026-08-20_leetcode_2": {
       "id": "2026-08-20_leetcode_2",
-      "title": "LeetCode Blind 75: #38 - Top K Frequent Elements",
+      "title": "LeetCode #347 - Top K Frequent Elements",
       "date": "2026-08-20",
       "completed": true,
       "skipped": false,
@@ -4184,7 +4184,7 @@
     },
     "2026-08-21_leetcode_1": {
       "id": "2026-08-21_leetcode_1",
-      "title": "LeetCode Blind 75: #39 - Kth Largest Element in an Array",
+      "title": "LeetCode #215 - Kth Largest Element in an Array",
       "date": "2026-08-21",
       "completed": true,
       "skipped": false,
@@ -4193,7 +4193,7 @@
     },
     "2026-08-21_leetcode_2": {
       "id": "2026-08-21_leetcode_2",
-      "title": "LeetCode Blind 75: #40 - Combination Sum",
+      "title": "LeetCode #39 - Combination Sum",
       "date": "2026-08-21",
       "completed": true,
       "skipped": false,
@@ -4256,7 +4256,7 @@
     },
     "2026-08-22_leetcode_1": {
       "id": "2026-08-22_leetcode_1",
-      "title": "LeetCode Blind 75: #41 - Word Search",
+      "title": "LeetCode #79 - Word Search",
       "date": "2026-08-22",
       "completed": true,
       "skipped": false,
@@ -4265,7 +4265,7 @@
     },
     "2026-08-22_leetcode_2": {
       "id": "2026-08-22_leetcode_2",
-      "title": "LeetCode Blind 75: #42 - Clone Graph",
+      "title": "LeetCode #133 - Clone Graph",
       "date": "2026-08-22",
       "completed": true,
       "skipped": false,
@@ -4310,7 +4310,7 @@
     },
     "2026-08-23_leetcode_1": {
       "id": "2026-08-23_leetcode_1",
-      "title": "LeetCode Blind 75: #43 - Course Schedule",
+      "title": "LeetCode #207 - Course Schedule",
       "date": "2026-08-23",
       "completed": true,
       "skipped": false,
@@ -4319,7 +4319,7 @@
     },
     "2026-08-23_leetcode_2": {
       "id": "2026-08-23_leetcode_2",
-      "title": "LeetCode Blind 75: #44 - Number of Islands",
+      "title": "LeetCode #200 - Number of Islands",
       "date": "2026-08-23",
       "completed": true,
       "skipped": false,
@@ -4364,7 +4364,7 @@
     },
     "2026-08-24_leetcode_1": {
       "id": "2026-08-24_leetcode_1",
-      "title": "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow",
+      "title": "LeetCode #417 - Pacific Atlantic Water Flow",
       "date": "2026-08-24",
       "completed": true,
       "skipped": false,
@@ -4373,7 +4373,7 @@
     },
     "2026-08-24_leetcode_2": {
       "id": "2026-08-24_leetcode_2",
-      "title": "LeetCode Blind 75: #46 - Graph Valid Tree",
+      "title": "LeetCode #261 - Graph Valid Tree",
       "date": "2026-08-24",
       "completed": true,
       "skipped": false,
@@ -4463,7 +4463,7 @@
     },
     "2026-08-25_leetcode_1": {
       "id": "2026-08-25_leetcode_1",
-      "title": "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph",
+      "title": "LeetCode #323 - Number of Connected Components in an Undirected Graph",
       "date": "2026-08-25",
       "completed": true,
       "skipped": false,
@@ -4472,7 +4472,7 @@
     },
     "2026-08-25_leetcode_2": {
       "id": "2026-08-25_leetcode_2",
-      "title": "LeetCode Blind 75: #48 - Longest Consecutive Sequence",
+      "title": "LeetCode #128 - Longest Consecutive Sequence",
       "date": "2026-08-25",
       "completed": true,
       "skipped": false,
@@ -4562,7 +4562,7 @@
     },
     "2026-08-26_leetcode_1": {
       "id": "2026-08-26_leetcode_1",
-      "title": "LeetCode Blind 75: #49 - Alien Dictionary",
+      "title": "LeetCode #269 - Alien Dictionary",
       "date": "2026-08-26",
       "completed": true,
       "skipped": false,
@@ -4571,7 +4571,7 @@
     },
     "2026-08-26_leetcode_2": {
       "id": "2026-08-26_leetcode_2",
-      "title": "LeetCode Blind 75: #50 - Set Matrix Zeroes",
+      "title": "LeetCode #73 - Set Matrix Zeroes",
       "date": "2026-08-26",
       "completed": true,
       "skipped": false,
@@ -4616,7 +4616,7 @@
     },
     "2026-08-27_leetcode_1": {
       "id": "2026-08-27_leetcode_1",
-      "title": "LeetCode Blind 75: #51 - Spiral Matrix",
+      "title": "LeetCode #54 - Spiral Matrix",
       "date": "2026-08-27",
       "completed": true,
       "skipped": false,
@@ -4625,7 +4625,7 @@
     },
     "2026-08-27_leetcode_2": {
       "id": "2026-08-27_leetcode_2",
-      "title": "LeetCode Blind 75: #52 - Rotate Image",
+      "title": "LeetCode #48 - Rotate Image",
       "date": "2026-08-27",
       "completed": true,
       "skipped": false,
@@ -4661,7 +4661,7 @@
     },
     "2026-08-28_leetcode_1": {
       "id": "2026-08-28_leetcode_1",
-      "title": "LeetCode Blind 75: #53 - Climbing Stairs",
+      "title": "LeetCode #70 - Climbing Stairs",
       "date": "2026-08-28",
       "completed": true,
       "skipped": false,
@@ -4670,7 +4670,7 @@
     },
     "2026-08-28_leetcode_2": {
       "id": "2026-08-28_leetcode_2",
-      "title": "LeetCode Blind 75: #54 - Coin Change",
+      "title": "LeetCode #322 - Coin Change",
       "date": "2026-08-28",
       "completed": true,
       "skipped": false,
@@ -4706,7 +4706,7 @@
     },
     "2026-08-29_leetcode_1": {
       "id": "2026-08-29_leetcode_1",
-      "title": "LeetCode Blind 75: #55 - Longest Increasing Subsequence",
+      "title": "LeetCode #300 - Longest Increasing Subsequence",
       "date": "2026-08-29",
       "completed": true,
       "skipped": false,
@@ -4715,7 +4715,7 @@
     },
     "2026-08-29_leetcode_2": {
       "id": "2026-08-29_leetcode_2",
-      "title": "LeetCode Blind 75: #56 - Longest Common Subsequence",
+      "title": "LeetCode #1143 - Longest Common Subsequence",
       "date": "2026-08-29",
       "completed": true,
       "skipped": false,
@@ -4742,7 +4742,7 @@
     },
     "2026-08-30_leetcode_1": {
       "id": "2026-08-30_leetcode_1",
-      "title": "LeetCode Blind 75: #57 - Word Break",
+      "title": "LeetCode #139 - Word Break",
       "date": "2026-08-30",
       "completed": true,
       "skipped": false,
@@ -4751,7 +4751,7 @@
     },
     "2026-08-30_leetcode_2": {
       "id": "2026-08-30_leetcode_2",
-      "title": "LeetCode Blind 75: #58 - Combination Sum IV",
+      "title": "LeetCode #377 - Combination Sum IV",
       "date": "2026-08-30",
       "completed": true,
       "skipped": false,
@@ -4787,7 +4787,7 @@
     },
     "2026-08-31_leetcode_1": {
       "id": "2026-08-31_leetcode_1",
-      "title": "LeetCode Blind 75: #59 - House Robber",
+      "title": "LeetCode #198 - House Robber",
       "date": "2026-08-31",
       "completed": true,
       "skipped": false,
@@ -4796,7 +4796,7 @@
     },
     "2026-08-31_leetcode_2": {
       "id": "2026-08-31_leetcode_2",
-      "title": "LeetCode Blind 75: #60 - House Robber II",
+      "title": "LeetCode #213 - House Robber II",
       "date": "2026-08-31",
       "completed": true,
       "skipped": false,
@@ -4834,25 +4834,25 @@
       "id": "2026-09-01_ahf",
       "title": "AHF Work (Tech Lead Duties)",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
     },
     "2026-09-01_leetcode_1": {
       "id": "2026-09-01_leetcode_1",
-      "title": "LeetCode Blind 75: #61 - Decode Ways",
+      "title": "LeetCode #91 - Decode Ways",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "leetcode"
     },
     "2026-09-01_leetcode_2": {
       "id": "2026-09-01_leetcode_2",
-      "title": "LeetCode Blind 75: #62 - Unique Paths",
+      "title": "LeetCode #62 - Unique Paths",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "leetcode"
@@ -4861,7 +4861,7 @@
       "id": "2026-09-01_palana_sec",
       "title": "Palana Security — Threat modeling",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "palana_security"
@@ -4870,7 +4870,7 @@
       "id": "2026-09-01_winfo_meeting",
       "title": "WINFO Meeting",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -4879,7 +4879,7 @@
       "id": "2026-09-01_winfo_reimb",
       "title": "WINFO: Check reimbursements",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "winfo"
@@ -4888,43 +4888,34 @@
       "id": "2026-09-01_winfo_grants",
       "title": "WINFO: Check open grants & scholarships",
       "date": "2026-09-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "winfo"
-    },
-    "2026-09-01_sec_exam": {
-      "id": "2026-09-01_sec_exam",
-      "title": "CompTIA Security+ SY0-701 Certification Exam",
-      "date": "2026-09-01",
-      "completed": false,
-      "skipped": false,
-      "duration": 2.5,
-      "category": "secplus"
     },
     "2026-09-02_ahf": {
       "id": "2026-09-02_ahf",
       "title": "AHF Work (Tech Lead Duties)",
       "date": "2026-09-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
     },
     "2026-09-02_leetcode_1": {
       "id": "2026-09-02_leetcode_1",
-      "title": "LeetCode Blind 75: #63 - Jump Game",
+      "title": "LeetCode #55 - Jump Game",
       "date": "2026-09-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "leetcode"
     },
     "2026-09-02_leetcode_2": {
       "id": "2026-09-02_leetcode_2",
-      "title": "LeetCode Blind 75: #64 - House Robber III",
+      "title": "LeetCode #337 - House Robber III",
       "date": "2026-09-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "leetcode"
@@ -4933,7 +4924,7 @@
       "id": "2026-09-02_palana_sec",
       "title": "Palana Security — Threat modeling",
       "date": "2026-09-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "palana_security"
@@ -5644,16 +5635,16 @@
       "id": "2026-09-16_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-16_x_leetcode": {
       "id": "2026-09-16_x_leetcode",
-      "title": "LeetCode Blind 75: #1 - Two Sum",
+      "title": "LeetCode #1 - Two Sum",
       "date": "2026-09-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -5662,7 +5653,7 @@
       "id": "2026-09-16_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -5680,7 +5671,7 @@
       "id": "2026-09-16_x_secplus",
       "title": "CompTIA Security+ final review",
       "date": "2026-09-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "secplus"
@@ -5689,7 +5680,7 @@
       "id": "2026-09-16_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -5698,7 +5689,7 @@
       "id": "2026-09-16_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -5707,16 +5698,16 @@
       "id": "2026-09-17_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-17",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-17_x_leetcode": {
       "id": "2026-09-17_x_leetcode",
-      "title": "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock",
+      "title": "LeetCode #121 - Best Time to Buy and Sell Stock",
       "date": "2026-09-17",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -5725,7 +5716,7 @@
       "id": "2026-09-17_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-17",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -5752,7 +5743,7 @@
       "id": "2026-09-17_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-17",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -5761,7 +5752,7 @@
       "id": "2026-09-17_x_personal_site",
       "title": "Personal website update",
       "date": "2026-09-17",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -5770,14 +5761,14 @@
       "id": "2026-09-18_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-18_x_leetcode": {
       "id": "2026-09-18_x_leetcode",
-      "title": "LeetCode Blind 75: #3 - Contains Duplicate",
+      "title": "LeetCode #217 - Contains Duplicate",
       "date": "2026-09-18",
       "completed": false,
       "skipped": false,
@@ -5788,7 +5779,7 @@
       "id": "2026-09-18_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -5815,7 +5806,7 @@
       "id": "2026-09-18_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -5824,7 +5815,7 @@
       "id": "2026-09-18_x_palana_privacy",
       "title": "Update the Palana privacy policy",
       "date": "2026-09-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -5833,7 +5824,7 @@
       "id": "2026-09-18_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-09-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -5842,14 +5833,14 @@
       "id": "2026-09-19_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-19_x_leetcode": {
       "id": "2026-09-19_x_leetcode",
-      "title": "LeetCode Blind 75: #4 - Product of Array Except Self",
+      "title": "LeetCode #238 - Product of Array Except Self",
       "date": "2026-09-19",
       "completed": false,
       "skipped": false,
@@ -5860,7 +5851,7 @@
       "id": "2026-09-19_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -5878,7 +5869,7 @@
       "id": "2026-09-19_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -5887,7 +5878,7 @@
       "id": "2026-09-19_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -5905,14 +5896,14 @@
       "id": "2026-09-20_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-20_x_leetcode": {
       "id": "2026-09-20_x_leetcode",
-      "title": "LeetCode Blind 75: #5 - Maximum Subarray",
+      "title": "LeetCode #53 - Maximum Subarray",
       "date": "2026-09-20",
       "completed": false,
       "skipped": false,
@@ -5923,7 +5914,7 @@
       "id": "2026-09-20_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -5941,7 +5932,7 @@
       "id": "2026-09-20_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -5950,7 +5941,7 @@
       "id": "2026-09-20_x_ahf_ms_1",
       "title": "AHF: Check in with Roslyn on the task management site",
       "date": "2026-09-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -5959,7 +5950,7 @@
       "id": "2026-09-20_x_interview_check",
       "title": "Check for upcoming interviews and prep any that are scheduled",
       "date": "2026-09-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "interviews"
@@ -5968,14 +5959,14 @@
       "id": "2026-09-21_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-21_x_leetcode": {
       "id": "2026-09-21_x_leetcode",
-      "title": "LeetCode Blind 75: #6 - Maximum Product Subarray",
+      "title": "LeetCode #152 - Maximum Product Subarray",
       "date": "2026-09-21",
       "completed": false,
       "skipped": false,
@@ -5986,7 +5977,7 @@
       "id": "2026-09-21_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6004,7 +5995,7 @@
       "id": "2026-09-21_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -6031,7 +6022,7 @@
       "id": "2026-09-21_x_winfo_budget_pull",
       "title": "WINFO budget: pull current numbers and list what changed",
       "date": "2026-09-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "winfo"
@@ -6040,7 +6031,7 @@
       "id": "2026-09-21_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-09-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -6049,14 +6040,14 @@
       "id": "2026-09-22_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-22_x_leetcode": {
       "id": "2026-09-22_x_leetcode",
-      "title": "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array",
+      "title": "LeetCode #153 - Find Minimum in Rotated Sorted Array",
       "date": "2026-09-22",
       "completed": false,
       "skipped": false,
@@ -6067,7 +6058,7 @@
       "id": "2026-09-22_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6085,7 +6076,7 @@
       "id": "2026-09-22_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -6103,7 +6094,7 @@
       "id": "2026-09-22_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-09-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -6112,7 +6103,7 @@
       "id": "2026-09-22_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-09-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -6121,14 +6112,14 @@
       "id": "2026-09-23_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-23_x_leetcode": {
       "id": "2026-09-23_x_leetcode",
-      "title": "LeetCode Blind 75: #8 - Search in Rotated Sorted Array",
+      "title": "LeetCode #33 - Search in Rotated Sorted Array",
       "date": "2026-09-23",
       "completed": false,
       "skipped": false,
@@ -6139,7 +6130,7 @@
       "id": "2026-09-23_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6157,7 +6148,7 @@
       "id": "2026-09-23_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -6166,7 +6157,7 @@
       "id": "2026-09-23_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -6184,14 +6175,14 @@
       "id": "2026-09-24_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-24_x_leetcode": {
       "id": "2026-09-24_x_leetcode",
-      "title": "LeetCode Blind 75: #9 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-09-24",
       "completed": false,
       "skipped": false,
@@ -6202,7 +6193,7 @@
       "id": "2026-09-24_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6220,7 +6211,7 @@
       "id": "2026-09-24_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -6229,7 +6220,7 @@
       "id": "2026-09-24_x_hackprep_sec_hack_1",
       "title": "Security Hackathon prep (1 of 2)",
       "date": "2026-09-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "hackathons"
@@ -6247,7 +6238,7 @@
       "id": "2026-09-24_x_winfo_budget_send",
       "title": "WINFO budget: update the sheet and send it out for review",
       "date": "2026-09-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "winfo"
@@ -6256,14 +6247,14 @@
       "id": "2026-09-25_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-25_x_leetcode": {
       "id": "2026-09-25_x_leetcode",
-      "title": "LeetCode Blind 75: #10 - Container With Most Water",
+      "title": "LeetCode #11 - Container With Most Water",
       "date": "2026-09-25",
       "completed": false,
       "skipped": false,
@@ -6274,7 +6265,7 @@
       "id": "2026-09-25_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6292,7 +6283,7 @@
       "id": "2026-09-25_x_threatmodel",
       "title": "Threat modeling project work block",
       "date": "2026-09-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "projects"
@@ -6301,7 +6292,7 @@
       "id": "2026-09-25_x_hackprep_sec_hack_2",
       "title": "Security Hackathon prep (2 of 2)",
       "date": "2026-09-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "hackathons"
@@ -6319,7 +6310,7 @@
       "id": "2026-09-25_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-09-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -6328,14 +6319,14 @@
       "id": "2026-09-26_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
     },
     "2026-09-26_x_leetcode": {
       "id": "2026-09-26_x_leetcode",
-      "title": "LeetCode Blind 75: #11 - Valid Palindrome",
+      "title": "LeetCode #125 - Valid Palindrome",
       "date": "2026-09-26",
       "completed": false,
       "skipped": false,
@@ -6346,7 +6337,7 @@
       "id": "2026-09-26_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6364,7 +6355,7 @@
       "id": "2026-09-26_x_threatmodel_due",
       "title": "DUE: Threat Modeling Project",
       "date": "2026-09-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "projects"
@@ -6373,7 +6364,7 @@
       "id": "2026-09-26_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -6382,7 +6373,7 @@
       "id": "2026-09-26_x_hack_sec_hack",
       "title": "Security Hackathon — event day",
       "date": "2026-09-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 8,
       "category": "hackathons"
@@ -6391,7 +6382,7 @@
       "id": "2026-09-26_x_hackprep_kiro_hack_1",
       "title": "Kiro Hackathon prep (1 of 2)",
       "date": "2026-09-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "hackathons"
@@ -6416,7 +6407,7 @@
     },
     "2026-09-27_x_leetcode": {
       "id": "2026-09-27_x_leetcode",
-      "title": "LeetCode Blind 75: #12 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-09-27",
       "completed": false,
       "skipped": false,
@@ -6427,7 +6418,7 @@
       "id": "2026-09-27_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6476,15 +6467,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
-    },
-    "2026-09-28_x_leetcode": {
-      "id": "2026-09-28_x_leetcode",
-      "title": "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters",
-      "date": "2026-09-28",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-09-28_x_ahf": {
       "id": "2026-09-28_x_ahf",
@@ -6560,7 +6542,7 @@
     },
     "2026-09-29_x_leetcode": {
       "id": "2026-09-29_x_leetcode",
-      "title": "LeetCode Blind 75: #14 - Longest Repeating Character Replacement",
+      "title": "LeetCode #424 - Longest Repeating Character Replacement",
       "date": "2026-09-29",
       "completed": false,
       "skipped": false,
@@ -6614,7 +6596,7 @@
     },
     "2026-09-30_x_leetcode": {
       "id": "2026-09-30_x_leetcode",
-      "title": "LeetCode Blind 75: #15 - Minimum Window Substring",
+      "title": "LeetCode #76 - Minimum Window Substring",
       "date": "2026-09-30",
       "completed": false,
       "skipped": false,
@@ -6668,7 +6650,7 @@
     },
     "2026-10-01_x_leetcode": {
       "id": "2026-10-01_x_leetcode",
-      "title": "LeetCode Blind 75: #16 - Valid Anagram",
+      "title": "LeetCode #242 - Valid Anagram",
       "date": "2026-10-01",
       "completed": false,
       "skipped": false,
@@ -6713,7 +6695,7 @@
     },
     "2026-10-02_x_leetcode": {
       "id": "2026-10-02_x_leetcode",
-      "title": "LeetCode Blind 75: #17 - Group Anagrams",
+      "title": "LeetCode #49 - Group Anagrams",
       "date": "2026-10-02",
       "completed": false,
       "skipped": false,
@@ -6756,6 +6738,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-09-28_x_leetcode": {
+      "id": "2026-09-28_x_leetcode",
+      "title": "LeetCode #3 - Longest Substring Without Repeating Characters",
+      "date": "2026-10-02",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-10-03_x_jobapps": {
       "id": "2026-10-03_x_jobapps",
       "title": "Job applications (5 today)",
@@ -6767,7 +6758,7 @@
     },
     "2026-10-03_x_leetcode": {
       "id": "2026-10-03_x_leetcode",
-      "title": "LeetCode Blind 75: #18 - Valid Parentheses",
+      "title": "LeetCode #20 - Valid Parentheses",
       "date": "2026-10-03",
       "completed": false,
       "skipped": false,
@@ -6821,7 +6812,7 @@
     },
     "2026-10-04_x_leetcode": {
       "id": "2026-10-04_x_leetcode",
-      "title": "LeetCode Blind 75: #19 - Linked List Cycle",
+      "title": "LeetCode #141 - Linked List Cycle",
       "date": "2026-10-04",
       "completed": false,
       "skipped": false,
@@ -6873,18 +6864,9 @@
       "duration": 1,
       "category": "interviews"
     },
-    "2026-10-05_x_jobapps": {
-      "id": "2026-10-05_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-10-05",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
     "2026-10-05_x_leetcode": {
       "id": "2026-10-05_x_leetcode",
-      "title": "LeetCode Blind 75: #20 - Reverse Linked List",
+      "title": "LeetCode #206 - Reverse Linked List",
       "date": "2026-10-05",
       "completed": false,
       "skipped": false,
@@ -6936,6 +6918,15 @@
       "duration": 0.5,
       "category": "mentor"
     },
+    "2026-10-06_x_leetcode": {
+      "id": "2026-10-06_x_leetcode",
+      "title": "LeetCode #21 - Merge Two Sorted Lists",
+      "date": "2026-10-05",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-10-06_x_jobapps": {
       "id": "2026-10-06_x_jobapps",
       "title": "Job applications (5 today)",
@@ -6944,15 +6935,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
-    },
-    "2026-10-06_x_leetcode": {
-      "id": "2026-10-06_x_leetcode",
-      "title": "LeetCode Blind 75: #21 - Merge Two Sorted Lists",
-      "date": "2026-10-06",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-10-06_x_ahf": {
       "id": "2026-10-06_x_ahf",
@@ -7008,18 +6990,9 @@
       "duration": 1,
       "category": "mentor"
     },
-    "2026-10-07_x_jobapps": {
-      "id": "2026-10-07_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-10-07",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
     "2026-10-07_x_leetcode": {
       "id": "2026-10-07_x_leetcode",
-      "title": "LeetCode Blind 75: #22 - Reorder List",
+      "title": "LeetCode #143 - Reorder List",
       "date": "2026-10-07",
       "completed": false,
       "skipped": false,
@@ -7062,6 +7035,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-10-08_x_leetcode": {
+      "id": "2026-10-08_x_leetcode",
+      "title": "LeetCode #19 - Remove Nth Node From End of List",
+      "date": "2026-10-07",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-10-08_x_jobapps": {
       "id": "2026-10-08_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7070,15 +7052,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
-    },
-    "2026-10-08_x_leetcode": {
-      "id": "2026-10-08_x_leetcode",
-      "title": "LeetCode Blind 75: #23 - Remove Nth Node From End of List",
-      "date": "2026-10-08",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-10-08_x_ahf": {
       "id": "2026-10-08_x_ahf",
@@ -7109,7 +7082,7 @@
     },
     "2026-10-09_x_leetcode": {
       "id": "2026-10-09_x_leetcode",
-      "title": "LeetCode Blind 75: #24 - Merge k Sorted Lists",
+      "title": "LeetCode #23 - Merge k Sorted Lists",
       "date": "2026-10-09",
       "completed": false,
       "skipped": false,
@@ -7152,18 +7125,9 @@
       "duration": 1,
       "category": "winfo"
     },
-    "2026-10-10_x_jobapps": {
-      "id": "2026-10-10_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-10-10",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
     "2026-10-10_x_leetcode": {
       "id": "2026-10-10_x_leetcode",
-      "title": "LeetCode Blind 75: #25 - Linked List Cycle II",
+      "title": "LeetCode #142 - Linked List Cycle II",
       "date": "2026-10-10",
       "completed": false,
       "skipped": false,
@@ -7199,7 +7163,7 @@
     },
     "2026-10-11_x_leetcode": {
       "id": "2026-10-11_x_leetcode",
-      "title": "LeetCode Blind 75: #26 - Invert Binary Tree",
+      "title": "LeetCode #226 - Invert Binary Tree",
       "date": "2026-10-11",
       "completed": false,
       "skipped": false,
@@ -7235,7 +7199,7 @@
     },
     "2026-10-12_x_leetcode": {
       "id": "2026-10-12_x_leetcode",
-      "title": "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree",
+      "title": "LeetCode #104 - Maximum Depth of Binary Tree",
       "date": "2026-10-12",
       "completed": false,
       "skipped": false,
@@ -7269,10 +7233,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-10-13_x_jobapps": {
-      "id": "2026-10-13_x_jobapps",
+    "2026-10-05_x_jobapps": {
+      "id": "2026-10-05_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-10-13",
+      "date": "2026-10-12",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -7280,7 +7244,7 @@
     },
     "2026-10-13_x_leetcode": {
       "id": "2026-10-13_x_leetcode",
-      "title": "LeetCode Blind 75: #28 - Same Tree",
+      "title": "LeetCode #100 - Same Tree",
       "date": "2026-10-13",
       "completed": false,
       "skipped": false,
@@ -7334,7 +7298,7 @@
     },
     "2026-10-14_x_leetcode": {
       "id": "2026-10-14_x_leetcode",
-      "title": "LeetCode Blind 75: #29 - Subtree of Another Tree",
+      "title": "LeetCode #572 - Subtree of Another Tree",
       "date": "2026-10-14",
       "completed": false,
       "skipped": false,
@@ -7359,10 +7323,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-10-15_x_jobapps": {
-      "id": "2026-10-15_x_jobapps",
+    "2026-10-07_x_jobapps": {
+      "id": "2026-10-07_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-10-15",
+      "date": "2026-10-14",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -7370,7 +7334,7 @@
     },
     "2026-10-15_x_leetcode": {
       "id": "2026-10-15_x_leetcode",
-      "title": "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree",
+      "title": "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree",
       "date": "2026-10-15",
       "completed": false,
       "skipped": false,
@@ -7395,6 +7359,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-10-18_x_leetcode": {
+      "id": "2026-10-18_x_leetcode",
+      "title": "LeetCode #230 - Kth Smallest Element in a BST",
+      "date": "2026-10-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-10-16_x_jobapps": {
       "id": "2026-10-16_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7406,7 +7379,7 @@
     },
     "2026-10-16_x_leetcode": {
       "id": "2026-10-16_x_leetcode",
-      "title": "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal",
+      "title": "LeetCode #102 - Binary Tree Level Order Traversal",
       "date": "2026-10-16",
       "completed": false,
       "skipped": false,
@@ -7440,6 +7413,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-10-10_x_jobapps": {
+      "id": "2026-10-10_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-10-17_x_jobapps": {
       "id": "2026-10-17_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7451,7 +7433,7 @@
     },
     "2026-10-17_x_leetcode": {
       "id": "2026-10-17_x_leetcode",
-      "title": "LeetCode Blind 75: #32 - Validate Binary Search Tree",
+      "title": "LeetCode #98 - Validate Binary Search Tree",
       "date": "2026-10-17",
       "completed": false,
       "skipped": false,
@@ -7466,24 +7448,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-10-18_x_jobapps": {
-      "id": "2026-10-18_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-10-18",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-10-18_x_leetcode": {
-      "id": "2026-10-18_x_leetcode",
-      "title": "LeetCode Blind 75: #33 - Kth Smallest Element in a BST",
-      "date": "2026-10-18",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-10-18_x_ahf": {
       "id": "2026-10-18_x_ahf",
@@ -7514,7 +7478,7 @@
     },
     "2026-10-19_x_leetcode": {
       "id": "2026-10-19_x_leetcode",
-      "title": "LeetCode Blind 75: #34 - Construct Binary Tree from Preorder and Inorder Traversal",
+      "title": "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal",
       "date": "2026-10-19",
       "completed": false,
       "skipped": false,
@@ -7548,10 +7512,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-10-20_x_jobapps": {
-      "id": "2026-10-20_x_jobapps",
+    "2026-10-13_x_jobapps": {
+      "id": "2026-10-13_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -7559,7 +7523,7 @@
     },
     "2026-10-20_x_leetcode": {
       "id": "2026-10-20_x_leetcode",
-      "title": "LeetCode Blind 75: #35 - Binary Tree Maximum Path Sum",
+      "title": "LeetCode #124 - Binary Tree Maximum Path Sum",
       "date": "2026-10-20",
       "completed": false,
       "skipped": false,
@@ -7613,7 +7577,7 @@
     },
     "2026-10-21_x_leetcode": {
       "id": "2026-10-21_x_leetcode",
-      "title": "LeetCode Blind 75: #36 - Serialize and Deserialize Binary Tree",
+      "title": "LeetCode #297 - Serialize and Deserialize Binary Tree",
       "date": "2026-10-21",
       "completed": false,
       "skipped": false,
@@ -7638,10 +7602,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-10-22_x_jobapps": {
-      "id": "2026-10-22_x_jobapps",
+    "2026-10-15_x_jobapps": {
+      "id": "2026-10-15_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-10-22",
+      "date": "2026-10-21",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -7649,7 +7613,7 @@
     },
     "2026-10-22_x_leetcode": {
       "id": "2026-10-22_x_leetcode",
-      "title": "LeetCode Blind 75: #37 - Find Median from Data Stream",
+      "title": "LeetCode #295 - Find Median from Data Stream",
       "date": "2026-10-22",
       "completed": false,
       "skipped": false,
@@ -7674,6 +7638,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-10-25_x_leetcode": {
+      "id": "2026-10-25_x_leetcode",
+      "title": "LeetCode #39 - Combination Sum",
+      "date": "2026-10-22",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-10-23_x_jobapps": {
       "id": "2026-10-23_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7685,7 +7658,7 @@
     },
     "2026-10-23_x_leetcode": {
       "id": "2026-10-23_x_leetcode",
-      "title": "LeetCode Blind 75: #38 - Top K Frequent Elements",
+      "title": "LeetCode #347 - Top K Frequent Elements",
       "date": "2026-10-23",
       "completed": false,
       "skipped": false,
@@ -7719,6 +7692,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-10-18_x_jobapps": {
+      "id": "2026-10-18_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-10-23",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-10-24_x_jobapps": {
       "id": "2026-10-24_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7730,7 +7712,7 @@
     },
     "2026-10-24_x_leetcode": {
       "id": "2026-10-24_x_leetcode",
-      "title": "LeetCode Blind 75: #39 - Kth Largest Element in an Array",
+      "title": "LeetCode #215 - Kth Largest Element in an Array",
       "date": "2026-10-24",
       "completed": false,
       "skipped": false,
@@ -7745,24 +7727,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-10-25_x_jobapps": {
-      "id": "2026-10-25_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-10-25",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-10-25_x_leetcode": {
-      "id": "2026-10-25_x_leetcode",
-      "title": "LeetCode Blind 75: #40 - Combination Sum",
-      "date": "2026-10-25",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-10-25_x_ahf": {
       "id": "2026-10-25_x_ahf",
@@ -7793,7 +7757,7 @@
     },
     "2026-10-26_x_leetcode": {
       "id": "2026-10-26_x_leetcode",
-      "title": "LeetCode Blind 75: #41 - Word Search",
+      "title": "LeetCode #79 - Word Search",
       "date": "2026-10-26",
       "completed": false,
       "skipped": false,
@@ -7827,10 +7791,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-10-27_x_jobapps": {
-      "id": "2026-10-27_x_jobapps",
+    "2026-10-20_x_jobapps": {
+      "id": "2026-10-20_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-10-27",
+      "date": "2026-10-26",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -7838,7 +7802,7 @@
     },
     "2026-10-27_x_leetcode": {
       "id": "2026-10-27_x_leetcode",
-      "title": "LeetCode Blind 75: #42 - Clone Graph",
+      "title": "LeetCode #133 - Clone Graph",
       "date": "2026-10-27",
       "completed": false,
       "skipped": false,
@@ -7892,7 +7856,7 @@
     },
     "2026-10-28_x_leetcode": {
       "id": "2026-10-28_x_leetcode",
-      "title": "LeetCode Blind 75: #43 - Course Schedule",
+      "title": "LeetCode #207 - Course Schedule",
       "date": "2026-10-28",
       "completed": false,
       "skipped": false,
@@ -7917,10 +7881,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-10-29_x_jobapps": {
-      "id": "2026-10-29_x_jobapps",
+    "2026-10-22_x_jobapps": {
+      "id": "2026-10-22_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-10-29",
+      "date": "2026-10-28",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -7928,7 +7892,7 @@
     },
     "2026-10-29_x_leetcode": {
       "id": "2026-10-29_x_leetcode",
-      "title": "LeetCode Blind 75: #44 - Number of Islands",
+      "title": "LeetCode #200 - Number of Islands",
       "date": "2026-10-29",
       "completed": false,
       "skipped": false,
@@ -7953,6 +7917,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-11-01_x_leetcode": {
+      "id": "2026-11-01_x_leetcode",
+      "title": "LeetCode #323 - Number of Connected Components in an Undirected Graph",
+      "date": "2026-10-29",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-10-30_x_jobapps": {
       "id": "2026-10-30_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7964,7 +7937,7 @@
     },
     "2026-10-30_x_leetcode": {
       "id": "2026-10-30_x_leetcode",
-      "title": "LeetCode Blind 75: #45 - Pacific Atlantic Water Flow",
+      "title": "LeetCode #417 - Pacific Atlantic Water Flow",
       "date": "2026-10-30",
       "completed": false,
       "skipped": false,
@@ -7998,6 +7971,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-10-25_x_jobapps": {
+      "id": "2026-10-25_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-10-30",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-10-31_x_jobapps": {
       "id": "2026-10-31_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8009,7 +7991,7 @@
     },
     "2026-10-31_x_leetcode": {
       "id": "2026-10-31_x_leetcode",
-      "title": "LeetCode Blind 75: #46 - Graph Valid Tree",
+      "title": "LeetCode #261 - Graph Valid Tree",
       "date": "2026-10-31",
       "completed": false,
       "skipped": false,
@@ -8024,24 +8006,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-11-01_x_jobapps": {
-      "id": "2026-11-01_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-11-01",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-11-01_x_leetcode": {
-      "id": "2026-11-01_x_leetcode",
-      "title": "LeetCode Blind 75: #47 - Number of Connected Components in an Undirected Graph",
-      "date": "2026-11-01",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-11-01_x_ahf": {
       "id": "2026-11-01_x_ahf",
@@ -8072,7 +8036,7 @@
     },
     "2026-11-02_x_leetcode": {
       "id": "2026-11-02_x_leetcode",
-      "title": "LeetCode Blind 75: #48 - Longest Consecutive Sequence",
+      "title": "LeetCode #128 - Longest Consecutive Sequence",
       "date": "2026-11-02",
       "completed": false,
       "skipped": false,
@@ -8106,10 +8070,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-11-03_x_jobapps": {
-      "id": "2026-11-03_x_jobapps",
+    "2026-10-27_x_jobapps": {
+      "id": "2026-10-27_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-03",
+      "date": "2026-11-02",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8117,7 +8081,7 @@
     },
     "2026-11-03_x_leetcode": {
       "id": "2026-11-03_x_leetcode",
-      "title": "LeetCode Blind 75: #49 - Alien Dictionary",
+      "title": "LeetCode #269 - Alien Dictionary",
       "date": "2026-11-03",
       "completed": false,
       "skipped": false,
@@ -8171,7 +8135,7 @@
     },
     "2026-11-04_x_leetcode": {
       "id": "2026-11-04_x_leetcode",
-      "title": "LeetCode Blind 75: #50 - Set Matrix Zeroes",
+      "title": "LeetCode #73 - Set Matrix Zeroes",
       "date": "2026-11-04",
       "completed": false,
       "skipped": false,
@@ -8196,10 +8160,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-11-05_x_jobapps": {
-      "id": "2026-11-05_x_jobapps",
+    "2026-10-29_x_jobapps": {
+      "id": "2026-10-29_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-05",
+      "date": "2026-11-04",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8207,7 +8171,7 @@
     },
     "2026-11-05_x_leetcode": {
       "id": "2026-11-05_x_leetcode",
-      "title": "LeetCode Blind 75: #51 - Spiral Matrix",
+      "title": "LeetCode #54 - Spiral Matrix",
       "date": "2026-11-05",
       "completed": false,
       "skipped": false,
@@ -8232,6 +8196,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-11-08_x_leetcode": {
+      "id": "2026-11-08_x_leetcode",
+      "title": "LeetCode #322 - Coin Change",
+      "date": "2026-11-05",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-11-06_x_jobapps": {
       "id": "2026-11-06_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8243,7 +8216,7 @@
     },
     "2026-11-06_x_leetcode": {
       "id": "2026-11-06_x_leetcode",
-      "title": "LeetCode Blind 75: #52 - Rotate Image",
+      "title": "LeetCode #48 - Rotate Image",
       "date": "2026-11-06",
       "completed": false,
       "skipped": false,
@@ -8277,6 +8250,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-11-01_x_jobapps": {
+      "id": "2026-11-01_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-11-06",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-11-07_x_jobapps": {
       "id": "2026-11-07_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8288,7 +8270,7 @@
     },
     "2026-11-07_x_leetcode": {
       "id": "2026-11-07_x_leetcode",
-      "title": "LeetCode Blind 75: #53 - Climbing Stairs",
+      "title": "LeetCode #70 - Climbing Stairs",
       "date": "2026-11-07",
       "completed": false,
       "skipped": false,
@@ -8303,24 +8285,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-11-08_x_jobapps": {
-      "id": "2026-11-08_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-11-08",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-11-08_x_leetcode": {
-      "id": "2026-11-08_x_leetcode",
-      "title": "LeetCode Blind 75: #54 - Coin Change",
-      "date": "2026-11-08",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-11-08_x_ahf": {
       "id": "2026-11-08_x_ahf",
@@ -8351,7 +8315,7 @@
     },
     "2026-11-09_x_leetcode": {
       "id": "2026-11-09_x_leetcode",
-      "title": "LeetCode Blind 75: #55 - Longest Increasing Subsequence",
+      "title": "LeetCode #300 - Longest Increasing Subsequence",
       "date": "2026-11-09",
       "completed": false,
       "skipped": false,
@@ -8385,10 +8349,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-11-10_x_jobapps": {
-      "id": "2026-11-10_x_jobapps",
+    "2026-11-03_x_jobapps": {
+      "id": "2026-11-03_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-10",
+      "date": "2026-11-09",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8396,7 +8360,7 @@
     },
     "2026-11-10_x_leetcode": {
       "id": "2026-11-10_x_leetcode",
-      "title": "LeetCode Blind 75: #56 - Longest Common Subsequence",
+      "title": "LeetCode #1143 - Longest Common Subsequence",
       "date": "2026-11-10",
       "completed": false,
       "skipped": false,
@@ -8450,7 +8414,7 @@
     },
     "2026-11-11_x_leetcode": {
       "id": "2026-11-11_x_leetcode",
-      "title": "LeetCode Blind 75: #57 - Word Break",
+      "title": "LeetCode #139 - Word Break",
       "date": "2026-11-11",
       "completed": false,
       "skipped": false,
@@ -8475,10 +8439,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-11-12_x_jobapps": {
-      "id": "2026-11-12_x_jobapps",
+    "2026-11-05_x_jobapps": {
+      "id": "2026-11-05_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-12",
+      "date": "2026-11-11",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8486,7 +8450,7 @@
     },
     "2026-11-12_x_leetcode": {
       "id": "2026-11-12_x_leetcode",
-      "title": "LeetCode Blind 75: #58 - Combination Sum IV",
+      "title": "LeetCode #377 - Combination Sum IV",
       "date": "2026-11-12",
       "completed": false,
       "skipped": false,
@@ -8511,6 +8475,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-11-15_x_leetcode": {
+      "id": "2026-11-15_x_leetcode",
+      "title": "LeetCode #91 - Decode Ways",
+      "date": "2026-11-12",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-11-13_x_jobapps": {
       "id": "2026-11-13_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8522,7 +8495,7 @@
     },
     "2026-11-13_x_leetcode": {
       "id": "2026-11-13_x_leetcode",
-      "title": "LeetCode Blind 75: #59 - House Robber",
+      "title": "LeetCode #198 - House Robber",
       "date": "2026-11-13",
       "completed": false,
       "skipped": false,
@@ -8556,6 +8529,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-11-08_x_jobapps": {
+      "id": "2026-11-08_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-11-13",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-11-14_x_jobapps": {
       "id": "2026-11-14_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8567,7 +8549,7 @@
     },
     "2026-11-14_x_leetcode": {
       "id": "2026-11-14_x_leetcode",
-      "title": "LeetCode Blind 75: #60 - House Robber II",
+      "title": "LeetCode #213 - House Robber II",
       "date": "2026-11-14",
       "completed": false,
       "skipped": false,
@@ -8582,24 +8564,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-11-15_x_jobapps": {
-      "id": "2026-11-15_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-11-15",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-11-15_x_leetcode": {
-      "id": "2026-11-15_x_leetcode",
-      "title": "LeetCode Blind 75: #61 - Decode Ways",
-      "date": "2026-11-15",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-11-15_x_ahf": {
       "id": "2026-11-15_x_ahf",
@@ -8630,7 +8594,7 @@
     },
     "2026-11-16_x_leetcode": {
       "id": "2026-11-16_x_leetcode",
-      "title": "LeetCode Blind 75: #62 - Unique Paths",
+      "title": "LeetCode #62 - Unique Paths",
       "date": "2026-11-16",
       "completed": false,
       "skipped": false,
@@ -8664,10 +8628,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-11-17_x_jobapps": {
-      "id": "2026-11-17_x_jobapps",
+    "2026-11-10_x_jobapps": {
+      "id": "2026-11-10_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-17",
+      "date": "2026-11-16",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8675,7 +8639,7 @@
     },
     "2026-11-17_x_leetcode": {
       "id": "2026-11-17_x_leetcode",
-      "title": "LeetCode Blind 75: #63 - Jump Game",
+      "title": "LeetCode #55 - Jump Game",
       "date": "2026-11-17",
       "completed": false,
       "skipped": false,
@@ -8729,7 +8693,7 @@
     },
     "2026-11-18_x_leetcode": {
       "id": "2026-11-18_x_leetcode",
-      "title": "LeetCode Blind 75: #64 - House Robber III",
+      "title": "LeetCode #337 - House Robber III",
       "date": "2026-11-18",
       "completed": false,
       "skipped": false,
@@ -8754,10 +8718,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-11-19_x_jobapps": {
-      "id": "2026-11-19_x_jobapps",
+    "2026-11-12_x_jobapps": {
+      "id": "2026-11-12_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-19",
+      "date": "2026-11-18",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8765,7 +8729,7 @@
     },
     "2026-11-19_x_leetcode": {
       "id": "2026-11-19_x_leetcode",
-      "title": "LeetCode Blind 75: #65 - Insert Interval",
+      "title": "LeetCode #57 - Insert Interval",
       "date": "2026-11-19",
       "completed": false,
       "skipped": false,
@@ -8790,6 +8754,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-11-22_x_leetcode": {
+      "id": "2026-11-22_x_leetcode",
+      "title": "LeetCode #252 - Meeting Rooms",
+      "date": "2026-11-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-11-20_x_jobapps": {
       "id": "2026-11-20_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8801,7 +8774,7 @@
     },
     "2026-11-20_x_leetcode": {
       "id": "2026-11-20_x_leetcode",
-      "title": "LeetCode Blind 75: #66 - Merge Intervals",
+      "title": "LeetCode #56 - Merge Intervals",
       "date": "2026-11-20",
       "completed": false,
       "skipped": false,
@@ -8835,6 +8808,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-11-15_x_jobapps": {
+      "id": "2026-11-15_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-11-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-11-21_x_jobapps": {
       "id": "2026-11-21_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8846,7 +8828,7 @@
     },
     "2026-11-21_x_leetcode": {
       "id": "2026-11-21_x_leetcode",
-      "title": "LeetCode Blind 75: #67 - Non-overlapping Intervals",
+      "title": "LeetCode #435 - Non-overlapping Intervals",
       "date": "2026-11-21",
       "completed": false,
       "skipped": false,
@@ -8861,24 +8843,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-11-22_x_jobapps": {
-      "id": "2026-11-22_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-11-22",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-11-22_x_leetcode": {
-      "id": "2026-11-22_x_leetcode",
-      "title": "LeetCode Blind 75: #68 - Meeting Rooms",
-      "date": "2026-11-22",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-11-22_x_ahf": {
       "id": "2026-11-22_x_ahf",
@@ -8909,7 +8873,7 @@
     },
     "2026-11-23_x_leetcode": {
       "id": "2026-11-23_x_leetcode",
-      "title": "LeetCode Blind 75: #69 - Meeting Rooms II",
+      "title": "LeetCode #253 - Meeting Rooms II",
       "date": "2026-11-23",
       "completed": false,
       "skipped": false,
@@ -8943,10 +8907,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-11-24_x_jobapps": {
-      "id": "2026-11-24_x_jobapps",
+    "2026-11-17_x_jobapps": {
+      "id": "2026-11-17_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-24",
+      "date": "2026-11-23",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -8954,7 +8918,7 @@
     },
     "2026-11-24_x_leetcode": {
       "id": "2026-11-24_x_leetcode",
-      "title": "LeetCode Blind 75: #70 - Sum of Two Integers",
+      "title": "LeetCode #371 - Sum of Two Integers",
       "date": "2026-11-24",
       "completed": false,
       "skipped": false,
@@ -9008,7 +8972,7 @@
     },
     "2026-11-25_x_leetcode": {
       "id": "2026-11-25_x_leetcode",
-      "title": "LeetCode Blind 75: #71 - Number of 1 Bits",
+      "title": "LeetCode #191 - Number of 1 Bits",
       "date": "2026-11-25",
       "completed": false,
       "skipped": false,
@@ -9033,10 +8997,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-11-26_x_jobapps": {
-      "id": "2026-11-26_x_jobapps",
+    "2026-11-19_x_jobapps": {
+      "id": "2026-11-19_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-11-26",
+      "date": "2026-11-25",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9044,7 +9008,7 @@
     },
     "2026-11-26_x_leetcode": {
       "id": "2026-11-26_x_leetcode",
-      "title": "LeetCode Blind 75: #72 - Counting Bits",
+      "title": "LeetCode #338 - Counting Bits",
       "date": "2026-11-26",
       "completed": false,
       "skipped": false,
@@ -9069,6 +9033,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-11-29_x_leetcode": {
+      "id": "2026-11-29_x_leetcode",
+      "title": "LeetCode #271 - Encode and Decode Strings",
+      "date": "2026-11-26",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-11-27_x_jobapps": {
       "id": "2026-11-27_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9080,7 +9053,7 @@
     },
     "2026-11-27_x_leetcode": {
       "id": "2026-11-27_x_leetcode",
-      "title": "LeetCode Blind 75: #73 - Reverse Bits",
+      "title": "LeetCode #190 - Reverse Bits",
       "date": "2026-11-27",
       "completed": false,
       "skipped": false,
@@ -9114,6 +9087,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-11-22_x_jobapps": {
+      "id": "2026-11-22_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-11-27",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-11-28_x_jobapps": {
       "id": "2026-11-28_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9125,7 +9107,7 @@
     },
     "2026-11-28_x_leetcode": {
       "id": "2026-11-28_x_leetcode",
-      "title": "LeetCode Blind 75: #74 - Missing Number",
+      "title": "LeetCode #268 - Missing Number",
       "date": "2026-11-28",
       "completed": false,
       "skipped": false,
@@ -9140,24 +9122,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-11-29_x_jobapps": {
-      "id": "2026-11-29_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-11-29",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-11-29_x_leetcode": {
-      "id": "2026-11-29_x_leetcode",
-      "title": "LeetCode Blind 75: #75 - Encode and Decode Strings",
-      "date": "2026-11-29",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-11-29_x_ahf": {
       "id": "2026-11-29_x_ahf",
@@ -9188,7 +9152,7 @@
     },
     "2026-11-30_x_leetcode": {
       "id": "2026-11-30_x_leetcode",
-      "title": "LeetCode Blind 75: #1 - Two Sum",
+      "title": "LeetCode #1 - Two Sum",
       "date": "2026-11-30",
       "completed": false,
       "skipped": false,
@@ -9222,10 +9186,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-12-01_x_jobapps": {
-      "id": "2026-12-01_x_jobapps",
+    "2026-11-24_x_jobapps": {
+      "id": "2026-11-24_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-01",
+      "date": "2026-11-30",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9233,7 +9197,7 @@
     },
     "2026-12-01_x_leetcode": {
       "id": "2026-12-01_x_leetcode",
-      "title": "LeetCode Blind 75: #2 - Best Time to Buy and Sell Stock",
+      "title": "LeetCode #121 - Best Time to Buy and Sell Stock",
       "date": "2026-12-01",
       "completed": false,
       "skipped": false,
@@ -9287,7 +9251,7 @@
     },
     "2026-12-02_x_leetcode": {
       "id": "2026-12-02_x_leetcode",
-      "title": "LeetCode Blind 75: #3 - Contains Duplicate",
+      "title": "LeetCode #217 - Contains Duplicate",
       "date": "2026-12-02",
       "completed": false,
       "skipped": false,
@@ -9312,10 +9276,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-12-03_x_jobapps": {
-      "id": "2026-12-03_x_jobapps",
+    "2026-11-26_x_jobapps": {
+      "id": "2026-11-26_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-03",
+      "date": "2026-12-02",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9323,7 +9287,7 @@
     },
     "2026-12-03_x_leetcode": {
       "id": "2026-12-03_x_leetcode",
-      "title": "LeetCode Blind 75: #4 - Product of Array Except Self",
+      "title": "LeetCode #238 - Product of Array Except Self",
       "date": "2026-12-03",
       "completed": false,
       "skipped": false,
@@ -9348,6 +9312,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-12-06_x_leetcode": {
+      "id": "2026-12-06_x_leetcode",
+      "title": "LeetCode #153 - Find Minimum in Rotated Sorted Array",
+      "date": "2026-12-03",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-12-04_x_jobapps": {
       "id": "2026-12-04_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9359,7 +9332,7 @@
     },
     "2026-12-04_x_leetcode": {
       "id": "2026-12-04_x_leetcode",
-      "title": "LeetCode Blind 75: #5 - Maximum Subarray",
+      "title": "LeetCode #53 - Maximum Subarray",
       "date": "2026-12-04",
       "completed": false,
       "skipped": false,
@@ -9393,6 +9366,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-11-29_x_jobapps": {
+      "id": "2026-11-29_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-12-04",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-12-05_x_jobapps": {
       "id": "2026-12-05_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9404,7 +9386,7 @@
     },
     "2026-12-05_x_leetcode": {
       "id": "2026-12-05_x_leetcode",
-      "title": "LeetCode Blind 75: #6 - Maximum Product Subarray",
+      "title": "LeetCode #152 - Maximum Product Subarray",
       "date": "2026-12-05",
       "completed": false,
       "skipped": false,
@@ -9419,24 +9401,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-12-06_x_jobapps": {
-      "id": "2026-12-06_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-12-06",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-12-06_x_leetcode": {
-      "id": "2026-12-06_x_leetcode",
-      "title": "LeetCode Blind 75: #7 - Find Minimum in Rotated Sorted Array",
-      "date": "2026-12-06",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-12-06_x_ahf": {
       "id": "2026-12-06_x_ahf",
@@ -9467,7 +9431,7 @@
     },
     "2026-12-07_x_leetcode": {
       "id": "2026-12-07_x_leetcode",
-      "title": "LeetCode Blind 75: #8 - Search in Rotated Sorted Array",
+      "title": "LeetCode #33 - Search in Rotated Sorted Array",
       "date": "2026-12-07",
       "completed": false,
       "skipped": false,
@@ -9501,10 +9465,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-12-08_x_jobapps": {
-      "id": "2026-12-08_x_jobapps",
+    "2026-12-01_x_jobapps": {
+      "id": "2026-12-01_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-08",
+      "date": "2026-12-07",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9512,7 +9476,7 @@
     },
     "2026-12-08_x_leetcode": {
       "id": "2026-12-08_x_leetcode",
-      "title": "LeetCode Blind 75: #9 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-12-08",
       "completed": false,
       "skipped": false,
@@ -9566,7 +9530,7 @@
     },
     "2026-12-09_x_leetcode": {
       "id": "2026-12-09_x_leetcode",
-      "title": "LeetCode Blind 75: #10 - Container With Most Water",
+      "title": "LeetCode #11 - Container With Most Water",
       "date": "2026-12-09",
       "completed": false,
       "skipped": false,
@@ -9591,10 +9555,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-12-10_x_jobapps": {
-      "id": "2026-12-10_x_jobapps",
+    "2026-12-03_x_jobapps": {
+      "id": "2026-12-03_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-10",
+      "date": "2026-12-09",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9602,7 +9566,7 @@
     },
     "2026-12-10_x_leetcode": {
       "id": "2026-12-10_x_leetcode",
-      "title": "LeetCode Blind 75: #11 - Valid Palindrome",
+      "title": "LeetCode #125 - Valid Palindrome",
       "date": "2026-12-10",
       "completed": false,
       "skipped": false,
@@ -9627,6 +9591,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-12-13_x_leetcode": {
+      "id": "2026-12-13_x_leetcode",
+      "title": "LeetCode #424 - Longest Repeating Character Replacement",
+      "date": "2026-12-10",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-12-11_x_jobapps": {
       "id": "2026-12-11_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9638,7 +9611,7 @@
     },
     "2026-12-11_x_leetcode": {
       "id": "2026-12-11_x_leetcode",
-      "title": "LeetCode Blind 75: #12 - 3Sum",
+      "title": "LeetCode #15 - 3Sum",
       "date": "2026-12-11",
       "completed": false,
       "skipped": false,
@@ -9672,6 +9645,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-12-06_x_jobapps": {
+      "id": "2026-12-06_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-12-11",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-12-12_x_jobapps": {
       "id": "2026-12-12_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9683,7 +9665,7 @@
     },
     "2026-12-12_x_leetcode": {
       "id": "2026-12-12_x_leetcode",
-      "title": "LeetCode Blind 75: #13 - Longest Substring Without Repeating Characters",
+      "title": "LeetCode #3 - Longest Substring Without Repeating Characters",
       "date": "2026-12-12",
       "completed": false,
       "skipped": false,
@@ -9698,24 +9680,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-12-13_x_jobapps": {
-      "id": "2026-12-13_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-12-13",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-12-13_x_leetcode": {
-      "id": "2026-12-13_x_leetcode",
-      "title": "LeetCode Blind 75: #14 - Longest Repeating Character Replacement",
-      "date": "2026-12-13",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-12-13_x_ahf": {
       "id": "2026-12-13_x_ahf",
@@ -9746,7 +9710,7 @@
     },
     "2026-12-14_x_leetcode": {
       "id": "2026-12-14_x_leetcode",
-      "title": "LeetCode Blind 75: #15 - Minimum Window Substring",
+      "title": "LeetCode #76 - Minimum Window Substring",
       "date": "2026-12-14",
       "completed": false,
       "skipped": false,
@@ -9780,10 +9744,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-12-15_x_jobapps": {
-      "id": "2026-12-15_x_jobapps",
+    "2026-12-08_x_jobapps": {
+      "id": "2026-12-08_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-15",
+      "date": "2026-12-14",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9791,7 +9755,7 @@
     },
     "2026-12-15_x_leetcode": {
       "id": "2026-12-15_x_leetcode",
-      "title": "LeetCode Blind 75: #16 - Valid Anagram",
+      "title": "LeetCode #242 - Valid Anagram",
       "date": "2026-12-15",
       "completed": false,
       "skipped": false,
@@ -9845,7 +9809,7 @@
     },
     "2026-12-16_x_leetcode": {
       "id": "2026-12-16_x_leetcode",
-      "title": "LeetCode Blind 75: #17 - Group Anagrams",
+      "title": "LeetCode #49 - Group Anagrams",
       "date": "2026-12-16",
       "completed": false,
       "skipped": false,
@@ -9870,10 +9834,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-12-17_x_jobapps": {
-      "id": "2026-12-17_x_jobapps",
+    "2026-12-10_x_jobapps": {
+      "id": "2026-12-10_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-17",
+      "date": "2026-12-16",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -9881,7 +9845,7 @@
     },
     "2026-12-17_x_leetcode": {
       "id": "2026-12-17_x_leetcode",
-      "title": "LeetCode Blind 75: #18 - Valid Parentheses",
+      "title": "LeetCode #20 - Valid Parentheses",
       "date": "2026-12-17",
       "completed": false,
       "skipped": false,
@@ -9906,6 +9870,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-12-20_x_leetcode": {
+      "id": "2026-12-20_x_leetcode",
+      "title": "LeetCode #21 - Merge Two Sorted Lists",
+      "date": "2026-12-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-12-18_x_jobapps": {
       "id": "2026-12-18_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9917,7 +9890,7 @@
     },
     "2026-12-18_x_leetcode": {
       "id": "2026-12-18_x_leetcode",
-      "title": "LeetCode Blind 75: #19 - Linked List Cycle",
+      "title": "LeetCode #141 - Linked List Cycle",
       "date": "2026-12-18",
       "completed": false,
       "skipped": false,
@@ -9951,6 +9924,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-12-13_x_jobapps": {
+      "id": "2026-12-13_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-12-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-12-19_x_jobapps": {
       "id": "2026-12-19_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9962,7 +9944,7 @@
     },
     "2026-12-19_x_leetcode": {
       "id": "2026-12-19_x_leetcode",
-      "title": "LeetCode Blind 75: #20 - Reverse Linked List",
+      "title": "LeetCode #206 - Reverse Linked List",
       "date": "2026-12-19",
       "completed": false,
       "skipped": false,
@@ -9977,24 +9959,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
-    },
-    "2026-12-20_x_jobapps": {
-      "id": "2026-12-20_x_jobapps",
-      "title": "Job applications (5 today)",
-      "date": "2026-12-20",
-      "completed": false,
-      "skipped": false,
-      "duration": 1.5,
-      "category": "jobapps"
-    },
-    "2026-12-20_x_leetcode": {
-      "id": "2026-12-20_x_leetcode",
-      "title": "LeetCode Blind 75: #21 - Merge Two Sorted Lists",
-      "date": "2026-12-20",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-12-20_x_ahf": {
       "id": "2026-12-20_x_ahf",
@@ -10025,7 +9989,7 @@
     },
     "2026-12-21_x_leetcode": {
       "id": "2026-12-21_x_leetcode",
-      "title": "LeetCode Blind 75: #22 - Reorder List",
+      "title": "LeetCode #143 - Reorder List",
       "date": "2026-12-21",
       "completed": false,
       "skipped": false,
@@ -10059,10 +10023,10 @@
       "duration": 0.5,
       "category": "mentor"
     },
-    "2026-12-22_x_jobapps": {
-      "id": "2026-12-22_x_jobapps",
+    "2026-12-15_x_jobapps": {
+      "id": "2026-12-15_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-22",
+      "date": "2026-12-21",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -10070,7 +10034,7 @@
     },
     "2026-12-22_x_leetcode": {
       "id": "2026-12-22_x_leetcode",
-      "title": "LeetCode Blind 75: #23 - Remove Nth Node From End of List",
+      "title": "LeetCode #19 - Remove Nth Node From End of List",
       "date": "2026-12-22",
       "completed": false,
       "skipped": false,
@@ -10124,7 +10088,7 @@
     },
     "2026-12-23_x_leetcode": {
       "id": "2026-12-23_x_leetcode",
-      "title": "LeetCode Blind 75: #24 - Merge k Sorted Lists",
+      "title": "LeetCode #23 - Merge k Sorted Lists",
       "date": "2026-12-23",
       "completed": false,
       "skipped": false,
@@ -10149,10 +10113,10 @@
       "duration": 2.5,
       "category": "palana"
     },
-    "2026-12-24_x_jobapps": {
-      "id": "2026-12-24_x_jobapps",
+    "2026-12-17_x_jobapps": {
+      "id": "2026-12-17_x_jobapps",
       "title": "Job applications (5 today)",
-      "date": "2026-12-24",
+      "date": "2026-12-23",
       "completed": false,
       "skipped": false,
       "duration": 1.5,
@@ -10160,7 +10124,7 @@
     },
     "2026-12-24_x_leetcode": {
       "id": "2026-12-24_x_leetcode",
-      "title": "LeetCode Blind 75: #25 - Linked List Cycle II",
+      "title": "LeetCode #142 - Linked List Cycle II",
       "date": "2026-12-24",
       "completed": false,
       "skipped": false,
@@ -10185,6 +10149,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-12-27_x_leetcode": {
+      "id": "2026-12-27_x_leetcode",
+      "title": "LeetCode #100 - Same Tree",
+      "date": "2026-12-24",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "leetcode"
+    },
     "2026-12-25_x_jobapps": {
       "id": "2026-12-25_x_jobapps",
       "title": "Job applications (5 today)",
@@ -10196,7 +10169,7 @@
     },
     "2026-12-25_x_leetcode": {
       "id": "2026-12-25_x_leetcode",
-      "title": "LeetCode Blind 75: #26 - Invert Binary Tree",
+      "title": "LeetCode #226 - Invert Binary Tree",
       "date": "2026-12-25",
       "completed": false,
       "skipped": false,
@@ -10230,6 +10203,15 @@
       "duration": 1,
       "category": "winfo"
     },
+    "2026-12-20_x_jobapps": {
+      "id": "2026-12-20_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-12-25",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-12-26_x_jobapps": {
       "id": "2026-12-26_x_jobapps",
       "title": "Job applications (5 today)",
@@ -10241,7 +10223,7 @@
     },
     "2026-12-26_x_leetcode": {
       "id": "2026-12-26_x_leetcode",
-      "title": "LeetCode Blind 75: #27 - Maximum Depth of Binary Tree",
+      "title": "LeetCode #104 - Maximum Depth of Binary Tree",
       "date": "2026-12-26",
       "completed": false,
       "skipped": false,
@@ -10265,15 +10247,6 @@
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
-    },
-    "2026-12-27_x_leetcode": {
-      "id": "2026-12-27_x_leetcode",
-      "title": "LeetCode Blind 75: #28 - Same Tree",
-      "date": "2026-12-27",
-      "completed": false,
-      "skipped": false,
-      "duration": 0.75,
-      "category": "leetcode"
     },
     "2026-12-27_x_ahf": {
       "id": "2026-12-27_x_ahf",
@@ -10304,7 +10277,7 @@
     },
     "2026-12-28_x_leetcode": {
       "id": "2026-12-28_x_leetcode",
-      "title": "LeetCode Blind 75: #29 - Subtree of Another Tree",
+      "title": "LeetCode #572 - Subtree of Another Tree",
       "date": "2026-12-28",
       "completed": false,
       "skipped": false,
@@ -10338,6 +10311,15 @@
       "duration": 0.5,
       "category": "mentor"
     },
+    "2026-12-22_x_jobapps": {
+      "id": "2026-12-22_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-12-28",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-12-29_x_jobapps": {
       "id": "2026-12-29_x_jobapps",
       "title": "Job applications (5 today)",
@@ -10349,7 +10331,7 @@
     },
     "2026-12-29_x_leetcode": {
       "id": "2026-12-29_x_leetcode",
-      "title": "LeetCode Blind 75: #30 - Lowest Common Ancestor of a Binary Search Tree",
+      "title": "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree",
       "date": "2026-12-29",
       "completed": false,
       "skipped": false,
@@ -10403,7 +10385,7 @@
     },
     "2026-12-30_x_leetcode": {
       "id": "2026-12-30_x_leetcode",
-      "title": "LeetCode Blind 75: #31 - Binary Tree Level Order Traversal",
+      "title": "LeetCode #102 - Binary Tree Level Order Traversal",
       "date": "2026-12-30",
       "completed": false,
       "skipped": false,
@@ -10428,6 +10410,15 @@
       "duration": 2.5,
       "category": "palana"
     },
+    "2026-12-24_x_jobapps": {
+      "id": "2026-12-24_x_jobapps",
+      "title": "Job applications (5 today)",
+      "date": "2026-12-30",
+      "completed": false,
+      "skipped": false,
+      "duration": 1.5,
+      "category": "jobapps"
+    },
     "2026-12-31_x_jobapps": {
       "id": "2026-12-31_x_jobapps",
       "title": "Job applications (5 today)",
@@ -10439,7 +10430,7 @@
     },
     "2026-12-31_x_leetcode": {
       "id": "2026-12-31_x_leetcode",
-      "title": "LeetCode Blind 75: #32 - Validate Binary Search Tree",
+      "title": "LeetCode #98 - Validate Binary Search Tree",
       "date": "2026-12-31",
       "completed": false,
       "skipped": false,
