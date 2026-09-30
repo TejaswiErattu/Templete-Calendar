@@ -35,15 +35,67 @@ async function getGoogleAccessToken(sa) {
   return (await res.json()).access_token;
 }
 
+function decodeFirestoreValue(field) {
+  if (!field) return undefined;
+  if ('stringValue' in field) return field.stringValue;
+  if ('integerValue' in field) return Number(field.integerValue);
+  if ('doubleValue' in field) return field.doubleValue;
+  if ('booleanValue' in field) return field.booleanValue;
+  if ('timestampValue' in field) return field.timestampValue;
+  if ('nullValue' in field) return null;
+  if (field.arrayValue) return (field.arrayValue.values || []).map(decodeFirestoreValue);
+  if (field.mapValue) {
+    return Object.fromEntries(Object.entries(field.mapValue.fields || {}).map(([k, v]) => [k, decodeFirestoreValue(v)]));
+  }
+  return undefined;
+}
+
+async function firestoreGet(url, token, optional = false) {
+  const res = await fetch(url, { headers: { authorization: `Bearer ${token}` } });
+  if (optional && res.status === 404) return null;
+  if (!res.ok) throw new Error(`Firestore read failed (${res.status}): ${await res.text()}`);
+  return res.json();
+}
+
 async function readSummerState(sa, uid) {
   const token = await getGoogleAccessToken(sa);
-  const url = `https://firestore.googleapis.com/v1/projects/${encodeURIComponent(sa.project_id)}/databases/(default)/documents/users/${encodeURIComponent(uid)}`;
-  const res = await fetch(url, { headers: { authorization: `Bearer ${token}` } });
-  if (!res.ok) throw new Error(`Firestore read failed (${res.status}): ${await res.text()}`);
-  const doc = await res.json();
-  const raw = doc?.fields?.state?.stringValue;
-  if (!raw) throw new Error('Firestore user document is missing fields.state.stringValue');
-  return { appState: JSON.parse(raw), updatedAt: doc?.fields?.updatedAt?.timestampValue || null };
+  const base = `https://firestore.googleapis.com/v1/projects/${encodeURIComponent(sa.project_id)}/databases/(default)/documents/users/${encodeURIComponent(uid)}`;
+  const doc = await firestoreGet(base, token);
+
+  const legacyRaw = doc?.fields?.state?.stringValue;
+  if (legacyRaw) {
+    return { appState: JSON.parse(legacyRaw), updatedAt: doc?.fields?.updatedAt?.timestampValue || null };
+  }
+
+  const schema = decodeFirestoreValue(doc?.fields?.schema);
+  const rootRaw = decodeFirestoreValue(doc?.fields?.root);
+  const months = decodeFirestoreValue(doc?.fields?.months);
+  const meta = decodeFirestoreValue(doc?.fields?.meta);
+  if (schema !== 2 || typeof rootRaw !== 'string' || !Array.isArray(months)) {
+    throw new Error('Firestore user document is not in a supported calendar state format');
+  }
+
+  const appState = JSON.parse(rootRaw || '{}');
+  const monthDocs = await Promise.all(months.map(month =>
+    firestoreGet(`${base}/months/${encodeURIComponent(month)}`, token, true)
+  ));
+
+  const days = [];
+  for (let i = 0; i < months.length; i += 1) {
+    const raw = decodeFirestoreValue(monthDocs[i]?.fields?.days);
+    if (typeof raw !== 'string') continue;
+    const parsed = JSON.parse(raw);
+    if (Array.isArray(parsed)) days.push(...parsed);
+  }
+  days.sort((a, b) => String(a?.date || '').localeCompare(String(b?.date || '')));
+  appState.days = days;
+
+  const notesDoc = await firestoreGet(`${base}/notes/main`, token, true);
+  const notesRaw = decodeFirestoreValue(notesDoc?.fields?.notes);
+  appState.taskNotes = typeof notesRaw === 'string' ? JSON.parse(notesRaw) : {};
+  if (meta && typeof meta === 'object') appState.meta = meta;
+
+  return { appState, updatedAt: doc?.fields?.updatedAt?.timestampValue || null };
 }
 
 function flattenTasks(appState) {
