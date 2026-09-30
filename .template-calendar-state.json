@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-09-30T01:00:37.371Z",
-  "firestoreUpdatedAt": "2026-09-28T21:26:50.274Z",
+  "lastCheckedAt": "2026-09-30T02:23:02.179Z",
+  "firestoreUpdatedAt": "2026-09-30T01:26:16.261Z",
   "sourceHead": "6aa6ca420f5a949dc64ea59bcd89db52bcdbc1e9",
   "tasks": {
     "2026-06-13_ahf": {
@@ -6463,7 +6463,7 @@
       "id": "2026-09-28_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -6472,7 +6472,7 @@
       "id": "2026-09-28_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"

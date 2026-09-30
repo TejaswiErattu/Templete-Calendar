@@ -1744,3 +1744,5 @@
 - Removed task "AWS AI Practitioner Certification Exam (Part B)".
 - Removed task "CompTIA Security+ SY0-701 Certification Exam".
 - Website update: feat: rollover, split cloud sync, assistant hardening, capacity rebalance, export and CSS cleanup.
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
