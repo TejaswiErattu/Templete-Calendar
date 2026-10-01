@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-01T04:15:57.530Z",
-  "firestoreUpdatedAt": "2026-09-30T01:26:16.261Z",
+  "lastCheckedAt": "2026-10-01T05:13:35.599Z",
+  "firestoreUpdatedAt": "2026-10-01T04:19:45.626Z",
   "sourceHead": "6aa6ca420f5a949dc64ea59bcd89db52bcdbc1e9",
   "tasks": {
     "2026-06-13_ahf": {
@@ -6400,7 +6400,7 @@
       "id": "2026-09-27_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -6436,7 +6436,7 @@
       "id": "2026-09-27_x_hackprep_kiro_hack_2",
       "title": "Kiro Hackathon prep (2 of 2)",
       "date": "2026-09-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "hackathons"
@@ -6526,7 +6526,7 @@
       "id": "2026-09-28_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-09-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -6535,7 +6535,7 @@
       "id": "2026-09-29_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -6553,7 +6553,7 @@
       "id": "2026-09-29_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6571,7 +6571,7 @@
       "id": "2026-09-29_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-09-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -6580,7 +6580,7 @@
       "id": "2026-09-29_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-09-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -6589,7 +6589,7 @@
       "id": "2026-09-30_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-09-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -6607,7 +6607,7 @@
       "id": "2026-09-30_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-09-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
