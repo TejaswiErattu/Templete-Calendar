@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-02T01:29:13.281Z",
-  "firestoreUpdatedAt": "2026-10-01T04:19:45.626Z",
+  "lastCheckedAt": "2026-10-02T02:21:30.321Z",
+  "firestoreUpdatedAt": "2026-10-02T01:40:41.009Z",
   "sourceHead": "6aa6ca420f5a949dc64ea59bcd89db52bcdbc1e9",
   "tasks": {
     "2026-06-13_ahf": {
@@ -6004,7 +6004,7 @@
       "id": "2026-09-21_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -6490,7 +6490,7 @@
       "id": "2026-09-28_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -6625,7 +6625,7 @@
       "id": "2026-09-30_x_github",
       "title": "Git developer tool session",
       "date": "2026-09-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "github"
@@ -6643,7 +6643,7 @@
       "id": "2026-10-01_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -6661,7 +6661,7 @@
       "id": "2026-10-01_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
