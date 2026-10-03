@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:17:55.636Z",
+  "updatedAt": "2026-10-03T05:12:20.640Z",
   "entries": [
     {
       "id": "5b80c379f938c01f5dc021c8",
@@ -8775,6 +8775,16 @@
       "id": "d1b82f90f28cd0cea130d5da",
       "date": "2026-10-01",
       "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "git:1bbea13a89a4b1081ff5ba30695482b8f0ca6d69",
+      "date": "2026-10-02",
+      "text": "Website update: feat: add demo mode with in-memory sample data."
+    },
+    {
+      "id": "git:19ca1853067918e79f5f5c3f422ed6282bb9a916",
+      "date": "2026-10-02",
+      "text": "Website update: Merge pull request #1 from TejaswiErattu/feat/demo-mode."
     }
   ]
 }

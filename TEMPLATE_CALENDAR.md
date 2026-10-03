@@ -1766,3 +1766,8 @@
 - Completed "Git developer tool session".
 - Completed "Job applications (5 today)".
 - Completed "AHF work (tech lead duties)".
+
+## October 2, 2026
+
+- Website update: feat: add demo mode with in-memory sample data.
+- Website update: Merge pull request #1 from TejaswiErattu/feat/demo-mode.
