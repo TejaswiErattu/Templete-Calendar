@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-08T07:22:27.086Z",
-  "firestoreUpdatedAt": "2026-10-05T07:00:49.418Z",
+  "lastCheckedAt": "2026-10-08T08:19:54.003Z",
+  "firestoreUpdatedAt": "2026-10-08T08:07:16.014Z",
   "sourceHead": "19ca1853067918e79f5f5c3f422ed6282bb9a916",
   "tasks": {
     "2026-06-13_ahf": {
@@ -6931,7 +6931,7 @@
       "id": "2026-10-06_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -6940,7 +6940,7 @@
       "id": "2026-10-06_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -6967,7 +6967,7 @@
       "id": "2026-10-06_x_palana_threatmodel_b",
       "title": "Palana: threat model work",
       "date": "2026-10-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -6976,7 +6976,7 @@
       "id": "2026-10-06_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -6985,7 +6985,7 @@
       "id": "2026-10-06_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-10-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -7003,7 +7003,7 @@
       "id": "2026-10-07_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-07",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -7030,7 +7030,7 @@
       "id": "2026-10-07_x_palana_pentest_a",
       "title": "Palana: pen test",
       "date": "2026-10-07",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -7048,7 +7048,7 @@
       "id": "2026-10-08_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-08",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7057,7 +7057,7 @@
       "id": "2026-10-08_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-08",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -7066,7 +7066,7 @@
       "id": "2026-10-08_x_palana_pentest_b",
       "title": "Palana: pen test",
       "date": "2026-10-08",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
