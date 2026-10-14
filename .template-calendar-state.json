@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-14T20:12:37.268Z",
-  "firestoreUpdatedAt": "2026-10-08T08:07:16.014Z",
+  "lastCheckedAt": "2026-10-14T21:11:34.982Z",
+  "firestoreUpdatedAt": "2026-10-14T20:32:51.421Z",
   "sourceHead": "19ca1853067918e79f5f5c3f422ed6282bb9a916",
   "tasks": {
     "2026-06-13_ahf": {
@@ -6850,7 +6850,7 @@
       "id": "2026-10-04_x_ahf_informatics",
       "title": "AHF: Learn Informatics website updates",
       "date": "2026-10-04",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -7075,7 +7075,7 @@
       "id": "2026-10-09_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7102,7 +7102,7 @@
       "id": "2026-10-09_x_hackprep_dubhacks_1",
       "title": "DubHacks prep (1 of 2)",
       "date": "2026-10-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "hackathons"
@@ -7111,7 +7111,7 @@
       "id": "2026-10-09_x_palana_docs",
       "title": "Palana: documentation",
       "date": "2026-10-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "palana"
@@ -7120,7 +7120,7 @@
       "id": "2026-10-09_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -7147,7 +7147,7 @@
       "id": "2026-10-10_x_hackprep_dubhacks_2",
       "title": "DubHacks prep (2 of 2)",
       "date": "2026-10-10",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "hackathons"
@@ -7156,7 +7156,7 @@
       "id": "2026-10-11_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7174,7 +7174,7 @@
       "id": "2026-10-11_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -7183,7 +7183,7 @@
       "id": "2026-10-11_x_hack_dubhacks",
       "title": "DubHacks — event day",
       "date": "2026-10-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 8,
       "category": "hackathons"
@@ -7192,7 +7192,7 @@
       "id": "2026-10-12_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7210,7 +7210,7 @@
       "id": "2026-10-12_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -7219,7 +7219,7 @@
       "id": "2026-10-12_x_palana_threatmodel_a",
       "title": "Palana: threat model work",
       "date": "2026-10-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -7228,7 +7228,7 @@
       "id": "2026-10-12_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-10-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -7237,7 +7237,7 @@
       "id": "2026-10-05_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7255,7 +7255,7 @@
       "id": "2026-10-13_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-13",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "ahf"
@@ -7264,7 +7264,7 @@
       "id": "2026-10-13_x_palana_threatmodel_b",
       "title": "Palana: threat model work",
       "date": "2026-10-13",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -7273,7 +7273,7 @@
       "id": "2026-10-13_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-13",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -7282,7 +7282,7 @@
       "id": "2026-10-13_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-10-13",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -7291,7 +7291,7 @@
       "id": "2026-10-14_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7327,10 +7327,64 @@
       "id": "2026-10-07_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
+    },
+    "2026-10-14_bot_mv8jzyyt_1": {
+      "id": "2026-10-14_bot_mv8jzyyt_1",
+      "title": "2:30 L06 Recursive Code, KNE 220",
+      "date": "2026-10-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.83,
+      "category": "catchup"
+    },
+    "2026-10-14_bot_mv8jzyyz_2": {
+      "id": "2026-10-14_bot_mv8jzyyz_2",
+      "title": "P0 ArrayProblems: toString",
+      "date": "2026-10-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-14_bot_mv8jzyyz_3": {
+      "id": "2026-10-14_bot_mv8jzyyz_3",
+      "title": "P0 ArrayProblems: reverse",
+      "date": "2026-10-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-14_bot_mv8jzyyz_4": {
+      "id": "2026-10-14_bot_mv8jzyyz_4",
+      "title": "P0 ArrayProblems: rotateRight",
+      "date": "2026-10-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-14_bot_mv8k9fcy_29": {
+      "id": "2026-10-14_bot_mv8k9fcy_29",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-14_bot_mv8k9fcz_39": {
+      "id": "2026-10-14_bot_mv8k9fcz_39",
+      "title": "DubHacks work",
+      "date": "2026-10-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
     },
     "2026-10-15_x_leetcode": {
       "id": "2026-10-15_x_leetcode",
@@ -7367,6 +7421,42 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-10-15_bot_mv8jzyyz_5": {
+      "id": "2026-10-15_bot_mv8jzyyz_5",
+      "title": "Section 02 worksheet",
+      "date": "2026-10-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-15_bot_mv8jzyz6_6": {
+      "id": "2026-10-15_bot_mv8jzyz6_6",
+      "title": "Check Section 02 solutions",
+      "date": "2026-10-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-15_bot_mv8k9fcy_30": {
+      "id": "2026-10-15_bot_mv8k9fcy_30",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-15_bot_mv8k9fcz_40": {
+      "id": "2026-10-15_bot_mv8k9fcz_40",
+      "title": "DubHacks work",
+      "date": "2026-10-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
     },
     "2026-10-16_x_jobapps": {
       "id": "2026-10-16_x_jobapps",
@@ -7422,6 +7512,60 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-10-16_bot_mv8jzyzc_7": {
+      "id": "2026-10-16_bot_mv8jzyzc_7",
+      "title": "Pre-read Hash Tables, first half",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-16_bot_mv8jzyzj_8": {
+      "id": "2026-10-16_bot_mv8jzyzj_8",
+      "title": "2:30 L07 Intro to Hashing",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.83,
+      "category": "catchup"
+    },
+    "2026-10-16_bot_mv8jzyzo_9": {
+      "id": "2026-10-16_bot_mv8jzyzo_9",
+      "title": "Build array-backed stack from memory (push, pop, peek, size, resize)",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-16_bot_mv8jzyzo_10": {
+      "id": "2026-10-16_bot_mv8jzyzo_10",
+      "title": "Compare to algs4 ResizingArrayStack",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-16_bot_mv8k9fcy_31": {
+      "id": "2026-10-16_bot_mv8k9fcy_31",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-16_bot_mv8k9fcz_41": {
+      "id": "2026-10-16_bot_mv8k9fcz_41",
+      "title": "DubHacks work",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
     "2026-10-17_x_jobapps": {
       "id": "2026-10-17_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7449,6 +7593,51 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-10-17_bot_mv8jzyzt_11": {
+      "id": "2026-10-17_bot_mv8jzyzt_11",
+      "title": "P0 MapProblems: contains3, intersect",
+      "date": "2026-10-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-17_bot_mv8jzyzt_12": {
+      "id": "2026-10-17_bot_mv8jzyzt_12",
+      "title": "P0 LinkedIntListProblems: reverse3, firstToLast",
+      "date": "2026-10-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-17_bot_mv8jzyzt_13": {
+      "id": "2026-10-17_bot_mv8jzyzt_13",
+      "title": "Run all P0 tests",
+      "date": "2026-10-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-17_bot_mv8jzyzt_14": {
+      "id": "2026-10-17_bot_mv8jzyzt_14",
+      "title": "HW1 due",
+      "date": "2026-10-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-17_bot_mv8k9fcy_32": {
+      "id": "2026-10-17_bot_mv8k9fcy_32",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
     "2026-10-18_x_ahf": {
       "id": "2026-10-18_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -7466,6 +7655,42 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-10-18_bot_mv8jzyzt_15": {
+      "id": "2026-10-18_bot_mv8jzyzt_15",
+      "title": "Read P1 Deques overview and setup page",
+      "date": "2026-10-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-18_bot_mv8jzyzx_16": {
+      "id": "2026-10-18_bot_mv8jzyzx_16",
+      "title": "Run ArrayDeque tests, note failures",
+      "date": "2026-10-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-18_bot_mv8jzyzx_17": {
+      "id": "2026-10-18_bot_mv8jzyzx_17",
+      "title": "P1 Task 1: write tests that isolate the bug, then fix it",
+      "date": "2026-10-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-18_bot_mv8k9fcy_33": {
+      "id": "2026-10-18_bot_mv8k9fcy_33",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
     },
     "2026-10-19_x_jobapps": {
       "id": "2026-10-19_x_jobapps",
@@ -7521,6 +7746,51 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-10-19_bot_mv8jzyzx_18": {
+      "id": "2026-10-19_bot_mv8jzyzx_18",
+      "title": "Pre-read Hash Tables, second half",
+      "date": "2026-10-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-19_bot_mv8jzz03_19": {
+      "id": "2026-10-19_bot_mv8jzz03_19",
+      "title": "2:30 L08 Hash Tables",
+      "date": "2026-10-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.83,
+      "category": "catchup"
+    },
+    "2026-10-19_bot_mv8jzz07_20": {
+      "id": "2026-10-19_bot_mv8jzz07_20",
+      "title": "P1 Task 2: LinkedDeque add and remove with sentinels",
+      "date": "2026-10-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-19_bot_mv8k9fcy_34": {
+      "id": "2026-10-19_bot_mv8k9fcy_34",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-19_bot_mv8k9fcz_42": {
+      "id": "2026-10-19_bot_mv8k9fcz_42",
+      "title": "WINFO website work",
+      "date": "2026-10-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
+    },
     "2026-10-20_x_leetcode": {
       "id": "2026-10-20_x_leetcode",
       "title": "LeetCode #124 - Binary Tree Maximum Path Sum",
@@ -7565,6 +7835,60 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-10-20_bot_mv8jzz07_21": {
+      "id": "2026-10-20_bot_mv8jzz07_21",
+      "title": "LinkedDeque.get",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-20_bot_mv8jzz07_22": {
+      "id": "2026-10-20_bot_mv8jzz07_22",
+      "title": "Tests for empty and single-item deques",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-20_bot_mv8jzz07_23": {
+      "id": "2026-10-20_bot_mv8jzz07_23",
+      "title": "Compare to algs4 LinkedQueue",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-20_bot_mv8jzz0a_24": {
+      "id": "2026-10-20_bot_mv8jzz0a_24",
+      "title": "P1 due",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-20_bot_mv8k9fcz_35": {
+      "id": "2026-10-20_bot_mv8k9fcz_35",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-20_bot_mv8k9fcz_43": {
+      "id": "2026-10-20_bot_mv8k9fcz_43",
+      "title": "WINFO website work",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
     },
     "2026-10-21_x_jobapps": {
       "id": "2026-10-21_x_jobapps",
@@ -7611,6 +7935,51 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-10-21_bot_mv8jzz0a_25": {
+      "id": "2026-10-21_bot_mv8jzz0a_25",
+      "title": "2:30 L09 Collision Resolution",
+      "date": "2026-10-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.83,
+      "category": "catchup"
+    },
+    "2026-10-21_bot_mv8jzz0e_26": {
+      "id": "2026-10-21_bot_mv8jzz0e_26",
+      "title": "Finish anything that slipped",
+      "date": "2026-10-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-21_bot_mv8jzz0e_27": {
+      "id": "2026-10-21_bot_mv8jzz0e_27",
+      "title": "Section 03 worksheet (once posted) or Section 01",
+      "date": "2026-10-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-21_bot_mv8k9fcz_36": {
+      "id": "2026-10-21_bot_mv8k9fcz_36",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-21_bot_mv8k9fcz_44": {
+      "id": "2026-10-21_bot_mv8k9fcz_44",
+      "title": "WINFO website work",
+      "date": "2026-10-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
+    },
     "2026-10-22_x_leetcode": {
       "id": "2026-10-22_x_leetcode",
       "title": "LeetCode #295 - Find Median from Data Stream",
@@ -7646,6 +8015,24 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-10-22_bot_mv8k9fcz_37": {
+      "id": "2026-10-22_bot_mv8k9fcz_37",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-22",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-22_bot_mv8k9fcz_45": {
+      "id": "2026-10-22_bot_mv8k9fcz_45",
+      "title": "WINFO website work",
+      "date": "2026-10-22",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
     },
     "2026-10-23_x_jobapps": {
       "id": "2026-10-23_x_jobapps",
@@ -7701,6 +8088,24 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-10-23_bot_mv8k9fcz_38": {
+      "id": "2026-10-23_bot_mv8k9fcz_38",
+      "title": "Kiro Hackathon work",
+      "date": "2026-10-23",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "hackathons"
+    },
+    "2026-10-23_bot_mv8k9fcz_46": {
+      "id": "2026-10-23_bot_mv8k9fcz_46",
+      "title": "WINFO website work",
+      "date": "2026-10-23",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
+    },
     "2026-10-24_x_jobapps": {
       "id": "2026-10-24_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7728,6 +8133,24 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-10-24_bot_mv8jzz0e_28": {
+      "id": "2026-10-24_bot_mv8jzz0e_28",
+      "title": "P0 IntTreeProblems",
+      "date": "2026-10-24",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "catchup"
+    },
+    "2026-10-24_bot_mv8k9fcz_47": {
+      "id": "2026-10-24_bot_mv8k9fcz_47",
+      "title": "WINFO website work",
+      "date": "2026-10-24",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
+    },
     "2026-10-25_x_ahf": {
       "id": "2026-10-25_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -7745,6 +8168,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-10-25_bot_mv8k9fcz_48": {
+      "id": "2026-10-25_bot_mv8k9fcz_48",
+      "title": "WINFO website work",
+      "date": "2026-10-25",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.75,
+      "category": "winfo"
     },
     "2026-10-26_x_jobapps": {
       "id": "2026-10-26_x_jobapps",

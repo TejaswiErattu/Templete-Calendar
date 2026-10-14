@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:12:37.271Z",
+  "updatedAt": "2026-10-14T21:11:34.985Z",
   "entries": [
     {
       "id": "5b80c379f938c01f5dc021c8",
@@ -8905,6 +8905,346 @@
       "id": "aab4676025bd0155abee8565",
       "date": "2026-10-08",
       "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "4fa2e4216289d0723ac7ffa3",
+      "date": "2026-10-14",
+      "text": "Completed \"AHF: Learn Informatics website updates\"."
+    },
+    {
+      "id": "f4392ef1a1efae71ea9ef436",
+      "date": "2026-10-14",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "b7967e1918d42484f45940e4",
+      "date": "2026-10-14",
+      "text": "Completed \"DubHacks prep (1 of 2)\"."
+    },
+    {
+      "id": "c47fc9e7607514e594f43bc6",
+      "date": "2026-10-14",
+      "text": "Completed \"Palana: documentation\"."
+    },
+    {
+      "id": "63acc51c93df0b4749dfe292",
+      "date": "2026-10-14",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "c2be82f44234f383fa55afad",
+      "date": "2026-10-14",
+      "text": "Completed \"DubHacks prep (2 of 2)\"."
+    },
+    {
+      "id": "4821d144f0f041a3334228ba",
+      "date": "2026-10-14",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "75cb0514bb29dde5af21a2de",
+      "date": "2026-10-14",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "f2cfefd127854e2fdb97fc9b",
+      "date": "2026-10-14",
+      "text": "Completed \"DubHacks — event day\"."
+    },
+    {
+      "id": "0d67f54b75bd365352d54b1c",
+      "date": "2026-10-14",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "f137cac37d23a58f8913ab92",
+      "date": "2026-10-14",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "9bd66dfcec6f7722ac0dcfe8",
+      "date": "2026-10-14",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "6d6de4d45651760addf8a6fa",
+      "date": "2026-10-14",
+      "text": "Completed \"Prep for Matt meeting: review what I committed to last time\"."
+    },
+    {
+      "id": "9931fda82c2c6d9ea0338f85",
+      "date": "2026-10-14",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "b8879f64631aca3fe5f88686",
+      "date": "2026-10-14",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "d55a6f066b08b6ae04021e1a",
+      "date": "2026-10-14",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "5d46f67fdfcb5f2e7c56e784",
+      "date": "2026-10-14",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "ed820ba003fd3bd6b89c8552",
+      "date": "2026-10-14",
+      "text": "Completed \"Mentor meeting with Matt\"."
+    },
+    {
+      "id": "f081c163fb9af5c49c30d0b7",
+      "date": "2026-10-14",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "12a72efac21335f39d9a3be6",
+      "date": "2026-10-14",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "983299f33bb212d1c8b8f03d",
+      "date": "2026-10-14",
+      "text": "Added task \"2:30 L06 Recursive Code, KNE 220\"."
+    },
+    {
+      "id": "800540b434be8131274984ef",
+      "date": "2026-10-14",
+      "text": "Added task \"P0 ArrayProblems: toString\"."
+    },
+    {
+      "id": "3b293202cb0978c01607fb37",
+      "date": "2026-10-14",
+      "text": "Added task \"P0 ArrayProblems: reverse\"."
+    },
+    {
+      "id": "805d6313dc0a828a02457e0b",
+      "date": "2026-10-14",
+      "text": "Added task \"P0 ArrayProblems: rotateRight\"."
+    },
+    {
+      "id": "18024a4844782cca729f66c7",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "80aa65f58e28f4961277f921",
+      "date": "2026-10-14",
+      "text": "Added task \"DubHacks work\"."
+    },
+    {
+      "id": "2e3dca7cfe538a070c850a94",
+      "date": "2026-10-14",
+      "text": "Added task \"Section 02 worksheet\"."
+    },
+    {
+      "id": "4bb1e43c7e00cdb670e67d92",
+      "date": "2026-10-14",
+      "text": "Added task \"Check Section 02 solutions\"."
+    },
+    {
+      "id": "81d3a635532e5885b500ba74",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "904e599863be02da0ec9320f",
+      "date": "2026-10-14",
+      "text": "Added task \"DubHacks work\"."
+    },
+    {
+      "id": "827a73889916ab5ae5886a50",
+      "date": "2026-10-14",
+      "text": "Added task \"Pre-read Hash Tables, first half\"."
+    },
+    {
+      "id": "b915906bdcca6a580eda5e59",
+      "date": "2026-10-14",
+      "text": "Added task \"2:30 L07 Intro to Hashing\"."
+    },
+    {
+      "id": "c18e91f1de5fade598a09173",
+      "date": "2026-10-14",
+      "text": "Added task \"Build array-backed stack from memory (push, pop, peek, size, resize)\"."
+    },
+    {
+      "id": "d23911fde0575dff3e6924ba",
+      "date": "2026-10-14",
+      "text": "Added task \"Compare to algs4 ResizingArrayStack\"."
+    },
+    {
+      "id": "15a557d08096dc07a6130422",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "471ce884c3454a50a6e0e05d",
+      "date": "2026-10-14",
+      "text": "Added task \"DubHacks work\"."
+    },
+    {
+      "id": "e88830bf32fe8d393c728781",
+      "date": "2026-10-14",
+      "text": "Added task \"P0 MapProblems: contains3, intersect\"."
+    },
+    {
+      "id": "0ec37a7e8b50a026062ef66e",
+      "date": "2026-10-14",
+      "text": "Added task \"P0 LinkedIntListProblems: reverse3, firstToLast\"."
+    },
+    {
+      "id": "c8a0c72b5ddcd42bb1fe4b31",
+      "date": "2026-10-14",
+      "text": "Added task \"Run all P0 tests\"."
+    },
+    {
+      "id": "9fd4edee69dd3a5f383c37ca",
+      "date": "2026-10-14",
+      "text": "Added task \"HW1 due\"."
+    },
+    {
+      "id": "170dff4618f33f139cf1c38d",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "9afa905080fcd27da23bed85",
+      "date": "2026-10-14",
+      "text": "Added task \"Read P1 Deques overview and setup page\"."
+    },
+    {
+      "id": "c3ee1fd3328c19bf9ad352f9",
+      "date": "2026-10-14",
+      "text": "Added task \"Run ArrayDeque tests, note failures\"."
+    },
+    {
+      "id": "42474afcb05bd33d7dc9c841",
+      "date": "2026-10-14",
+      "text": "Added task \"P1 Task 1: write tests that isolate the bug, then fix it\"."
+    },
+    {
+      "id": "4e9288963b2883bb760b3ef8",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "7a70c9dc5bdb6f7f8958f43f",
+      "date": "2026-10-14",
+      "text": "Added task \"Pre-read Hash Tables, second half\"."
+    },
+    {
+      "id": "873fe5b45e76aaa5139d3ebb",
+      "date": "2026-10-14",
+      "text": "Added task \"2:30 L08 Hash Tables\"."
+    },
+    {
+      "id": "f6c85a5fd682a52fe252f171",
+      "date": "2026-10-14",
+      "text": "Added task \"P1 Task 2: LinkedDeque add and remove with sentinels\"."
+    },
+    {
+      "id": "2463b0781e8dbb28d31631fb",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "173d4e84698da00e0f47d28c",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
+    },
+    {
+      "id": "84677f55df49a2fc252567cb",
+      "date": "2026-10-14",
+      "text": "Added task \"LinkedDeque.get\"."
+    },
+    {
+      "id": "4fa9869391a6a469cad090eb",
+      "date": "2026-10-14",
+      "text": "Added task \"Tests for empty and single-item deques\"."
+    },
+    {
+      "id": "806ad80cc24e0efe4e488186",
+      "date": "2026-10-14",
+      "text": "Added task \"Compare to algs4 LinkedQueue\"."
+    },
+    {
+      "id": "ed5d4ca352d4bb3596bc5f13",
+      "date": "2026-10-14",
+      "text": "Added task \"P1 due\"."
+    },
+    {
+      "id": "1d8f43fae26716c4d8265e70",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "e77d2bd55f98d2f45d9f66fc",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
+    },
+    {
+      "id": "9e341a911cd433aef248d93a",
+      "date": "2026-10-14",
+      "text": "Added task \"2:30 L09 Collision Resolution\"."
+    },
+    {
+      "id": "c995dc9859995034df8f2ef6",
+      "date": "2026-10-14",
+      "text": "Added task \"Finish anything that slipped\"."
+    },
+    {
+      "id": "f427db4fb11daafce204ac47",
+      "date": "2026-10-14",
+      "text": "Added task \"Section 03 worksheet (once posted) or Section 01\"."
+    },
+    {
+      "id": "2cc82c3f4cff7d6ed158a78e",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "312ad29cf09d91b8e8709e88",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
+    },
+    {
+      "id": "3e13c78d095050407e75ced8",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "67aed68c81316b99f05005ac",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
+    },
+    {
+      "id": "a560c892123321fb4ff354ed",
+      "date": "2026-10-14",
+      "text": "Added task \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "6a9f05aeed5b7ace8b84523f",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
+    },
+    {
+      "id": "053ec1c4e16c4b9d0daa38e0",
+      "date": "2026-10-14",
+      "text": "Added task \"P0 IntTreeProblems\"."
+    },
+    {
+      "id": "2ef404b27d2c8398265c3da5",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
+    },
+    {
+      "id": "f260eb0537ef3a048a366ece",
+      "date": "2026-10-14",
+      "text": "Added task \"WINFO website work\"."
     }
   ]
 }

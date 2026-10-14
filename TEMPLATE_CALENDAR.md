@@ -1804,3 +1804,74 @@
 - Completed "Job applications (5 today)".
 - Completed "AHF work (tech lead duties)".
 - Completed "Palana: pen test".
+
+## October 14, 2026
+
+- Completed "AHF: Learn Informatics website updates".
+- Completed "Job applications (5 today)".
+- Completed "DubHacks prep (1 of 2)".
+- Completed "Palana: documentation".
+- Completed "WINFO: sponsorship outreach".
+- Completed "DubHacks prep (2 of 2)".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "DubHacks — event day".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: threat model work".
+- Completed "Prep for Matt meeting: review what I committed to last time".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: threat model work".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Mentor meeting with Matt".
+- Completed "Job applications (5 today)".
+- Completed "Job applications (5 today)".
+- Added task "2:30 L06 Recursive Code, KNE 220".
+- Added task "P0 ArrayProblems: toString".
+- Added task "P0 ArrayProblems: reverse".
+- Added task "P0 ArrayProblems: rotateRight".
+- Added task "Kiro Hackathon work".
+- Added task "DubHacks work".
+- Added task "Section 02 worksheet".
+- Added task "Check Section 02 solutions".
+- Added task "Kiro Hackathon work".
+- Added task "DubHacks work".
+- Added task "Pre-read Hash Tables, first half".
+- Added task "2:30 L07 Intro to Hashing".
+- Added task "Build array-backed stack from memory (push, pop, peek, size, resize)".
+- Added task "Compare to algs4 ResizingArrayStack".
+- Added task "Kiro Hackathon work".
+- Added task "DubHacks work".
+- Added task "P0 MapProblems: contains3, intersect".
+- Added task "P0 LinkedIntListProblems: reverse3, firstToLast".
+- Added task "Run all P0 tests".
+- Added task "HW1 due".
+- Added task "Kiro Hackathon work".
+- Added task "Read P1 Deques overview and setup page".
+- Added task "Run ArrayDeque tests, note failures".
+- Added task "P1 Task 1: write tests that isolate the bug, then fix it".
+- Added task "Kiro Hackathon work".
+- Added task "Pre-read Hash Tables, second half".
+- Added task "2:30 L08 Hash Tables".
+- Added task "P1 Task 2: LinkedDeque add and remove with sentinels".
+- Added task "Kiro Hackathon work".
+- Added task "WINFO website work".
+- Added task "LinkedDeque.get".
+- Added task "Tests for empty and single-item deques".
+- Added task "Compare to algs4 LinkedQueue".
+- Added task "P1 due".
+- Added task "Kiro Hackathon work".
+- Added task "WINFO website work".
+- Added task "2:30 L09 Collision Resolution".
+- Added task "Finish anything that slipped".
+- Added task "Section 03 worksheet (once posted) or Section 01".
+- Added task "Kiro Hackathon work".
+- Added task "WINFO website work".
+- Added task "Kiro Hackathon work".
+- Added task "WINFO website work".
+- Added task "Kiro Hackathon work".
+- Added task "WINFO website work".
+- Added task "P0 IntTreeProblems".
+- Added task "WINFO website work".
+- Added task "WINFO website work".
