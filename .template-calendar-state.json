@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-15T06:21:36.510Z",
-  "firestoreUpdatedAt": "2026-10-15T06:20:00.547Z",
+  "lastCheckedAt": "2026-10-15T07:17:05.091Z",
+  "firestoreUpdatedAt": "2026-10-15T06:41:55.934Z",
   "sourceHead": "19ca1853067918e79f5f5c3f422ed6282bb9a916",
   "tasks": {
     "2026-06-13_ahf": {
@@ -7336,7 +7336,7 @@
       "id": "2026-10-14_bot_mv8jzyyt_1",
       "title": "2:30 L06 Recursive Code, KNE 220",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.83,
       "category": "catchup"
@@ -7345,7 +7345,7 @@
       "id": "2026-10-14_bot_mv8jzyyz_2",
       "title": "P0 ArrayProblems: toString",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -7467,6 +7467,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-15_bot_mv95iasc_62": {
+      "id": "2026-10-15_bot_mv95iasc_62",
+      "title": "Home lab work",
+      "date": "2026-10-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-16_x_jobapps": {
       "id": "2026-10-16_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7584,6 +7593,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-16_bot_mv95iasc_63": {
+      "id": "2026-10-16_bot_mv95iasc_63",
+      "title": "Home lab work",
+      "date": "2026-10-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-17_x_jobapps": {
       "id": "2026-10-17_x_jobapps",
       "title": "Job applications (5 today)",
@@ -7665,6 +7683,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-17_bot_mv95iasc_64": {
+      "id": "2026-10-17_bot_mv95iasc_64",
+      "title": "Home lab work",
+      "date": "2026-10-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-18_x_ahf": {
       "id": "2026-10-18_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -7727,6 +7754,15 @@
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
+    },
+    "2026-10-18_bot_mv95iasc_65": {
+      "id": "2026-10-18_bot_mv95iasc_65",
+      "title": "Home lab work",
+      "date": "2026-10-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-10-19_x_jobapps": {
       "id": "2026-10-19_x_jobapps",
@@ -7836,6 +7872,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-19_bot_mv95iasc_66": {
+      "id": "2026-10-19_bot_mv95iasc_66",
+      "title": "Home lab work",
+      "date": "2026-10-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-20_x_leetcode": {
       "id": "2026-10-20_x_leetcode",
       "title": "LeetCode #124 - Binary Tree Maximum Path Sum",
@@ -7944,6 +7989,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-20_bot_mv95iasc_67": {
+      "id": "2026-10-20_bot_mv95iasc_67",
+      "title": "Home lab work",
+      "date": "2026-10-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-21_x_jobapps": {
       "id": "2026-10-21_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8043,6 +8097,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-21_bot_mv95iasc_68": {
+      "id": "2026-10-21_bot_mv95iasc_68",
+      "title": "Home lab work",
+      "date": "2026-10-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-22_x_leetcode": {
       "id": "2026-10-22_x_leetcode",
       "title": "LeetCode #295 - Find Median from Data Stream",
@@ -8105,6 +8168,15 @@
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
+    },
+    "2026-10-22_bot_mv95iasc_69": {
+      "id": "2026-10-22_bot_mv95iasc_69",
+      "title": "Home lab work",
+      "date": "2026-10-22",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-10-23_x_jobapps": {
       "id": "2026-10-23_x_jobapps",
@@ -8187,6 +8259,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-23_bot_mv95iasc_70": {
+      "id": "2026-10-23_bot_mv95iasc_70",
+      "title": "Home lab work",
+      "date": "2026-10-23",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-24_x_jobapps": {
       "id": "2026-10-24_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8241,6 +8322,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-24_bot_mv95iasc_71": {
+      "id": "2026-10-24_bot_mv95iasc_71",
+      "title": "Home lab work",
+      "date": "2026-10-24",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-25_x_ahf": {
       "id": "2026-10-25_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -8276,6 +8366,15 @@
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
+    },
+    "2026-10-25_bot_mv95iasc_72": {
+      "id": "2026-10-25_bot_mv95iasc_72",
+      "title": "Home lab work",
+      "date": "2026-10-25",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-10-26_x_jobapps": {
       "id": "2026-10-26_x_jobapps",
@@ -8340,6 +8439,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-26_bot_mv95iasc_73": {
+      "id": "2026-10-26_bot_mv95iasc_73",
+      "title": "Home lab work",
+      "date": "2026-10-26",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-27_x_leetcode": {
       "id": "2026-10-27_x_leetcode",
       "title": "LeetCode #133 - Clone Graph",
@@ -8394,6 +8502,15 @@
       "duration": 0.5,
       "category": "palana"
     },
+    "2026-10-27_bot_mv95iasc_74": {
+      "id": "2026-10-27_bot_mv95iasc_74",
+      "title": "Home lab work",
+      "date": "2026-10-27",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-28_x_jobapps": {
       "id": "2026-10-28_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8439,6 +8556,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-10-28_bot_mv95iasc_75": {
+      "id": "2026-10-28_bot_mv95iasc_75",
+      "title": "Home lab work",
+      "date": "2026-10-28",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-29_x_leetcode": {
       "id": "2026-10-29_x_leetcode",
       "title": "LeetCode #200 - Number of Islands",
@@ -8474,6 +8600,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-10-29_bot_mv95iasc_76": {
+      "id": "2026-10-29_bot_mv95iasc_76",
+      "title": "Home lab work",
+      "date": "2026-10-29",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-10-30_x_jobapps": {
       "id": "2026-10-30_x_jobapps",
@@ -8529,6 +8664,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-10-30_bot_mv95iasc_77": {
+      "id": "2026-10-30_bot_mv95iasc_77",
+      "title": "Home lab work",
+      "date": "2026-10-30",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-10-31_x_jobapps": {
       "id": "2026-10-31_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8556,6 +8700,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-10-31_bot_mv95iasc_78": {
+      "id": "2026-10-31_bot_mv95iasc_78",
+      "title": "Home lab work",
+      "date": "2026-10-31",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-01_x_ahf": {
       "id": "2026-11-01_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -8573,6 +8726,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-11-01_bot_mv95iasc_79": {
+      "id": "2026-11-01_bot_mv95iasc_79",
+      "title": "Home lab work",
+      "date": "2026-11-01",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-02_x_jobapps": {
       "id": "2026-11-02_x_jobapps",
@@ -8628,6 +8790,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-02_bot_mv95iasc_80": {
+      "id": "2026-11-02_bot_mv95iasc_80",
+      "title": "Home lab work",
+      "date": "2026-11-02",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-03_x_leetcode": {
       "id": "2026-11-03_x_leetcode",
       "title": "LeetCode #269 - Alien Dictionary",
@@ -8672,6 +8843,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-11-03_bot_mv95iasc_81": {
+      "id": "2026-11-03_bot_mv95iasc_81",
+      "title": "Home lab work",
+      "date": "2026-11-03",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-04_x_jobapps": {
       "id": "2026-11-04_x_jobapps",
@@ -8718,6 +8898,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-04_bot_mv95iasc_82": {
+      "id": "2026-11-04_bot_mv95iasc_82",
+      "title": "Home lab work",
+      "date": "2026-11-04",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-05_x_leetcode": {
       "id": "2026-11-05_x_leetcode",
       "title": "LeetCode #54 - Spiral Matrix",
@@ -8753,6 +8942,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-11-05_bot_mv95iasc_83": {
+      "id": "2026-11-05_bot_mv95iasc_83",
+      "title": "Home lab work",
+      "date": "2026-11-05",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-06_x_jobapps": {
       "id": "2026-11-06_x_jobapps",
@@ -8808,6 +9006,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-06_bot_mv95iasc_84": {
+      "id": "2026-11-06_bot_mv95iasc_84",
+      "title": "Home lab work",
+      "date": "2026-11-06",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-07_x_jobapps": {
       "id": "2026-11-07_x_jobapps",
       "title": "Job applications (5 today)",
@@ -8835,6 +9042,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-11-07_bot_mv95iasc_85": {
+      "id": "2026-11-07_bot_mv95iasc_85",
+      "title": "Home lab work",
+      "date": "2026-11-07",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-08_x_ahf": {
       "id": "2026-11-08_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -8852,6 +9068,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-11-08_bot_mv95iasc_86": {
+      "id": "2026-11-08_bot_mv95iasc_86",
+      "title": "Home lab work",
+      "date": "2026-11-08",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-09_x_jobapps": {
       "id": "2026-11-09_x_jobapps",
@@ -8907,6 +9132,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-09_bot_mv95iasc_87": {
+      "id": "2026-11-09_bot_mv95iasc_87",
+      "title": "Home lab work",
+      "date": "2026-11-09",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-10_x_leetcode": {
       "id": "2026-11-10_x_leetcode",
       "title": "LeetCode #1143 - Longest Common Subsequence",
@@ -8951,6 +9185,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-11-10_bot_mv95iasc_88": {
+      "id": "2026-11-10_bot_mv95iasc_88",
+      "title": "Home lab work",
+      "date": "2026-11-10",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-11_x_jobapps": {
       "id": "2026-11-11_x_jobapps",
@@ -8997,6 +9240,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-11_bot_mv95iasc_89": {
+      "id": "2026-11-11_bot_mv95iasc_89",
+      "title": "Home lab work",
+      "date": "2026-11-11",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-12_x_leetcode": {
       "id": "2026-11-12_x_leetcode",
       "title": "LeetCode #377 - Combination Sum IV",
@@ -9032,6 +9284,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-11-12_bot_mv95iasc_90": {
+      "id": "2026-11-12_bot_mv95iasc_90",
+      "title": "Home lab work",
+      "date": "2026-11-12",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-13_x_jobapps": {
       "id": "2026-11-13_x_jobapps",
@@ -9087,6 +9348,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-13_bot_mv95iasc_91": {
+      "id": "2026-11-13_bot_mv95iasc_91",
+      "title": "Home lab work",
+      "date": "2026-11-13",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-14_x_jobapps": {
       "id": "2026-11-14_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9114,6 +9384,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-11-14_bot_mv95iasc_92": {
+      "id": "2026-11-14_bot_mv95iasc_92",
+      "title": "Home lab work",
+      "date": "2026-11-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-15_x_ahf": {
       "id": "2026-11-15_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -9131,6 +9410,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-11-15_bot_mv95iasc_93": {
+      "id": "2026-11-15_bot_mv95iasc_93",
+      "title": "Home lab work",
+      "date": "2026-11-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-16_x_jobapps": {
       "id": "2026-11-16_x_jobapps",
@@ -9186,6 +9474,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-16_bot_mv95iasc_94": {
+      "id": "2026-11-16_bot_mv95iasc_94",
+      "title": "Home lab work",
+      "date": "2026-11-16",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-17_x_leetcode": {
       "id": "2026-11-17_x_leetcode",
       "title": "LeetCode #55 - Jump Game",
@@ -9230,6 +9527,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-11-17_bot_mv95iasc_95": {
+      "id": "2026-11-17_bot_mv95iasc_95",
+      "title": "Home lab work",
+      "date": "2026-11-17",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-18_x_jobapps": {
       "id": "2026-11-18_x_jobapps",
@@ -9276,6 +9582,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-18_bot_mv95iasc_96": {
+      "id": "2026-11-18_bot_mv95iasc_96",
+      "title": "Home lab work",
+      "date": "2026-11-18",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-19_x_leetcode": {
       "id": "2026-11-19_x_leetcode",
       "title": "LeetCode #57 - Insert Interval",
@@ -9311,6 +9626,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-11-19_bot_mv95iasc_97": {
+      "id": "2026-11-19_bot_mv95iasc_97",
+      "title": "Home lab work",
+      "date": "2026-11-19",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-20_x_jobapps": {
       "id": "2026-11-20_x_jobapps",
@@ -9366,6 +9690,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-20_bot_mv95iasc_98": {
+      "id": "2026-11-20_bot_mv95iasc_98",
+      "title": "Home lab work",
+      "date": "2026-11-20",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-21_x_jobapps": {
       "id": "2026-11-21_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9393,6 +9726,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-11-21_bot_mv95iasc_99": {
+      "id": "2026-11-21_bot_mv95iasc_99",
+      "title": "Home lab work",
+      "date": "2026-11-21",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-22_x_ahf": {
       "id": "2026-11-22_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -9410,6 +9752,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-11-22_bot_mv95iasc_100": {
+      "id": "2026-11-22_bot_mv95iasc_100",
+      "title": "Home lab work",
+      "date": "2026-11-22",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-23_x_jobapps": {
       "id": "2026-11-23_x_jobapps",
@@ -9465,6 +9816,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-23_bot_mv95iasc_101": {
+      "id": "2026-11-23_bot_mv95iasc_101",
+      "title": "Home lab work",
+      "date": "2026-11-23",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-24_x_leetcode": {
       "id": "2026-11-24_x_leetcode",
       "title": "LeetCode #371 - Sum of Two Integers",
@@ -9509,6 +9869,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-11-24_bot_mv95iasc_102": {
+      "id": "2026-11-24_bot_mv95iasc_102",
+      "title": "Home lab work",
+      "date": "2026-11-24",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-25_x_jobapps": {
       "id": "2026-11-25_x_jobapps",
@@ -9555,6 +9924,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-25_bot_mv95iasc_103": {
+      "id": "2026-11-25_bot_mv95iasc_103",
+      "title": "Home lab work",
+      "date": "2026-11-25",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-26_x_leetcode": {
       "id": "2026-11-26_x_leetcode",
       "title": "LeetCode #338 - Counting Bits",
@@ -9590,6 +9968,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-11-26_bot_mv95iasc_104": {
+      "id": "2026-11-26_bot_mv95iasc_104",
+      "title": "Home lab work",
+      "date": "2026-11-26",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-27_x_jobapps": {
       "id": "2026-11-27_x_jobapps",
@@ -9645,6 +10032,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-27_bot_mv95iasc_105": {
+      "id": "2026-11-27_bot_mv95iasc_105",
+      "title": "Home lab work",
+      "date": "2026-11-27",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-28_x_jobapps": {
       "id": "2026-11-28_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9672,6 +10068,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-11-28_bot_mv95iasc_106": {
+      "id": "2026-11-28_bot_mv95iasc_106",
+      "title": "Home lab work",
+      "date": "2026-11-28",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-11-29_x_ahf": {
       "id": "2026-11-29_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -9689,6 +10094,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-11-29_bot_mv95iasc_107": {
+      "id": "2026-11-29_bot_mv95iasc_107",
+      "title": "Home lab work",
+      "date": "2026-11-29",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-11-30_x_jobapps": {
       "id": "2026-11-30_x_jobapps",
@@ -9744,6 +10158,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-11-30_bot_mv95iasc_108": {
+      "id": "2026-11-30_bot_mv95iasc_108",
+      "title": "Home lab work",
+      "date": "2026-11-30",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-01_x_leetcode": {
       "id": "2026-12-01_x_leetcode",
       "title": "LeetCode #121 - Best Time to Buy and Sell Stock",
@@ -9788,6 +10211,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-12-01_bot_mv95iasc_109": {
+      "id": "2026-12-01_bot_mv95iasc_109",
+      "title": "Home lab work",
+      "date": "2026-12-01",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-02_x_jobapps": {
       "id": "2026-12-02_x_jobapps",
@@ -9834,6 +10266,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-12-02_bot_mv95iasc_110": {
+      "id": "2026-12-02_bot_mv95iasc_110",
+      "title": "Home lab work",
+      "date": "2026-12-02",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-03_x_leetcode": {
       "id": "2026-12-03_x_leetcode",
       "title": "LeetCode #238 - Product of Array Except Self",
@@ -9869,6 +10310,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-12-03_bot_mv95iasc_111": {
+      "id": "2026-12-03_bot_mv95iasc_111",
+      "title": "Home lab work",
+      "date": "2026-12-03",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-04_x_jobapps": {
       "id": "2026-12-04_x_jobapps",
@@ -9924,6 +10374,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-12-04_bot_mv95iasc_112": {
+      "id": "2026-12-04_bot_mv95iasc_112",
+      "title": "Home lab work",
+      "date": "2026-12-04",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-05_x_jobapps": {
       "id": "2026-12-05_x_jobapps",
       "title": "Job applications (5 today)",
@@ -9951,6 +10410,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-12-05_bot_mv95iasc_113": {
+      "id": "2026-12-05_bot_mv95iasc_113",
+      "title": "Home lab work",
+      "date": "2026-12-05",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-06_x_ahf": {
       "id": "2026-12-06_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -9968,6 +10436,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-12-06_bot_mv95iasc_114": {
+      "id": "2026-12-06_bot_mv95iasc_114",
+      "title": "Home lab work",
+      "date": "2026-12-06",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-07_x_jobapps": {
       "id": "2026-12-07_x_jobapps",
@@ -10023,6 +10500,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-12-07_bot_mv95iasc_115": {
+      "id": "2026-12-07_bot_mv95iasc_115",
+      "title": "Home lab work",
+      "date": "2026-12-07",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-08_x_leetcode": {
       "id": "2026-12-08_x_leetcode",
       "title": "LeetCode #15 - 3Sum",
@@ -10067,6 +10553,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-12-08_bot_mv95iasc_116": {
+      "id": "2026-12-08_bot_mv95iasc_116",
+      "title": "Home lab work",
+      "date": "2026-12-08",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-09_x_jobapps": {
       "id": "2026-12-09_x_jobapps",
@@ -10113,6 +10608,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-12-09_bot_mv95iasc_117": {
+      "id": "2026-12-09_bot_mv95iasc_117",
+      "title": "Home lab work",
+      "date": "2026-12-09",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-10_x_leetcode": {
       "id": "2026-12-10_x_leetcode",
       "title": "LeetCode #125 - Valid Palindrome",
@@ -10148,6 +10652,15 @@
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
+    },
+    "2026-12-10_bot_mv95iasc_118": {
+      "id": "2026-12-10_bot_mv95iasc_118",
+      "title": "Home lab work",
+      "date": "2026-12-10",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-11_x_jobapps": {
       "id": "2026-12-11_x_jobapps",
@@ -10203,6 +10716,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-12-11_bot_mv95iasc_119": {
+      "id": "2026-12-11_bot_mv95iasc_119",
+      "title": "Home lab work",
+      "date": "2026-12-11",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-12_x_jobapps": {
       "id": "2026-12-12_x_jobapps",
       "title": "Job applications (5 today)",
@@ -10230,6 +10752,15 @@
       "duration": 1.5,
       "category": "ahf"
     },
+    "2026-12-12_bot_mv95iasc_120": {
+      "id": "2026-12-12_bot_mv95iasc_120",
+      "title": "Home lab work",
+      "date": "2026-12-12",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-13_x_ahf": {
       "id": "2026-12-13_x_ahf",
       "title": "AHF work (tech lead duties)",
@@ -10247,6 +10778,15 @@
       "skipped": false,
       "duration": 1,
       "category": "interviews"
+    },
+    "2026-12-13_bot_mv95iasc_121": {
+      "id": "2026-12-13_bot_mv95iasc_121",
+      "title": "Home lab work",
+      "date": "2026-12-13",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-14_x_jobapps": {
       "id": "2026-12-14_x_jobapps",
@@ -10302,6 +10842,15 @@
       "duration": 1.5,
       "category": "jobapps"
     },
+    "2026-12-14_bot_mv95iasc_122": {
+      "id": "2026-12-14_bot_mv95iasc_122",
+      "title": "Home lab work",
+      "date": "2026-12-14",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
+    },
     "2026-12-15_x_leetcode": {
       "id": "2026-12-15_x_leetcode",
       "title": "LeetCode #242 - Valid Anagram",
@@ -10346,6 +10895,15 @@
       "skipped": false,
       "duration": 1,
       "category": "mentor"
+    },
+    "2026-12-15_bot_mv95iasc_123": {
+      "id": "2026-12-15_bot_mv95iasc_123",
+      "title": "Home lab work",
+      "date": "2026-12-15",
+      "completed": false,
+      "skipped": false,
+      "duration": 0.5,
+      "category": "home_lab"
     },
     "2026-12-16_x_jobapps": {
       "id": "2026-12-16_x_jobapps",
