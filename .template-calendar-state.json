@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-16T05:12:08.063Z",
-  "firestoreUpdatedAt": "2026-10-15T22:16:29.704Z",
+  "lastCheckedAt": "2026-10-16T06:20:55.890Z",
+  "firestoreUpdatedAt": "2026-10-16T06:08:12.365Z",
   "sourceHead": "19ca1853067918e79f5f5c3f422ed6282bb9a916",
   "tasks": {
     "2026-06-13_ahf": {
@@ -7300,7 +7300,7 @@
       "id": "2026-10-14_x_leetcode",
       "title": "LeetCode #572 - Subtree of Another Tree",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -7354,7 +7354,7 @@
       "id": "2026-10-14_bot_mv8jzyyz_3",
       "title": "P0 ArrayProblems: reverse",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -7363,7 +7363,7 @@
       "id": "2026-10-14_bot_mv8jzyyz_4",
       "title": "P0 ArrayProblems: rotateRight",
       "date": "2026-10-14",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -7408,7 +7408,7 @@
       "id": "2026-10-15_x_palana_pentest_b",
       "title": "Palana: pen test",
       "date": "2026-10-15",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -7525,7 +7525,7 @@
       "id": "2026-10-16_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"

@@ -1970,3 +1970,8 @@
 - Added task "WINFO check-in message".
 - Added task "WINFO check-in message".
 - Added task "WINFO check-in message".
+- Completed "LeetCode #572 - Subtree of Another Tree".
+- Completed "P0 ArrayProblems: reverse".
+- Completed "P0 ArrayProblems: rotateRight".
+- Completed "Palana: pen test".
+- Completed "WINFO: sponsorship outreach".
