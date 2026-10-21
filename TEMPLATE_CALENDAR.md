@@ -1998,3 +1998,14 @@
 - Completed "Check for upcoming interviews and prep any that are scheduled".
 - Completed "Kiro Hackathon work".
 - Completed "Update attack canvas".
+
+## October 21, 2026
+
+- Completed "Home lab work".
+- Completed "Pre-read Hash Tables, first half".
+- Completed "2:30 L07 Intro to Hashing".
+- Completed "Build array-backed stack from memory (push, pop, peek, size, resize)".
+- Completed "Compare to algs4 ResizingArrayStack".
+- Completed "Home lab work".
+- Completed "Home lab work".
+- Completed "Read P1 Deques overview and setup page".

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T06:21:09.296Z",
+  "updatedAt": "2026-10-21T07:18:51.650Z",
   "entries": [
     {
       "id": "5b80c379f938c01f5dc021c8",
@@ -9830,6 +9830,46 @@
       "id": "8da06355f8b983ee04358940",
       "date": "2026-10-19",
       "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "5e8c5ac0970f0cef8855d4cd",
+      "date": "2026-10-21",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "bc59a5197b89aa1046a07c5e",
+      "date": "2026-10-21",
+      "text": "Completed \"Pre-read Hash Tables, first half\"."
+    },
+    {
+      "id": "2d96742a585030b3f867d258",
+      "date": "2026-10-21",
+      "text": "Completed \"2:30 L07 Intro to Hashing\"."
+    },
+    {
+      "id": "e16f0eec9152bb10529c47be",
+      "date": "2026-10-21",
+      "text": "Completed \"Build array-backed stack from memory (push, pop, peek, size, resize)\"."
+    },
+    {
+      "id": "98b3d6af90d042bbef776cde",
+      "date": "2026-10-21",
+      "text": "Completed \"Compare to algs4 ResizingArrayStack\"."
+    },
+    {
+      "id": "431c0b994a595005ea6e185f",
+      "date": "2026-10-21",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "8b42b1d5112112893afb10b9",
+      "date": "2026-10-21",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "361d5586fa441f5ca19b3f9f",
+      "date": "2026-10-21",
+      "text": "Completed \"Read P1 Deques overview and setup page\"."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-10-21T06:21:09.292Z",
-  "firestoreUpdatedAt": "2026-10-19T18:36:05.441Z",
+  "lastCheckedAt": "2026-10-21T07:18:51.647Z",
+  "firestoreUpdatedAt": "2026-10-21T06:45:52.900Z",
   "sourceHead": "19ca1853067918e79f5f5c3f422ed6282bb9a916",
   "tasks": {
     "2026-06-13_ahf": {
@@ -7471,7 +7471,7 @@
       "id": "2026-10-15_bot_mv95iasc_62",
       "title": "Home lab work",
       "date": "2026-10-15",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -7543,7 +7543,7 @@
       "id": "2026-10-16_bot_mv8jzyzc_7",
       "title": "Pre-read Hash Tables, first half",
       "date": "2026-10-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -7552,7 +7552,7 @@
       "id": "2026-10-16_bot_mv8jzyzj_8",
       "title": "2:30 L07 Intro to Hashing",
       "date": "2026-10-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.83,
       "category": "catchup"
@@ -7561,7 +7561,7 @@
       "id": "2026-10-16_bot_mv8jzyzo_9",
       "title": "Build array-backed stack from memory (push, pop, peek, size, resize)",
       "date": "2026-10-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -7570,7 +7570,7 @@
       "id": "2026-10-16_bot_mv8jzyzo_10",
       "title": "Compare to algs4 ResizingArrayStack",
       "date": "2026-10-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -7606,7 +7606,7 @@
       "id": "2026-10-16_bot_mv95iasc_63",
       "title": "Home lab work",
       "date": "2026-10-16",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -7696,7 +7696,7 @@
       "id": "2026-10-17_bot_mv95iasc_64",
       "title": "Home lab work",
       "date": "2026-10-17",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -7723,7 +7723,7 @@
       "id": "2026-10-18_bot_mv8jzyzt_15",
       "title": "Read P1 Deques overview and setup page",
       "date": "2026-10-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
