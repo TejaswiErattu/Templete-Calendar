@@ -2009,3 +2009,302 @@
 - Completed "Home lab work".
 - Completed "Home lab work".
 - Completed "Read P1 Deques overview and setup page".
+
+## October 24, 2026
+
+- Added task "AWS AI Practitioner Certification Exam".
+- Added task "AWS AI Practitioner Certification Exam".
+- Marked "LeetCode #435 - Non-overlapping Intervals" incomplete.
+- Renamed task "LeetCode #1 - Two Sum" to "LeetCode #435 - Non-overlapping Intervals".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Marked "LeetCode #252 - Meeting Rooms" incomplete.
+- Renamed task "LeetCode #121 - Best Time to Buy and Sell Stock" to "LeetCode #252 - Meeting Rooms".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #217 - Contains Duplicate" to "LeetCode #253 - Meeting Rooms II".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #238 - Product of Array Except Self" to "LeetCode #48 - Rotate Image".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #53 - Maximum Subarray" to "LeetCode #54 - Spiral Matrix".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #152 - Maximum Product Subarray" to "LeetCode #73 - Set Matrix Zeroes".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #153 - Find Minimum in Rotated Sorted Array" to "LeetCode #191 - Number of 1 Bits".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #33 - Search in Rotated Sorted Array" to "LeetCode #338 - Counting Bits".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #15 - 3Sum" to "LeetCode #190 - Reverse Bits".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #11 - Container With Most Water" to "LeetCode #268 - Missing Number".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #125 - Valid Palindrome" to "LeetCode #371 - Sum of Two Integers".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #15 - 3Sum" to "LeetCode #217 - Contains Duplicate".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Marked "LeetCode #242 - Valid Anagram" incomplete.
+- Renamed task "LeetCode #3 - Longest Substring Without Repeating Characters" to "LeetCode #242 - Valid Anagram".
+- Moved "LeetCode #242 - Valid Anagram" from 2026-10-02 to 2026-09-28.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #424 - Longest Repeating Character Replacement" to "LeetCode #1 - Two Sum".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #76 - Minimum Window Substring" to "LeetCode #49 - Group Anagrams".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #242 - Valid Anagram" to "LeetCode #347 - Top K Frequent Elements".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #49 - Group Anagrams" to "LeetCode #271 - Encode and Decode Strings".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #20 - Valid Parentheses" to "LeetCode #238 - Product of Array Except Self".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #141 - Linked List Cycle" to "LeetCode #128 - Longest Consecutive Sequence".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Marked "Job applications (5 today)" incomplete.
+- Moved "Job applications (5 today)" from 2026-10-12 to 2026-10-05.
+- Marked "LeetCode #125 - Valid Palindrome" incomplete.
+- Renamed task "LeetCode #206 - Reverse Linked List" to "LeetCode #125 - Valid Palindrome".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #21 - Merge Two Sorted Lists" to "LeetCode #15 - 3Sum".
+- Moved "LeetCode #15 - 3Sum" from 2026-10-05 to 2026-10-06.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Marked "Job applications (5 today)" incomplete.
+- Moved "Job applications (5 today)" from 2026-10-14 to 2026-10-07.
+- Renamed task "LeetCode #143 - Reorder List" to "LeetCode #11 - Container With Most Water".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #19 - Remove Nth Node From End of List" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Moved "LeetCode #121 - Best Time to Buy and Sell Stock" from 2026-10-07 to 2026-10-08.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #23 - Merge k Sorted Lists" to "LeetCode #3 - Longest Substring Without Repeating Characters".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Marked "Job applications (5 today)" incomplete.
+- Moved "Job applications (5 today)" from 2026-10-16 to 2026-10-10.
+- Renamed task "LeetCode #142 - Linked List Cycle II" to "LeetCode #424 - Longest Repeating Character Replacement".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #226 - Invert Binary Tree" to "LeetCode #76 - Minimum Window Substring".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #104 - Maximum Depth of Binary Tree" to "LeetCode #20 - Valid Parentheses".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-10-19 to 2026-10-13.
+- Renamed task "LeetCode #100 - Same Tree" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Marked "LeetCode #33 - Search in Rotated Sorted Array" incomplete.
+- Renamed task "LeetCode #572 - Subtree of Another Tree" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-10-21 to 2026-10-15.
+- Renamed task "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree" to "LeetCode #206 - Reverse Linked List".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #102 - Binary Tree Level Order Traversal" to "LeetCode #21 - Merge Two Sorted Lists".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #98 - Validate Binary Search Tree" to "LeetCode #143 - Reorder List".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-10-23 to 2026-10-18.
+- Renamed task "LeetCode #230 - Kth Smallest Element in a BST" to "LeetCode #19 - Remove Nth Node From End of List".
+- Moved "LeetCode #19 - Remove Nth Node From End of List" from 2026-10-15 to 2026-10-18.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal" to "LeetCode #141 - Linked List Cycle".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-10-26 to 2026-10-20.
+- Renamed task "LeetCode #124 - Binary Tree Maximum Path Sum" to "LeetCode #23 - Merge k Sorted Lists".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #297 - Serialize and Deserialize Binary Tree" to "LeetCode #226 - Invert Binary Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-10-28 to 2026-10-22.
+- Renamed task "LeetCode #295 - Find Median from Data Stream" to "LeetCode #104 - Maximum Depth of Binary Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #347 - Top K Frequent Elements" to "LeetCode #100 - Same Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #215 - Kth Largest Element in an Array" to "LeetCode #572 - Subtree of Another Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #39 - Combination Sum" to "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree".
+- Moved "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree" from 2026-10-22 to 2026-10-25.
+- Renamed task "LeetCode #79 - Word Search" to "LeetCode #102 - Binary Tree Level Order Traversal".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-10-30 to 2026-10-26.
+- Moved "Job applications (5 today)" from 2026-11-02 to 2026-10-27.
+- Renamed task "LeetCode #133 - Clone Graph" to "LeetCode #98 - Validate Binary Search Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #207 - Course Schedule" to "LeetCode #230 - Kth Smallest Element in a BST".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-10-25 to 2026-10-28.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-04 to 2026-10-29.
+- Renamed task "LeetCode #200 - Number of Islands" to "LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #417 - Pacific Atlantic Water Flow" to "LeetCode #124 - Binary Tree Maximum Path Sum".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-10-27 to 2026-10-30.
+- Renamed task "LeetCode #261 - Graph Valid Tree" to "LeetCode #297 - Serialize and Deserialize Binary Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #323 - Number of Connected Components in an Undirected Graph" to "LeetCode #208 - Implement Trie (Prefix Tree)".
+- Moved "LeetCode #208 - Implement Trie (Prefix Tree)" from 2026-10-29 to 2026-11-01.
+- Renamed task "LeetCode #128 - Longest Consecutive Sequence" to "LeetCode #211 - Design Add and Search Words Data Structure".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-06 to 2026-11-02.
+- Moved "Job applications (5 today)" from 2026-11-09 to 2026-11-03.
+- Renamed task "LeetCode #269 - Alien Dictionary" to "LeetCode #212 - Word Search II".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #73 - Set Matrix Zeroes" to "LeetCode #295 - Find Median from Data Stream".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-11-01 to 2026-11-04.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-11 to 2026-11-05.
+- Renamed task "LeetCode #54 - Spiral Matrix" to "LeetCode #39 - Combination Sum".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #48 - Rotate Image" to "LeetCode #79 - Word Search".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-11-03 to 2026-11-06.
+- Renamed task "LeetCode #70 - Climbing Stairs" to "LeetCode #200 - Number of Islands".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #322 - Coin Change" to "LeetCode #133 - Clone Graph".
+- Moved "LeetCode #133 - Clone Graph" from 2026-11-05 to 2026-11-08.
+- Renamed task "LeetCode #300 - Longest Increasing Subsequence" to "LeetCode #417 - Pacific Atlantic Water Flow".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-13 to 2026-11-09.
+- Moved "Job applications (5 today)" from 2026-11-16 to 2026-11-10.
+- Renamed task "LeetCode #1143 - Longest Common Subsequence" to "LeetCode #207 - Course Schedule".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #139 - Word Break" to "LeetCode #323 - Number of Connected Components in an Undirected Graph".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-11-08 to 2026-11-11.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-18 to 2026-11-12.
+- Renamed task "LeetCode #377 - Combination Sum IV" to "LeetCode #261 - Graph Valid Tree".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #198 - House Robber" to "LeetCode #269 - Alien Dictionary".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-11-10 to 2026-11-13.
+- Renamed task "LeetCode #213 - House Robber II" to "LeetCode #70 - Climbing Stairs".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #91 - Decode Ways" to "LeetCode #198 - House Robber".
+- Moved "LeetCode #198 - House Robber" from 2026-11-12 to 2026-11-15.
+- Renamed task "LeetCode #62 - Unique Paths" to "LeetCode #213 - House Robber II".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-20 to 2026-11-16.
+- Moved "Job applications (5 today)" from 2026-11-23 to 2026-11-17.
+- Renamed task "LeetCode #55 - Jump Game" to "LeetCode #5 - Longest Palindromic Substring".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #337 - House Robber III" to "LeetCode #647 - Palindromic Substrings".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-11-15 to 2026-11-18.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-25 to 2026-11-19.
+- Renamed task "LeetCode #57 - Insert Interval" to "LeetCode #91 - Decode Ways".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #56 - Merge Intervals" to "LeetCode #322 - Coin Change".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-11-17 to 2026-11-20.
+- Completed "Home lab work".
+- Renamed task "LeetCode #435 - Non-overlapping Intervals" to "LeetCode #152 - Maximum Product Subarray".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #252 - Meeting Rooms" to "LeetCode #139 - Word Break".
+- Moved "LeetCode #139 - Word Break" from 2026-11-19 to 2026-11-22.
+- Renamed task "LeetCode #253 - Meeting Rooms II" to "LeetCode #300 - Longest Increasing Subsequence".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-11-27 to 2026-11-23.
+- Moved "Job applications (5 today)" from 2026-11-30 to 2026-11-24.
+- Renamed task "LeetCode #371 - Sum of Two Integers" to "LeetCode #62 - Unique Paths".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #191 - Number of 1 Bits" to "LeetCode #1143 - Longest Common Subsequence".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-11-22 to 2026-11-25.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-02 to 2026-11-26.
+- Renamed task "LeetCode #338 - Counting Bits" to "LeetCode #53 - Maximum Subarray".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #190 - Reverse Bits" to "LeetCode #55 - Jump Game".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-11-24 to 2026-11-27.
+- Renamed task "LeetCode #268 - Missing Number" to "LeetCode #57 - Insert Interval".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #271 - Encode and Decode Strings" to "LeetCode #56 - Merge Intervals".
+- Moved "LeetCode #56 - Merge Intervals" from 2026-11-26 to 2026-11-29.
+- Renamed task "LeetCode #1 - Two Sum" to "LeetCode #435 - Non-overlapping Intervals".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-04 to 2026-11-30.
+- Moved "Job applications (5 today)" from 2026-12-07 to 2026-12-01.
+- Renamed task "LeetCode #121 - Best Time to Buy and Sell Stock" to "LeetCode #252 - Meeting Rooms".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #217 - Contains Duplicate" to "LeetCode #253 - Meeting Rooms II".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-11-29 to 2026-12-02.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-09 to 2026-12-03.
+- Renamed task "LeetCode #238 - Product of Array Except Self" to "LeetCode #48 - Rotate Image".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #53 - Maximum Subarray" to "LeetCode #54 - Spiral Matrix".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-12-01 to 2026-12-04.
+- Renamed task "LeetCode #152 - Maximum Product Subarray" to "LeetCode #73 - Set Matrix Zeroes".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #153 - Find Minimum in Rotated Sorted Array" to "LeetCode #191 - Number of 1 Bits".
+- Moved "LeetCode #191 - Number of 1 Bits" from 2026-12-03 to 2026-12-06.
+- Renamed task "LeetCode #33 - Search in Rotated Sorted Array" to "LeetCode #338 - Counting Bits".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-11 to 2026-12-07.
+- Moved "Job applications (5 today)" from 2026-12-14 to 2026-12-08.
+- Renamed task "LeetCode #15 - 3Sum" to "LeetCode #190 - Reverse Bits".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #11 - Container With Most Water" to "LeetCode #268 - Missing Number".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-12-06 to 2026-12-09.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-16 to 2026-12-10.
+- Renamed task "LeetCode #125 - Valid Palindrome" to "LeetCode #371 - Sum of Two Integers".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #15 - 3Sum" to "LeetCode #217 - Contains Duplicate".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-12-08 to 2026-12-11.
+- Renamed task "LeetCode #3 - Longest Substring Without Repeating Characters" to "LeetCode #242 - Valid Anagram".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #424 - Longest Repeating Character Replacement" to "LeetCode #1 - Two Sum".
+- Moved "LeetCode #1 - Two Sum" from 2026-12-10 to 2026-12-13.
+- Renamed task "LeetCode #76 - Minimum Window Substring" to "LeetCode #49 - Group Anagrams".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-18 to 2026-12-14.
+- Moved "Job applications (5 today)" from 2026-12-21 to 2026-12-15.
+- Renamed task "LeetCode #242 - Valid Anagram" to "LeetCode #347 - Top K Frequent Elements".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #49 - Group Anagrams" to "LeetCode #271 - Encode and Decode Strings".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-12-13 to 2026-12-16.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-23 to 2026-12-17.
+- Renamed task "LeetCode #20 - Valid Parentheses" to "LeetCode #238 - Product of Array Except Self".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #141 - Linked List Cycle" to "LeetCode #128 - Longest Consecutive Sequence".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-12-15 to 2026-12-18.
+- Renamed task "LeetCode #206 - Reverse Linked List" to "LeetCode #125 - Valid Palindrome".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #21 - Merge Two Sorted Lists" to "LeetCode #15 - 3Sum".
+- Moved "LeetCode #15 - 3Sum" from 2026-12-17 to 2026-12-20.
+- Renamed task "LeetCode #143 - Reorder List" to "LeetCode #11 - Container With Most Water".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-25 to 2026-12-21.
+- Moved "Job applications (5 today)" from 2026-12-28 to 2026-12-22.
+- Renamed task "LeetCode #19 - Remove Nth Node From End of List" to "LeetCode #121 - Best Time to Buy and Sell Stock".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #23 - Merge k Sorted Lists" to "LeetCode #3 - Longest Substring Without Repeating Characters".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-12-20 to 2026-12-23.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "WINFO: sponsorship outreach" from 2026-12-29 to 2026-12-23.
+- Moved "Job applications (5 today)" from 2026-12-30 to 2026-12-24.
+- Renamed task "LeetCode #142 - Linked List Cycle II" to "LeetCode #424 - Longest Repeating Character Replacement".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #226 - Invert Binary Tree" to "LeetCode #76 - Minimum Window Substring".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Palana: threat model work" from 2026-12-22 to 2026-12-25.
+- Renamed task "LeetCode #104 - Maximum Depth of Binary Tree" to "LeetCode #20 - Valid Parentheses".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #100 - Same Tree" to "LeetCode #153 - Find Minimum in Rotated Sorted Array".
+- Moved "LeetCode #153 - Find Minimum in Rotated Sorted Array" from 2026-12-24 to 2026-12-27.
+- Renamed task "LeetCode #572 - Subtree of Another Tree" to "LeetCode #33 - Search in Rotated Sorted Array".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "Job applications (5 today)" from 2026-12-27 to 2026-12-28.
+- Renamed task "LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree" to "LeetCode #206 - Reverse Linked List".
+- Renamed task "LeetCode #102 - Binary Tree Level Order Traversal" to "LeetCode #21 - Merge Two Sorted Lists".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-12-27 to 2026-12-30.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Moved "AHF work (tech lead duties)" from 2026-12-29 to 2026-12-30.
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.
+- Renamed task "LeetCode #98 - Validate Binary Search Tree" to "LeetCode #143 - Reorder List".
+- Updated "AHF work (tech lead duties)" duration from 1.5h to 1h.

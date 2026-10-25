@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T03:14:45.953Z",
+  "updatedAt": "2026-10-25T04:13:26.589Z",
   "entries": [
     {
       "id": "5b80c379f938c01f5dc021c8",
@@ -9870,6 +9870,1486 @@
       "id": "361d5586fa441f5ca19b3f9f",
       "date": "2026-10-21",
       "text": "Completed \"Read P1 Deques overview and setup page\"."
+    },
+    {
+      "id": "8f0d14852c25fee244b61f0c",
+      "date": "2026-10-24",
+      "text": "Added task \"AWS AI Practitioner Certification Exam\"."
+    },
+    {
+      "id": "51609fc7e9cfe649168cd363",
+      "date": "2026-10-24",
+      "text": "Added task \"AWS AI Practitioner Certification Exam\"."
+    },
+    {
+      "id": "97f11ddd33d08f37fa97aafa",
+      "date": "2026-10-24",
+      "text": "Marked \"LeetCode #435 - Non-overlapping Intervals\" incomplete."
+    },
+    {
+      "id": "7ff0af5062fd7b166e6c63c8",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #1 - Two Sum\" to \"LeetCode #435 - Non-overlapping Intervals\"."
+    },
+    {
+      "id": "00f53c2d158103d95171bef4",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "9eb3c51a0c0110fbe0118d96",
+      "date": "2026-10-24",
+      "text": "Marked \"LeetCode #252 - Meeting Rooms\" incomplete."
+    },
+    {
+      "id": "69fcc474ffe92ddc16d1a3ec",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #121 - Best Time to Buy and Sell Stock\" to \"LeetCode #252 - Meeting Rooms\"."
+    },
+    {
+      "id": "21baa77560f521e169f6742a",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "fd25c7193287bc524e2fe450",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #217 - Contains Duplicate\" to \"LeetCode #253 - Meeting Rooms II\"."
+    },
+    {
+      "id": "c0b0a8fe7dd507ccb147a4ff",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "44e5ad4b0f7ab91f11e0f796",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #238 - Product of Array Except Self\" to \"LeetCode #48 - Rotate Image\"."
+    },
+    {
+      "id": "d559249499bbeaf2b5b1a6fe",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "1398fb9c71be98473db909d4",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #53 - Maximum Subarray\" to \"LeetCode #54 - Spiral Matrix\"."
+    },
+    {
+      "id": "478749529e859a6e41844343",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "65fa56d35c9bcadf8d9fb787",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #152 - Maximum Product Subarray\" to \"LeetCode #73 - Set Matrix Zeroes\"."
+    },
+    {
+      "id": "eea11fced56d91fcae963cae",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f60a4d08f7b23a5ad02c3c12",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #153 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #191 - Number of 1 Bits\"."
+    },
+    {
+      "id": "d8e3eda89aecb1ab7fc28379",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f39500b086a0f2d36e2bff85",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #33 - Search in Rotated Sorted Array\" to \"LeetCode #338 - Counting Bits\"."
+    },
+    {
+      "id": "5ec726b382ff499befa7c49b",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "15bab99a7dc85633c7036aa2",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #15 - 3Sum\" to \"LeetCode #190 - Reverse Bits\"."
+    },
+    {
+      "id": "4ad510604a8de318ce362338",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "91d5135b7a294678740d0500",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #11 - Container With Most Water\" to \"LeetCode #268 - Missing Number\"."
+    },
+    {
+      "id": "925b781d4637ae917001b597",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c3e5ce06199cd21ecfd96a99",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #125 - Valid Palindrome\" to \"LeetCode #371 - Sum of Two Integers\"."
+    },
+    {
+      "id": "9a70db6ab07d1183b24098cf",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "1af651bc1925928eddc5f3b0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #15 - 3Sum\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "4031b4b6428832293b22532a",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c340a1c170cebba2c555bee1",
+      "date": "2026-10-24",
+      "text": "Marked \"LeetCode #242 - Valid Anagram\" incomplete."
+    },
+    {
+      "id": "a2722d57d60c9b72feadec18",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #3 - Longest Substring Without Repeating Characters\" to \"LeetCode #242 - Valid Anagram\"."
+    },
+    {
+      "id": "45de54530f3b3e578c424d6b",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #242 - Valid Anagram\" from 2026-10-02 to 2026-09-28."
+    },
+    {
+      "id": "0d332309d55d67396d6bcaab",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "27b82cf28f8b069459b5a04f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #424 - Longest Repeating Character Replacement\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "ef6f00a3f4660fef26c77310",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "d7842b63a340b19ad79a9a84",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #76 - Minimum Window Substring\" to \"LeetCode #49 - Group Anagrams\"."
+    },
+    {
+      "id": "ab310469e02467dec8584293",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f55fb18e27a33636ea4b6dc5",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #242 - Valid Anagram\" to \"LeetCode #347 - Top K Frequent Elements\"."
+    },
+    {
+      "id": "bb447a0edd6eaa9b1e1e981f",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "19f35610f8c27e9c036fd820",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #49 - Group Anagrams\" to \"LeetCode #271 - Encode and Decode Strings\"."
+    },
+    {
+      "id": "fa8bec51a43a71c147657c8e",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c3b3b069de24681fb60016a0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #20 - Valid Parentheses\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "039fcc1b91b53fa8aad9773b",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c2cd8289e1bcea585483605e",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #141 - Linked List Cycle\" to \"LeetCode #128 - Longest Consecutive Sequence\"."
+    },
+    {
+      "id": "3b0890837bd52aee8f9181c7",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "8e737c7d44159f93c556aae0",
+      "date": "2026-10-24",
+      "text": "Marked \"Job applications (5 today)\" incomplete."
+    },
+    {
+      "id": "6056ae9362f959580929e6f5",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-12 to 2026-10-05."
+    },
+    {
+      "id": "0650c89dddf66db26cc0184d",
+      "date": "2026-10-24",
+      "text": "Marked \"LeetCode #125 - Valid Palindrome\" incomplete."
+    },
+    {
+      "id": "ff092c351cd742c7e95ef9cf",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #206 - Reverse Linked List\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "655293ac37e3aaa7fa5a3811",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "8610ae60f18d2013c49e65da",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #21 - Merge Two Sorted Lists\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "a869bcbac9c6aa3afc45441a",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #15 - 3Sum\" from 2026-10-05 to 2026-10-06."
+    },
+    {
+      "id": "d587464f11fe8d9a6afc9fa5",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "fce9a38daebc2f576cb4a938",
+      "date": "2026-10-24",
+      "text": "Marked \"Job applications (5 today)\" incomplete."
+    },
+    {
+      "id": "5cecad95a9f5952f46e1c94f",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-14 to 2026-10-07."
+    },
+    {
+      "id": "b1e13d3d4475056a4f701e3a",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #143 - Reorder List\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "e1a37fd64a065e9502db87bc",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "50ba27dd7ba57106a66d91d9",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #19 - Remove Nth Node From End of List\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "5290f1d354e7203bb920a660",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #121 - Best Time to Buy and Sell Stock\" from 2026-10-07 to 2026-10-08."
+    },
+    {
+      "id": "11e7524c83dbaa88d7505164",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "548e228e465e7fb99a1ec399",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #23 - Merge k Sorted Lists\" to \"LeetCode #3 - Longest Substring Without Repeating Characters\"."
+    },
+    {
+      "id": "ae229f61b8d9453789dd57c3",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "7e08a8755d0b9180902bdc66",
+      "date": "2026-10-24",
+      "text": "Marked \"Job applications (5 today)\" incomplete."
+    },
+    {
+      "id": "01eb35de8dd4ff756f967053",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-16 to 2026-10-10."
+    },
+    {
+      "id": "4043d8b667ca4594a1f24d90",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #142 - Linked List Cycle II\" to \"LeetCode #424 - Longest Repeating Character Replacement\"."
+    },
+    {
+      "id": "875a52289a3b06def730954b",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f8fbe8f10cc671da368f6482",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #226 - Invert Binary Tree\" to \"LeetCode #76 - Minimum Window Substring\"."
+    },
+    {
+      "id": "18210dce449736dde70e72fe",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f716057ecbb5f4ae2fd1b934",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #104 - Maximum Depth of Binary Tree\" to \"LeetCode #20 - Valid Parentheses\"."
+    },
+    {
+      "id": "048e2fbd9c154cf149349990",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f4470a95659a7c5e98f2a22c",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-19 to 2026-10-13."
+    },
+    {
+      "id": "2c22318350af72f4dea1af3d",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #100 - Same Tree\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "78a9e16a6b09e488aa3d8a42",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "3a744248fa79c60b44fc504e",
+      "date": "2026-10-24",
+      "text": "Marked \"LeetCode #33 - Search in Rotated Sorted Array\" incomplete."
+    },
+    {
+      "id": "6228fd6bc548e500691925b4",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #572 - Subtree of Another Tree\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "16565ca099050270266e2cdf",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "3f20f2b95207ac8ab7ddf138",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-21 to 2026-10-15."
+    },
+    {
+      "id": "f953d31b6eea92ff15e578fc",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\" to \"LeetCode #206 - Reverse Linked List\"."
+    },
+    {
+      "id": "cce660e4aab80be54e5eb6bf",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "9b9bf3466ee38af8000fcf68",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #102 - Binary Tree Level Order Traversal\" to \"LeetCode #21 - Merge Two Sorted Lists\"."
+    },
+    {
+      "id": "539427f9f543256b0c9a9f9e",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "3a1d3fa99031932f0598ec4b",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #98 - Validate Binary Search Tree\" to \"LeetCode #143 - Reorder List\"."
+    },
+    {
+      "id": "1ce03eb5dc2e3ca43f7d23d1",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "391d058823d2551f7e0b81f7",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-23 to 2026-10-18."
+    },
+    {
+      "id": "c94e58e0006f983d9ee986f0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #230 - Kth Smallest Element in a BST\" to \"LeetCode #19 - Remove Nth Node From End of List\"."
+    },
+    {
+      "id": "92dea70fa0fb973407636eb6",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #19 - Remove Nth Node From End of List\" from 2026-10-15 to 2026-10-18."
+    },
+    {
+      "id": "7b4e1a35b22db7a4666e9d6a",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "fc561eb3e27abe1f92a8769e",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal\" to \"LeetCode #141 - Linked List Cycle\"."
+    },
+    {
+      "id": "de72d431f6ef1be091a6a596",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c924b0303b22294868241934",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-26 to 2026-10-20."
+    },
+    {
+      "id": "78bfd76f37ac0f9e6ebcc35f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #124 - Binary Tree Maximum Path Sum\" to \"LeetCode #23 - Merge k Sorted Lists\"."
+    },
+    {
+      "id": "b45aae5af4140d7dc335ce88",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "9e5cec91f0531b57e05f3284",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #297 - Serialize and Deserialize Binary Tree\" to \"LeetCode #226 - Invert Binary Tree\"."
+    },
+    {
+      "id": "a81edc4082f70306552f68af",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "a609704a3ab4664e9065464e",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-28 to 2026-10-22."
+    },
+    {
+      "id": "67e614fa60ac735472045692",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #295 - Find Median from Data Stream\" to \"LeetCode #104 - Maximum Depth of Binary Tree\"."
+    },
+    {
+      "id": "17a5eea44fe245e7a1da7931",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "db013798fd41edb14d5f98f7",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #347 - Top K Frequent Elements\" to \"LeetCode #100 - Same Tree\"."
+    },
+    {
+      "id": "a1f97188a0d27809e0ed08a4",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "5bb9d5203ecb4baaa2b5af6e",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #215 - Kth Largest Element in an Array\" to \"LeetCode #572 - Subtree of Another Tree\"."
+    },
+    {
+      "id": "b25832ece64179366c49626c",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "7b2dadf5e2236b3f365874b2",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #39 - Combination Sum\" to \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\"."
+    },
+    {
+      "id": "f9593158dd8ba379795f8f71",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\" from 2026-10-22 to 2026-10-25."
+    },
+    {
+      "id": "a2ca246a3216c204abed154b",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #79 - Word Search\" to \"LeetCode #102 - Binary Tree Level Order Traversal\"."
+    },
+    {
+      "id": "36f80f59d4828f687f1677c5",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "51ad25e4dae6343933d4345d",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-10-30 to 2026-10-26."
+    },
+    {
+      "id": "5786b7df661c873c68b83534",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-02 to 2026-10-27."
+    },
+    {
+      "id": "a2fe85d9c8f2f1bd0c26133c",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #133 - Clone Graph\" to \"LeetCode #98 - Validate Binary Search Tree\"."
+    },
+    {
+      "id": "bf712a1d82551429225feab0",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "63976d9ab3b5ec490bee1536",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #207 - Course Schedule\" to \"LeetCode #230 - Kth Smallest Element in a BST\"."
+    },
+    {
+      "id": "160146c64172d4d33eca566d",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "cd45e8ac7d363a90d546c699",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-10-25 to 2026-10-28."
+    },
+    {
+      "id": "1e2aae7f7739ae6ee0ee3fcc",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "051cf36a2a2cffee1350ecb2",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-04 to 2026-10-29."
+    },
+    {
+      "id": "4a75d1e30a390aa2f559d73e",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #200 - Number of Islands\" to \"LeetCode #105 - Construct Binary Tree from Preorder and Inorder Traversal\"."
+    },
+    {
+      "id": "49f2e5498fd598535068e3f3",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "0b26dd83582e982abb93de51",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #417 - Pacific Atlantic Water Flow\" to \"LeetCode #124 - Binary Tree Maximum Path Sum\"."
+    },
+    {
+      "id": "976da84964c2b816017dc69d",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "86e8bf485f6a1d70e6c9f5a6",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-10-27 to 2026-10-30."
+    },
+    {
+      "id": "ee2e09a26a20396b82a11148",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #261 - Graph Valid Tree\" to \"LeetCode #297 - Serialize and Deserialize Binary Tree\"."
+    },
+    {
+      "id": "43040c5f3db7a8da99973683",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "a9bda34390f32b340b6e49fe",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #323 - Number of Connected Components in an Undirected Graph\" to \"LeetCode #208 - Implement Trie (Prefix Tree)\"."
+    },
+    {
+      "id": "80c62863a404ecf17579b4d7",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #208 - Implement Trie (Prefix Tree)\" from 2026-10-29 to 2026-11-01."
+    },
+    {
+      "id": "7c66e5abda507ff5318e88eb",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #128 - Longest Consecutive Sequence\" to \"LeetCode #211 - Design Add and Search Words Data Structure\"."
+    },
+    {
+      "id": "e6489968f9dcd8396879b3ac",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "27e81d67501aed93b335e41f",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-06 to 2026-11-02."
+    },
+    {
+      "id": "cc03e55d67575523df3f3f32",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-09 to 2026-11-03."
+    },
+    {
+      "id": "641ab3c7feffbd18c978525a",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #269 - Alien Dictionary\" to \"LeetCode #212 - Word Search II\"."
+    },
+    {
+      "id": "0f27c0718198e1a29ee48a8d",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "51c104190d319c308d4e332c",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #73 - Set Matrix Zeroes\" to \"LeetCode #295 - Find Median from Data Stream\"."
+    },
+    {
+      "id": "fc1deb0c707dc08fb1cccfd7",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "5eb019bc08456fde68ae4534",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-11-01 to 2026-11-04."
+    },
+    {
+      "id": "775a74ea213fe4672a89c533",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f64ff3703ebb9cb9764ad0e6",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-11 to 2026-11-05."
+    },
+    {
+      "id": "a4048627c6d97416acc09e57",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #54 - Spiral Matrix\" to \"LeetCode #39 - Combination Sum\"."
+    },
+    {
+      "id": "e6abf525951f62d703fa78cf",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "4b99cfe023a6295ea756e0f5",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #48 - Rotate Image\" to \"LeetCode #79 - Word Search\"."
+    },
+    {
+      "id": "ec7802c73ae0049598b0add5",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "a62947516bee1ca71450dc26",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-11-03 to 2026-11-06."
+    },
+    {
+      "id": "17f7122f66d29d7ea2916686",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #70 - Climbing Stairs\" to \"LeetCode #200 - Number of Islands\"."
+    },
+    {
+      "id": "ae101ca9afadd38b8abe6861",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "801c8400b2aeb865539af6c8",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #322 - Coin Change\" to \"LeetCode #133 - Clone Graph\"."
+    },
+    {
+      "id": "0b0069d27b29c3e4f0f24939",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #133 - Clone Graph\" from 2026-11-05 to 2026-11-08."
+    },
+    {
+      "id": "44292bd65aef9cefea37f4c5",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #300 - Longest Increasing Subsequence\" to \"LeetCode #417 - Pacific Atlantic Water Flow\"."
+    },
+    {
+      "id": "7b73ee5a0bf7cd22003efe57",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "8c0716c669b5c0976e939cd5",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-13 to 2026-11-09."
+    },
+    {
+      "id": "7dfdc1d53decd2d2640bb308",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-16 to 2026-11-10."
+    },
+    {
+      "id": "c2c8bac4994b30fe399db5ed",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #1143 - Longest Common Subsequence\" to \"LeetCode #207 - Course Schedule\"."
+    },
+    {
+      "id": "298c7c544338629f089f5673",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "02bb07ae6cacdad13e00ebe4",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #139 - Word Break\" to \"LeetCode #323 - Number of Connected Components in an Undirected Graph\"."
+    },
+    {
+      "id": "f3fa5e7886cd417c457ccba0",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c58afc58d4cef931a9671a92",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-11-08 to 2026-11-11."
+    },
+    {
+      "id": "fc745811aca3f18bdf6c0940",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "cb31c12f9e185f3c44ae5768",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-18 to 2026-11-12."
+    },
+    {
+      "id": "ff1f05e5ca0f40436ce995ee",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #377 - Combination Sum IV\" to \"LeetCode #261 - Graph Valid Tree\"."
+    },
+    {
+      "id": "678fadcc9418776169b233ff",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "6f5c3ada8013d77fc178ee50",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #198 - House Robber\" to \"LeetCode #269 - Alien Dictionary\"."
+    },
+    {
+      "id": "4f6d155e2b0db588ef03dcb4",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f1fb6efc999df104c38adbac",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-11-10 to 2026-11-13."
+    },
+    {
+      "id": "9ecd268c98da37fbe93b0c70",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #213 - House Robber II\" to \"LeetCode #70 - Climbing Stairs\"."
+    },
+    {
+      "id": "c5b1b6411b42ba6ea8c4dc6f",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "43c4a6f196a15ce8fc67707a",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #91 - Decode Ways\" to \"LeetCode #198 - House Robber\"."
+    },
+    {
+      "id": "37c4168567f794d5ba52879f",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #198 - House Robber\" from 2026-11-12 to 2026-11-15."
+    },
+    {
+      "id": "a210ac4c80132643ec0dc2da",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #62 - Unique Paths\" to \"LeetCode #213 - House Robber II\"."
+    },
+    {
+      "id": "c7576939c19bf77824fd9bee",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "2f4011f88ceba26e2cb60e92",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-20 to 2026-11-16."
+    },
+    {
+      "id": "8a4d2e8dfb637bd0cef99b6a",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-23 to 2026-11-17."
+    },
+    {
+      "id": "1140083751507213146bd302",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #55 - Jump Game\" to \"LeetCode #5 - Longest Palindromic Substring\"."
+    },
+    {
+      "id": "5b9263ee36d66a6a70f18a5b",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "005ec642f591f76b599d0d87",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #337 - House Robber III\" to \"LeetCode #647 - Palindromic Substrings\"."
+    },
+    {
+      "id": "05b5c4f59e7f349032daebb8",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "8cd5f4b78ff9e85e7b6970f8",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-11-15 to 2026-11-18."
+    },
+    {
+      "id": "8775e0d82c7901b8f4e34690",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "d12236d4d0c066929af42078",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-25 to 2026-11-19."
+    },
+    {
+      "id": "ab66a1efed6ffedbade0f9c0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #57 - Insert Interval\" to \"LeetCode #91 - Decode Ways\"."
+    },
+    {
+      "id": "1a79d066da87be4a4e052990",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "4e01413d7d2fd3f1aafb78ae",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #56 - Merge Intervals\" to \"LeetCode #322 - Coin Change\"."
+    },
+    {
+      "id": "bd48a59464889f80ac8a51f0",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "51ac389c4e05ae655800399d",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-11-17 to 2026-11-20."
+    },
+    {
+      "id": "54e9a0795185d87e037b2ba2",
+      "date": "2026-10-24",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "c01b884866e3da2d0069207e",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #435 - Non-overlapping Intervals\" to \"LeetCode #152 - Maximum Product Subarray\"."
+    },
+    {
+      "id": "5bfdadd89da260ede1f0178f",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "2ed758432cb8b0afe346b1e0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #252 - Meeting Rooms\" to \"LeetCode #139 - Word Break\"."
+    },
+    {
+      "id": "b0305a9631ca6801bf79a439",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #139 - Word Break\" from 2026-11-19 to 2026-11-22."
+    },
+    {
+      "id": "f2663f0083d32a64b0f4cc5f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #253 - Meeting Rooms II\" to \"LeetCode #300 - Longest Increasing Subsequence\"."
+    },
+    {
+      "id": "b6ab6c27db319b4332bf1914",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "fabdd9c36a8ce57029f06cd0",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-27 to 2026-11-23."
+    },
+    {
+      "id": "5a167bb3984e783b187cb92d",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-11-30 to 2026-11-24."
+    },
+    {
+      "id": "a7bfcac2576a4600caabdef6",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #371 - Sum of Two Integers\" to \"LeetCode #62 - Unique Paths\"."
+    },
+    {
+      "id": "07c9fd49da3cf6bd963671f7",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "087c432e907cb1ea11fa5ed5",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #191 - Number of 1 Bits\" to \"LeetCode #1143 - Longest Common Subsequence\"."
+    },
+    {
+      "id": "92aa1580368d7df4c04cc8e1",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "e349a7aabcbfa624723b9dc8",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-11-22 to 2026-11-25."
+    },
+    {
+      "id": "700ef23a048c18bd61ec7ca8",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "a1e5427fc24e16a30a2415af",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-02 to 2026-11-26."
+    },
+    {
+      "id": "05a10b7fdb3e1aec689d3dfb",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #338 - Counting Bits\" to \"LeetCode #53 - Maximum Subarray\"."
+    },
+    {
+      "id": "c362718f66c8b523a936a641",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "08a7b17a03cacc35e42beac6",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #190 - Reverse Bits\" to \"LeetCode #55 - Jump Game\"."
+    },
+    {
+      "id": "248fb3edf20dbb919437efb1",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "bad8db78494b8d36b3bcfd07",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-11-24 to 2026-11-27."
+    },
+    {
+      "id": "785f98e81ccbd68ddce748a9",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #268 - Missing Number\" to \"LeetCode #57 - Insert Interval\"."
+    },
+    {
+      "id": "1c3a7c87d3ea655fc493796b",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "fe9fff9cdb040c47f148d904",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #271 - Encode and Decode Strings\" to \"LeetCode #56 - Merge Intervals\"."
+    },
+    {
+      "id": "5effcf14c72f300ff2165269",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #56 - Merge Intervals\" from 2026-11-26 to 2026-11-29."
+    },
+    {
+      "id": "80cae2c60358cbf73ff9fd6a",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #1 - Two Sum\" to \"LeetCode #435 - Non-overlapping Intervals\"."
+    },
+    {
+      "id": "94969fa39852dac7f94fc838",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "5e59f089d0510572d2ccb3e5",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-04 to 2026-11-30."
+    },
+    {
+      "id": "8cc8cb57269f1b1e4b90af5d",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-07 to 2026-12-01."
+    },
+    {
+      "id": "51a6dbe7c26cb57539785eaa",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #121 - Best Time to Buy and Sell Stock\" to \"LeetCode #252 - Meeting Rooms\"."
+    },
+    {
+      "id": "ccfcb4ee6d5bdc06e98bd350",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "407fb15a58755d2bb7ceca0f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #217 - Contains Duplicate\" to \"LeetCode #253 - Meeting Rooms II\"."
+    },
+    {
+      "id": "d2e1565dc2763ea80e4c1dde",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "58279c391d690d84562fa5d5",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-11-29 to 2026-12-02."
+    },
+    {
+      "id": "e9461d0bffbc91ffc37fe646",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "d6caa1dc345bed5b4646cf1b",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-09 to 2026-12-03."
+    },
+    {
+      "id": "5f1183e199672c4b5bca3d8f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #238 - Product of Array Except Self\" to \"LeetCode #48 - Rotate Image\"."
+    },
+    {
+      "id": "3421a454f4af297d7de78272",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "ccb71768071228137a6392aa",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #53 - Maximum Subarray\" to \"LeetCode #54 - Spiral Matrix\"."
+    },
+    {
+      "id": "0be1d47f6d6957cdf2854c68",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "cad736c254ba146d523d2b47",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-12-01 to 2026-12-04."
+    },
+    {
+      "id": "466c734dcb40b0404ba6e10e",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #152 - Maximum Product Subarray\" to \"LeetCode #73 - Set Matrix Zeroes\"."
+    },
+    {
+      "id": "aff142f6085475ccb5890434",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "c2d0b8f29c401173e8dfe58c",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #153 - Find Minimum in Rotated Sorted Array\" to \"LeetCode #191 - Number of 1 Bits\"."
+    },
+    {
+      "id": "9bcce1428615ad67830db35d",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #191 - Number of 1 Bits\" from 2026-12-03 to 2026-12-06."
+    },
+    {
+      "id": "773f88c6237ee84c879ec0d0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #33 - Search in Rotated Sorted Array\" to \"LeetCode #338 - Counting Bits\"."
+    },
+    {
+      "id": "c91e81df9aed3177b4342b20",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "8716b0c6a1fbace1c2871093",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-11 to 2026-12-07."
+    },
+    {
+      "id": "5f76b2581893f61471501f09",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-14 to 2026-12-08."
+    },
+    {
+      "id": "a0c1f7414cff9d396d64b2a5",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #15 - 3Sum\" to \"LeetCode #190 - Reverse Bits\"."
+    },
+    {
+      "id": "f221981c11fc2d141a2b09d5",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "b1f779e0d00b16178cac8822",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #11 - Container With Most Water\" to \"LeetCode #268 - Missing Number\"."
+    },
+    {
+      "id": "fb8098a271835f66e77fdd2d",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "e7210f5b93751a5da1b0b82c",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-12-06 to 2026-12-09."
+    },
+    {
+      "id": "25833eef09abdae4f2a37e35",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "5268648feb040d58870944ad",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-16 to 2026-12-10."
+    },
+    {
+      "id": "7cd3b04ca24d82793734f567",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #125 - Valid Palindrome\" to \"LeetCode #371 - Sum of Two Integers\"."
+    },
+    {
+      "id": "7f1ecc5fa63f9497a0f4a231",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "45bd16cf2ba0b151521f8403",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #15 - 3Sum\" to \"LeetCode #217 - Contains Duplicate\"."
+    },
+    {
+      "id": "6cbdee8688042d87580bf838",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "3ca36bc0bc17f3b4193d393b",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-12-08 to 2026-12-11."
+    },
+    {
+      "id": "3197fb7b73fd4fe9c2078f0f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #3 - Longest Substring Without Repeating Characters\" to \"LeetCode #242 - Valid Anagram\"."
+    },
+    {
+      "id": "6aa88f49fbf487c259104a85",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "ccab186b291c545a127b7076",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #424 - Longest Repeating Character Replacement\" to \"LeetCode #1 - Two Sum\"."
+    },
+    {
+      "id": "efb329344e6e2cd811f6c792",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #1 - Two Sum\" from 2026-12-10 to 2026-12-13."
+    },
+    {
+      "id": "672ac52b9e872f434489e36d",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #76 - Minimum Window Substring\" to \"LeetCode #49 - Group Anagrams\"."
+    },
+    {
+      "id": "3b829b4b45e161c9f1bf3ec9",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "edfb15fce0412050eca23de7",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-18 to 2026-12-14."
+    },
+    {
+      "id": "f9e7b89303dbd39e72df8d6f",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-21 to 2026-12-15."
+    },
+    {
+      "id": "ef83cc4d6746f9967a5366d0",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #242 - Valid Anagram\" to \"LeetCode #347 - Top K Frequent Elements\"."
+    },
+    {
+      "id": "5fb0376ab7d9c352fa9de310",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "b1a32cb44e2cd469060f3b8f",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #49 - Group Anagrams\" to \"LeetCode #271 - Encode and Decode Strings\"."
+    },
+    {
+      "id": "f30098dd2a2ef12d81f6b763",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "bdd95ddba74530b905b1006b",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-12-13 to 2026-12-16."
+    },
+    {
+      "id": "376080a67c8509607f9dd9a7",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "d610700816e5d5688b92433f",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-23 to 2026-12-17."
+    },
+    {
+      "id": "ff3af5e83ee8991d70624cef",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #20 - Valid Parentheses\" to \"LeetCode #238 - Product of Array Except Self\"."
+    },
+    {
+      "id": "b7b32305d0d46d4458e1654e",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "b461a6700640209f0518a616",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #141 - Linked List Cycle\" to \"LeetCode #128 - Longest Consecutive Sequence\"."
+    },
+    {
+      "id": "1d9bf6d896d0dfeab5069088",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "cec595b14ace5d30616c77dc",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-12-15 to 2026-12-18."
+    },
+    {
+      "id": "57327676b5b50923ba6a63c8",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #206 - Reverse Linked List\" to \"LeetCode #125 - Valid Palindrome\"."
+    },
+    {
+      "id": "9cb5e1ae257199c458cef2d7",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "2f248c1271c3bc92e2da6734",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #21 - Merge Two Sorted Lists\" to \"LeetCode #15 - 3Sum\"."
+    },
+    {
+      "id": "44092506c9e45c63080e11b4",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #15 - 3Sum\" from 2026-12-17 to 2026-12-20."
+    },
+    {
+      "id": "74e2ec35fad901cb4a1623c8",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #143 - Reorder List\" to \"LeetCode #11 - Container With Most Water\"."
+    },
+    {
+      "id": "b10f52339dd57433063d9eb5",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "b7977dbe4e53286369d39e00",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-25 to 2026-12-21."
+    },
+    {
+      "id": "23edec67f223cf390f597892",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-28 to 2026-12-22."
+    },
+    {
+      "id": "1f338405c558778c257251ae",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #19 - Remove Nth Node From End of List\" to \"LeetCode #121 - Best Time to Buy and Sell Stock\"."
+    },
+    {
+      "id": "9d4559493a988b84b4a680f3",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "a0be46f909717941b17ff61a",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #23 - Merge k Sorted Lists\" to \"LeetCode #3 - Longest Substring Without Repeating Characters\"."
+    },
+    {
+      "id": "d18979a5034ac696494f88d8",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "95913c2c7e87505e2cac206e",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-12-20 to 2026-12-23."
+    },
+    {
+      "id": "756a7584e41ee8a4ee6591ba",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "7832c4fcf6dd0fc6f1d7cce1",
+      "date": "2026-10-24",
+      "text": "Moved \"WINFO: sponsorship outreach\" from 2026-12-29 to 2026-12-23."
+    },
+    {
+      "id": "6d8903cccfae27caf9732fb9",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-30 to 2026-12-24."
+    },
+    {
+      "id": "8c3deb96939f97681137fdbd",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #142 - Linked List Cycle II\" to \"LeetCode #424 - Longest Repeating Character Replacement\"."
+    },
+    {
+      "id": "3efe882a4e8245649f82a462",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "186caf4fec44d0ceedafa8cb",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #226 - Invert Binary Tree\" to \"LeetCode #76 - Minimum Window Substring\"."
+    },
+    {
+      "id": "67527dd385a52709bc585430",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "7431aa7ef53c7308ce28b148",
+      "date": "2026-10-24",
+      "text": "Moved \"Palana: threat model work\" from 2026-12-22 to 2026-12-25."
+    },
+    {
+      "id": "fcd0ac8a927bc6fb825b6b1b",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #104 - Maximum Depth of Binary Tree\" to \"LeetCode #20 - Valid Parentheses\"."
+    },
+    {
+      "id": "99e76f1c66284fc48e860585",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "444f6453650e754bb70c2a80",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #100 - Same Tree\" to \"LeetCode #153 - Find Minimum in Rotated Sorted Array\"."
+    },
+    {
+      "id": "af69edd98a98c4ace967c6a2",
+      "date": "2026-10-24",
+      "text": "Moved \"LeetCode #153 - Find Minimum in Rotated Sorted Array\" from 2026-12-24 to 2026-12-27."
+    },
+    {
+      "id": "cdc3a1631844eb13b27d12df",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #572 - Subtree of Another Tree\" to \"LeetCode #33 - Search in Rotated Sorted Array\"."
+    },
+    {
+      "id": "5e4bf6f25dd46664ff81c0e0",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "a7b1ef99aefc9d3f28850ae0",
+      "date": "2026-10-24",
+      "text": "Moved \"Job applications (5 today)\" from 2026-12-27 to 2026-12-28."
+    },
+    {
+      "id": "27842777a5914be8037ea8c7",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #235 - Lowest Common Ancestor of a Binary Search Tree\" to \"LeetCode #206 - Reverse Linked List\"."
+    },
+    {
+      "id": "33e3dac3ab8d67366f6c88ad",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #102 - Binary Tree Level Order Traversal\" to \"LeetCode #21 - Merge Two Sorted Lists\"."
+    },
+    {
+      "id": "05f33cc3d2aef84ddaa9632e",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "efef304f60edebc8b98c1533",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-12-27 to 2026-12-30."
+    },
+    {
+      "id": "788ad6282110b2f8e743f1b9",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "6ce15c4657659ac619982f0c",
+      "date": "2026-10-24",
+      "text": "Moved \"AHF work (tech lead duties)\" from 2026-12-29 to 2026-12-30."
+    },
+    {
+      "id": "30cf40285e7948361d222a70",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
+    },
+    {
+      "id": "f3766d964fd63d963b67b237",
+      "date": "2026-10-24",
+      "text": "Renamed task \"LeetCode #98 - Validate Binary Search Tree\" to \"LeetCode #143 - Reorder List\"."
+    },
+    {
+      "id": "8cae28ad3a84aea12f97e691",
+      "date": "2026-10-24",
+      "text": "Updated \"AHF work (tech lead duties)\" duration from 1.5h to 1h."
     }
   ]
 }
