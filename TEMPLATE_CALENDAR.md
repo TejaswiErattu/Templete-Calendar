@@ -2311,3 +2311,119 @@
 - Completed "Job applications (5 today)".
 - Completed "Job applications (5 today)".
 - Website update: fix: don't run on a placeholder plan when the cloud load fails at sign-in.
+
+## November 8, 2026
+
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #19 - Remove Nth Node From End of List".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: threat model work".
+- Completed "Prep for Matt meeting: review what I committed to last time".
+- Completed "Kiro Hackathon work".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #23 - Merge k Sorted Lists".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: threat model work".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Mentor meeting with Matt".
+- Completed "P1 due".
+- Completed "Kiro Hackathon work".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: pen test".
+- Completed "Kiro Hackathon work".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #104 - Maximum Depth of Binary Tree".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: pen test".
+- Completed "Kiro Hackathon work".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Home lab work".
+- Completed "WINFO check-in message".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #100 - Same Tree".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: documentation".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Kiro Hackathon work".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #572 - Subtree of Another Tree".
+- Completed "AHF work (tech lead duties)".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Check for upcoming interviews and prep any that are scheduled".
+- Completed "WINFO website work".
+- Completed "Update attack canvas".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: threat model work".
+- Completed "Prep for Matt meeting: review what I committed to last time".
+- Completed "Job applications (5 today)".
+- Completed "Update attack canvas".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Mentor meeting with Matt".
+- Completed "Update attack canvas".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: pen test".
+- Completed "AHF work (tech lead duties)".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: pen test".
+- Completed "Home lab work".
+- Completed "WINFO check-in message".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: documentation".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Palana: threat model work".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #297 - Serialize and Deserialize Binary Tree".
+- Completed "AHF work (tech lead duties)".
+- Completed "Check for upcoming interviews and prep any that are scheduled".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: threat model work".
+- Completed "Prep for Matt meeting: review what I committed to last time".
+- Completed "Job applications (5 today)".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "LeetCode #212 - Word Search II".
+- Completed "AHF work (tech lead duties)".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Mentor meeting with Matt".
+- Completed "Home lab work".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: pen test".
+- Completed "AHF work (tech lead duties)".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: pen test".
+- Completed "WINFO check-in message".
+- Completed "Job applications (5 today)".
+- Completed "AHF work (tech lead duties)".
+- Completed "Palana: documentation".
+- Completed "WINFO: sponsorship outreach".
+- Completed "Palana: threat model work".
+- Completed "Job applications (5 today)".
+- Completed "Home lab work".
+- Completed "Check for upcoming interviews and prep any that are scheduled".

@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-11-09T03:10:53.794Z",
-  "firestoreUpdatedAt": "2026-10-25T04:19:53.995Z",
+  "lastCheckedAt": "2026-11-09T04:10:36.739Z",
+  "firestoreUpdatedAt": "2026-11-09T03:43:06.325Z",
   "sourceHead": "fed334c30db6b6def70cbd51642a4cba27121e19",
   "tasks": {
     "2026-06-13_ahf": {
@@ -7732,7 +7732,7 @@
       "id": "2026-10-18_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7741,7 +7741,7 @@
       "id": "2026-10-18_x_leetcode",
       "title": "LeetCode #19 - Remove Nth Node From End of List",
       "date": "2026-10-18",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -7822,7 +7822,7 @@
       "id": "2026-10-19_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7840,7 +7840,7 @@
       "id": "2026-10-19_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -7849,7 +7849,7 @@
       "id": "2026-10-19_x_palana_threatmodel_a",
       "title": "Palana: threat model work",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -7858,7 +7858,7 @@
       "id": "2026-10-19_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -7894,7 +7894,7 @@
       "id": "2026-10-19_bot_mv8k9fcy_34",
       "title": "Kiro Hackathon work",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "hackathons"
@@ -7903,7 +7903,7 @@
       "id": "2026-10-19_bot_mv8k9fcz_42",
       "title": "WINFO website work",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -7912,7 +7912,7 @@
       "id": "2026-10-19_bot_mv95fwtg_53",
       "title": "Update attack canvas",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -7921,7 +7921,7 @@
       "id": "2026-10-19_bot_mv95iasc_66",
       "title": "Home lab work",
       "date": "2026-10-19",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -7930,7 +7930,7 @@
       "id": "2026-10-20_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -7939,7 +7939,7 @@
       "id": "2026-10-20_x_leetcode",
       "title": "LeetCode #23 - Merge k Sorted Lists",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -7948,7 +7948,7 @@
       "id": "2026-10-20_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -7957,7 +7957,7 @@
       "id": "2026-10-20_x_palana_threatmodel_b",
       "title": "Palana: threat model work",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -7966,7 +7966,7 @@
       "id": "2026-10-20_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -7975,7 +7975,7 @@
       "id": "2026-10-20_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -8011,7 +8011,7 @@
       "id": "2026-10-20_bot_mv8jzz0a_24",
       "title": "P1 due",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "catchup"
@@ -8020,7 +8020,7 @@
       "id": "2026-10-20_bot_mv8k9fcz_35",
       "title": "Kiro Hackathon work",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "hackathons"
@@ -8029,7 +8029,7 @@
       "id": "2026-10-20_bot_mv8k9fcz_43",
       "title": "WINFO website work",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -8038,7 +8038,7 @@
       "id": "2026-10-20_bot_mv95fwtg_54",
       "title": "Update attack canvas",
       "date": "2026-10-20",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8056,7 +8056,7 @@
       "id": "2026-10-21_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8074,7 +8074,7 @@
       "id": "2026-10-21_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8083,7 +8083,7 @@
       "id": "2026-10-21_x_palana_pentest_a",
       "title": "Palana: pen test",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -8119,7 +8119,7 @@
       "id": "2026-10-21_bot_mv8k9fcz_36",
       "title": "Kiro Hackathon work",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "hackathons"
@@ -8128,7 +8128,7 @@
       "id": "2026-10-21_bot_mv8k9fcz_44",
       "title": "WINFO website work",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -8137,7 +8137,7 @@
       "id": "2026-10-21_bot_mv95fwtg_55",
       "title": "Update attack canvas",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8146,7 +8146,7 @@
       "id": "2026-10-21_bot_mv95iasc_68",
       "title": "Home lab work",
       "date": "2026-10-21",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8155,7 +8155,7 @@
       "id": "2026-10-22_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8164,7 +8164,7 @@
       "id": "2026-10-22_x_leetcode",
       "title": "LeetCode #104 - Maximum Depth of Binary Tree",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -8173,7 +8173,7 @@
       "id": "2026-10-22_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8182,7 +8182,7 @@
       "id": "2026-10-22_x_palana_pentest_b",
       "title": "Palana: pen test",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -8191,7 +8191,7 @@
       "id": "2026-10-22_bot_mv8k9fcz_37",
       "title": "Kiro Hackathon work",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "hackathons"
@@ -8200,7 +8200,7 @@
       "id": "2026-10-22_bot_mv8k9fcz_45",
       "title": "WINFO website work",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -8209,7 +8209,7 @@
       "id": "2026-10-22_bot_mv95fwtg_56",
       "title": "Update attack canvas",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8218,7 +8218,7 @@
       "id": "2026-10-22_bot_mv95iasc_69",
       "title": "Home lab work",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8227,7 +8227,7 @@
       "id": "2026-10-22_bot_mva3lyqa_2",
       "title": "WINFO check-in message",
       "date": "2026-10-22",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.17,
       "category": "winfo"
@@ -8236,7 +8236,7 @@
       "id": "2026-10-23_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8245,7 +8245,7 @@
       "id": "2026-10-23_x_leetcode",
       "title": "LeetCode #100 - Same Tree",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -8254,7 +8254,7 @@
       "id": "2026-10-23_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8263,7 +8263,7 @@
       "id": "2026-10-23_x_palana_docs",
       "title": "Palana: documentation",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "palana"
@@ -8272,7 +8272,7 @@
       "id": "2026-10-23_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -8281,7 +8281,7 @@
       "id": "2026-10-23_bot_mv8k9fcz_38",
       "title": "Kiro Hackathon work",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "hackathons"
@@ -8290,7 +8290,7 @@
       "id": "2026-10-23_bot_mv8k9fcz_46",
       "title": "WINFO website work",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -8299,7 +8299,7 @@
       "id": "2026-10-23_bot_mv95fwtg_57",
       "title": "Update attack canvas",
       "date": "2026-10-23",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8317,7 +8317,7 @@
       "id": "2026-10-24_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8326,7 +8326,7 @@
       "id": "2026-10-24_x_leetcode",
       "title": "LeetCode #572 - Subtree of Another Tree",
       "date": "2026-10-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -8335,7 +8335,7 @@
       "id": "2026-10-24_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8353,7 +8353,7 @@
       "id": "2026-10-24_bot_mv8k9fcz_47",
       "title": "WINFO website work",
       "date": "2026-10-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -8362,7 +8362,7 @@
       "id": "2026-10-24_bot_mv95fwtg_58",
       "title": "Update attack canvas",
       "date": "2026-10-24",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8389,7 +8389,7 @@
       "id": "2026-10-25_x_interview_check",
       "title": "Check for upcoming interviews and prep any that are scheduled",
       "date": "2026-10-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "interviews"
@@ -8398,7 +8398,7 @@
       "id": "2026-10-25_bot_mv8k9fcz_48",
       "title": "WINFO website work",
       "date": "2026-10-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "winfo"
@@ -8407,7 +8407,7 @@
       "id": "2026-10-25_bot_mv95fwtg_59",
       "title": "Update attack canvas",
       "date": "2026-10-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8416,7 +8416,7 @@
       "id": "2026-10-25_bot_mv95iasc_72",
       "title": "Home lab work",
       "date": "2026-10-25",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8425,7 +8425,7 @@
       "id": "2026-10-26_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8443,7 +8443,7 @@
       "id": "2026-10-26_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8452,7 +8452,7 @@
       "id": "2026-10-26_x_palana_threatmodel_a",
       "title": "Palana: threat model work",
       "date": "2026-10-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -8461,7 +8461,7 @@
       "id": "2026-10-26_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-10-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -8470,7 +8470,7 @@
       "id": "2026-10-25_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8479,7 +8479,7 @@
       "id": "2026-10-26_bot_mv95fwtg_60",
       "title": "Update attack canvas",
       "date": "2026-10-26",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8497,7 +8497,7 @@
       "id": "2026-10-27_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8515,7 +8515,7 @@
       "id": "2026-10-27_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8524,7 +8524,7 @@
       "id": "2026-10-27_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -8533,7 +8533,7 @@
       "id": "2026-10-27_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-10-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -8542,7 +8542,7 @@
       "id": "2026-10-27_bot_mv95fwtg_61",
       "title": "Update attack canvas",
       "date": "2026-10-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "palana"
@@ -8551,7 +8551,7 @@
       "id": "2026-10-27_bot_mv95iasc_74",
       "title": "Home lab work",
       "date": "2026-10-27",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8560,7 +8560,7 @@
       "id": "2026-10-28_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8578,7 +8578,7 @@
       "id": "2026-10-28_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8587,7 +8587,7 @@
       "id": "2026-10-28_x_palana_pentest_a",
       "title": "Palana: pen test",
       "date": "2026-10-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -8596,7 +8596,7 @@
       "id": "2026-10-25_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8605,7 +8605,7 @@
       "id": "2026-10-28_bot_mv95iasc_75",
       "title": "Home lab work",
       "date": "2026-10-28",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8614,7 +8614,7 @@
       "id": "2026-10-29_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8632,7 +8632,7 @@
       "id": "2026-10-29_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8641,7 +8641,7 @@
       "id": "2026-10-29_x_palana_pentest_b",
       "title": "Palana: pen test",
       "date": "2026-10-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -8650,7 +8650,7 @@
       "id": "2026-10-29_bot_mv95iasc_76",
       "title": "Home lab work",
       "date": "2026-10-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8659,7 +8659,7 @@
       "id": "2026-10-29_bot_mva3lyqa_3",
       "title": "WINFO check-in message",
       "date": "2026-10-29",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.17,
       "category": "winfo"
@@ -8668,7 +8668,7 @@
       "id": "2026-10-30_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8686,7 +8686,7 @@
       "id": "2026-10-30_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8695,7 +8695,7 @@
       "id": "2026-10-30_x_palana_docs",
       "title": "Palana: documentation",
       "date": "2026-10-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "palana"
@@ -8704,7 +8704,7 @@
       "id": "2026-10-30_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-10-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -8713,7 +8713,7 @@
       "id": "2026-10-27_x_palana_threatmodel_b",
       "title": "Palana: threat model work",
       "date": "2026-10-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -8722,7 +8722,7 @@
       "id": "2026-10-30_bot_mv95iasc_77",
       "title": "Home lab work",
       "date": "2026-10-30",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8731,7 +8731,7 @@
       "id": "2026-10-31_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-10-31",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8740,7 +8740,7 @@
       "id": "2026-10-31_x_leetcode",
       "title": "LeetCode #297 - Serialize and Deserialize Binary Tree",
       "date": "2026-10-31",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -8749,7 +8749,7 @@
       "id": "2026-10-31_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-10-31",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8776,7 +8776,7 @@
       "id": "2026-11-01_x_interview_check",
       "title": "Check for upcoming interviews and prep any that are scheduled",
       "date": "2026-11-01",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "interviews"
@@ -8794,7 +8794,7 @@
       "id": "2026-11-02_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8812,7 +8812,7 @@
       "id": "2026-11-02_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8821,7 +8821,7 @@
       "id": "2026-11-02_x_palana_threatmodel_a",
       "title": "Palana: threat model work",
       "date": "2026-11-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -8830,7 +8830,7 @@
       "id": "2026-11-02_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-11-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -8839,7 +8839,7 @@
       "id": "2026-11-01_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8848,7 +8848,7 @@
       "id": "2026-11-02_bot_mv95iasc_80",
       "title": "Home lab work",
       "date": "2026-11-02",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8857,7 +8857,7 @@
       "id": "2026-11-03_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-03",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8866,7 +8866,7 @@
       "id": "2026-11-03_x_leetcode",
       "title": "LeetCode #212 - Word Search II",
       "date": "2026-11-03",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.75,
       "category": "leetcode"
@@ -8875,7 +8875,7 @@
       "id": "2026-11-03_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-03",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8884,7 +8884,7 @@
       "id": "2026-11-03_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-11-03",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -8893,7 +8893,7 @@
       "id": "2026-11-03_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-11-03",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
@@ -8902,7 +8902,7 @@
       "id": "2026-11-03_bot_mv95iasc_81",
       "title": "Home lab work",
       "date": "2026-11-03",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -8911,7 +8911,7 @@
       "id": "2026-11-04_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-04",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8929,7 +8929,7 @@
       "id": "2026-11-04_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-04",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8938,7 +8938,7 @@
       "id": "2026-11-04_x_palana_pentest_a",
       "title": "Palana: pen test",
       "date": "2026-11-04",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -8947,7 +8947,7 @@
       "id": "2026-11-01_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-04",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8965,7 +8965,7 @@
       "id": "2026-11-05_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-05",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -8983,7 +8983,7 @@
       "id": "2026-11-05_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-05",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -8992,7 +8992,7 @@
       "id": "2026-11-05_x_palana_pentest_b",
       "title": "Palana: pen test",
       "date": "2026-11-05",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -9010,7 +9010,7 @@
       "id": "2026-11-05_bot_mva3lyqa_4",
       "title": "WINFO check-in message",
       "date": "2026-11-05",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.17,
       "category": "winfo"
@@ -9019,7 +9019,7 @@
       "id": "2026-11-06_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9037,7 +9037,7 @@
       "id": "2026-11-06_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -9046,7 +9046,7 @@
       "id": "2026-11-06_x_palana_docs",
       "title": "Palana: documentation",
       "date": "2026-11-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "palana"
@@ -9055,7 +9055,7 @@
       "id": "2026-11-06_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-11-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -9064,7 +9064,7 @@
       "id": "2026-11-03_x_palana_threatmodel_b",
       "title": "Palana: threat model work",
       "date": "2026-11-06",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -9082,7 +9082,7 @@
       "id": "2026-11-07_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-07",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9109,7 +9109,7 @@
       "id": "2026-11-07_bot_mv95iasc_85",
       "title": "Home lab work",
       "date": "2026-11-07",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -9127,7 +9127,7 @@
       "id": "2026-11-08_x_interview_check",
       "title": "Check for upcoming interviews and prep any that are scheduled",
       "date": "2026-11-08",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "interviews"

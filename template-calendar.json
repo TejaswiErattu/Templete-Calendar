@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T03:10:53.797Z",
+  "updatedAt": "2026-11-09T04:10:36.741Z",
   "entries": [
     {
       "id": "5b80c379f938c01f5dc021c8",
@@ -11365,6 +11365,571 @@
       "id": "git:fed334c30db6b6def70cbd51642a4cba27121e19",
       "date": "2026-10-24",
       "text": "Website update: fix: don't run on a placeholder plan when the cloud load fails at sign-in."
+    },
+    {
+      "id": "0c737e6e2c2f329cda2ca5fa",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "145166bcb19c82cc725b5698",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #19 - Remove Nth Node From End of List\"."
+    },
+    {
+      "id": "15e598430de3108b559f9bad",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "a3e990af5b464ccf9fbccc9b",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "b27c22c3a3789650e72de2a6",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "460b495dd7ca6bcf1fba30aa",
+      "date": "2026-11-08",
+      "text": "Completed \"Prep for Matt meeting: review what I committed to last time\"."
+    },
+    {
+      "id": "a547107a3baa8601700b5cf9",
+      "date": "2026-11-08",
+      "text": "Completed \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "9544d99a799aba315cb6a0e6",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "bcc01f77701cf87b22e10781",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "734447cfce9ef2b70f183135",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "db04fdce8609edb82c42015a",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "af71473f4117e32793b04f9c",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #23 - Merge k Sorted Lists\"."
+    },
+    {
+      "id": "2e477212f112427a07c7aa6c",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "335a79448616da11a7df4e56",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "ab597bf16185dfe532358a02",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "7ac7140acb351e56347bd096",
+      "date": "2026-11-08",
+      "text": "Completed \"Mentor meeting with Matt\"."
+    },
+    {
+      "id": "003d918f9e71c18670cf9bed",
+      "date": "2026-11-08",
+      "text": "Completed \"P1 due\"."
+    },
+    {
+      "id": "8eac615c3f1e32abeb695b5b",
+      "date": "2026-11-08",
+      "text": "Completed \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "44be703995f10d9c2b50c4fc",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "7f7470d07f2d2ef4d40c8a67",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "1ac8ecebf04edd50a8e2bd71",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "3e06db7ece9289d404bb81c0",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "9a9e79c319ec4df91ad96b2f",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "77089bd2b5809c24ba39823c",
+      "date": "2026-11-08",
+      "text": "Completed \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "5870693a4d0294fcf75f6df9",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "2946f6082558c1f236e307e0",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "8c3981ecaf49a6c47b777930",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "5b2de7252b4846a9c76a38b3",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "e130c9f3b7730a711f96102a",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #104 - Maximum Depth of Binary Tree\"."
+    },
+    {
+      "id": "f0233f65c28bd17f067d4ddb",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "c4c85ee8b05a62eef6f78dbd",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "73755431221299b8d61f6124",
+      "date": "2026-11-08",
+      "text": "Completed \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "32c514e552fb67c4b1e95531",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "9879d5290f1e0ab30c7eb303",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "2dfe3e14ef89d1774c842c5a",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "2321433226f93f482429adf8",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO check-in message\"."
+    },
+    {
+      "id": "42ea657e098dc2a59970df68",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "79a6229c8ec5057a2bd973ab",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #100 - Same Tree\"."
+    },
+    {
+      "id": "b79dd788369e66360299d5e9",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "b3843f1661d3c44c241343b4",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: documentation\"."
+    },
+    {
+      "id": "af8e0b1d780aaebeed9fa463",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "7c155a702823b655ae9510e6",
+      "date": "2026-11-08",
+      "text": "Completed \"Kiro Hackathon work\"."
+    },
+    {
+      "id": "bc77c3e4250e73735d1447f1",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "1c338d6d2e5691548eaf051d",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "94b035846064ded53835ddc4",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "97f256f2ea0efef57537b0d3",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #572 - Subtree of Another Tree\"."
+    },
+    {
+      "id": "afc7117f4289c48e95c691bd",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "1e8f981b339bb5a622332098",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "e213d18e691ee4a6910f0807",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "0e19bf0f13c64d4992f6cb17",
+      "date": "2026-11-08",
+      "text": "Completed \"Check for upcoming interviews and prep any that are scheduled\"."
+    },
+    {
+      "id": "512d83da73e61f95318d9b4c",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO website work\"."
+    },
+    {
+      "id": "fbaba2515680cd497ee7ef61",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "ba16420d9669a83fc9f704c0",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "21619d9906c677d8a637f29e",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "8bc3d1f956cafc5b9c781030",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "e30f867b8900d7cc4db4695a",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "3ead9c325b248ee9c7ec991c",
+      "date": "2026-11-08",
+      "text": "Completed \"Prep for Matt meeting: review what I committed to last time\"."
+    },
+    {
+      "id": "d5effdd118f4c3b34332b924",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "d2c7c442598b668a7dab5bf8",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "800ae33f7aefad14b37b6062",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "c727f1f22862ca33f21cbeb6",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "b85d842b1cbb357ffff343ff",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "859aee71b8b5409086f0f774",
+      "date": "2026-11-08",
+      "text": "Completed \"Mentor meeting with Matt\"."
+    },
+    {
+      "id": "ec60fad66728c4c804e31f0e",
+      "date": "2026-11-08",
+      "text": "Completed \"Update attack canvas\"."
+    },
+    {
+      "id": "9517127e730dc01eece94e3e",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "0a1e9e486e9cfe30f0ea7590",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "9e3eb7e9423f018db0d03f38",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "439ebdc9ac12a1d179298054",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "fdb09e24c394849b677448d8",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "f01ccc344a346318343bb3af",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "0131aa3eb97da596ef4bf341",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "80cda3a472902b13d50611e3",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "20903bbd93b9ee57fa941d9c",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "14e6a07bc628ced69bccde2e",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "ea07ac8b6e36250f0aa0573d",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO check-in message\"."
+    },
+    {
+      "id": "ecd08377d613cad1c8743f13",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "5bd6508bf1907f5ad8f0e8f0",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "cf2e0c07ff179eeed6368f24",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: documentation\"."
+    },
+    {
+      "id": "06881ebda6915cd38580644c",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "0c389a8af3f57d47de9de5f9",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "a6732b5ce0a381bb3c4131d4",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "3536ed7e8e05814c0ef2c932",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "6f9fd413071e5819f89cc42e",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #297 - Serialize and Deserialize Binary Tree\"."
+    },
+    {
+      "id": "4c8d934f2bda1394d9099f6c",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "762e56c044ac3de919d503b5",
+      "date": "2026-11-08",
+      "text": "Completed \"Check for upcoming interviews and prep any that are scheduled\"."
+    },
+    {
+      "id": "a2f5f10ae471bc55c8598d84",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "e48b090f619f5e9ca0fd7d8c",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "993a776e651307acea500ded",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "026568016f3430f8cfbad0df",
+      "date": "2026-11-08",
+      "text": "Completed \"Prep for Matt meeting: review what I committed to last time\"."
+    },
+    {
+      "id": "f1e91a127739ede2d529f797",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "b1dc11beeff260a05181bb6d",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "b3a31b248112d2797a7336b7",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "106aef98c1ae5e281d3d5b04",
+      "date": "2026-11-08",
+      "text": "Completed \"LeetCode #212 - Word Search II\"."
+    },
+    {
+      "id": "cc86a3f91ed4df2dce8c2ccc",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "24180ec6200ba80f3cdc7499",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "1edd4d5916e1caf3200ad4ec",
+      "date": "2026-11-08",
+      "text": "Completed \"Mentor meeting with Matt\"."
+    },
+    {
+      "id": "28e773afb19631122966d540",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "21d90a61c9e59cef87d8e90a",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "687666ed7d2c522e4afdc464",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "5ec646203ba74ca1cefe9bff",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "2a5a2b6a57b6f04c93d3ba4f",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "54816f9fc9b07428528718dd",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "ff5c1f9cb26856a874c8d404",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "3c4219a86bbd7d5e88333c3a",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: pen test\"."
+    },
+    {
+      "id": "45b04d2dfdc83938650add57",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO check-in message\"."
+    },
+    {
+      "id": "42489c5a3bb6b008724a3f21",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "e0f076c9e8ab53326a1f2296",
+      "date": "2026-11-08",
+      "text": "Completed \"AHF work (tech lead duties)\"."
+    },
+    {
+      "id": "0fb4d7aa979b0481136280c5",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: documentation\"."
+    },
+    {
+      "id": "821766582ebf12f828a7eedb",
+      "date": "2026-11-08",
+      "text": "Completed \"WINFO: sponsorship outreach\"."
+    },
+    {
+      "id": "3e537f79345e6a4b0fe11e57",
+      "date": "2026-11-08",
+      "text": "Completed \"Palana: threat model work\"."
+    },
+    {
+      "id": "28312d4fd19b39c3259ceea6",
+      "date": "2026-11-08",
+      "text": "Completed \"Job applications (5 today)\"."
+    },
+    {
+      "id": "99dc1ac131913662b365fa6d",
+      "date": "2026-11-08",
+      "text": "Completed \"Home lab work\"."
+    },
+    {
+      "id": "5b67b179c48ab396284bd928",
+      "date": "2026-11-08",
+      "text": "Completed \"Check for upcoming interviews and prep any that are scheduled\"."
     }
   ]
 }
