@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-11-11T05:08:16.792Z",
-  "firestoreUpdatedAt": "2026-11-09T03:43:06.325Z",
+  "lastCheckedAt": "2026-11-11T06:14:09.154Z",
+  "firestoreUpdatedAt": "2026-11-11T05:41:40.970Z",
   "sourceHead": "fed334c30db6b6def70cbd51642a4cba27121e19",
   "tasks": {
     "2026-06-13_ahf": {
@@ -9145,7 +9145,7 @@
       "id": "2026-11-09_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9163,7 +9163,7 @@
       "id": "2026-11-09_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -9172,7 +9172,7 @@
       "id": "2026-11-09_x_palana_threatmodel_a",
       "title": "Palana: threat model work",
       "date": "2026-11-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2,
       "category": "palana"
@@ -9181,7 +9181,7 @@
       "id": "2026-11-09_x_mentor_prep",
       "title": "Prep for Matt meeting: review what I committed to last time",
       "date": "2026-11-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "mentor"
@@ -9190,7 +9190,7 @@
       "id": "2026-11-08_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9199,7 +9199,7 @@
       "id": "2026-11-09_bot_mv95iasc_87",
       "title": "Home lab work",
       "date": "2026-11-09",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.5,
       "category": "home_lab"
@@ -9208,7 +9208,7 @@
       "id": "2026-11-10_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-10",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9226,7 +9226,7 @@
       "id": "2026-11-10_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-10",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -9235,7 +9235,7 @@
       "id": "2026-11-10_x_winfo_outreach",
       "title": "WINFO: sponsorship outreach",
       "date": "2026-11-10",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "winfo"
@@ -9244,7 +9244,7 @@
       "id": "2026-11-10_x_mentor_matt",
       "title": "Mentor meeting with Matt",
       "date": "2026-11-10",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "mentor"
