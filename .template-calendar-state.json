@@ -2,8 +2,8 @@
   "version": 1,
   "initialized": true,
   "initializedAt": "2026-09-18T05:35:02.036Z",
-  "lastCheckedAt": "2026-11-13T06:14:08.819Z",
-  "firestoreUpdatedAt": "2026-11-11T05:41:40.970Z",
+  "lastCheckedAt": "2026-11-13T19:14:42.946Z",
+  "firestoreUpdatedAt": "2026-11-13T19:13:53.619Z",
   "sourceHead": "fed334c30db6b6def70cbd51642a4cba27121e19",
   "tasks": {
     "2026-06-13_ahf": {
@@ -9262,7 +9262,7 @@
       "id": "2026-11-11_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9280,7 +9280,7 @@
       "id": "2026-11-11_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -9289,7 +9289,7 @@
       "id": "2026-11-11_x_palana_pentest_a",
       "title": "Palana: pen test",
       "date": "2026-11-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -9298,7 +9298,7 @@
       "id": "2026-11-08_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-11",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -9316,7 +9316,7 @@
       "id": "2026-11-12_x_jobapps",
       "title": "Job applications (5 today)",
       "date": "2026-11-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1.5,
       "category": "jobapps"
@@ -9334,7 +9334,7 @@
       "id": "2026-11-12_x_ahf",
       "title": "AHF work (tech lead duties)",
       "date": "2026-11-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 1,
       "category": "ahf"
@@ -9343,7 +9343,7 @@
       "id": "2026-11-12_x_palana_pentest_b",
       "title": "Palana: pen test",
       "date": "2026-11-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 2.5,
       "category": "palana"
@@ -9361,7 +9361,7 @@
       "id": "2026-11-12_bot_mva3lyqa_5",
       "title": "WINFO check-in message",
       "date": "2026-11-12",
-      "completed": false,
+      "completed": true,
       "skipped": false,
       "duration": 0.17,
       "category": "winfo"
