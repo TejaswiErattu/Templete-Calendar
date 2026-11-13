@@ -11,6 +11,8 @@ function fail(message) { console.error(message); process.exit(1); }
 function readJson(path, fallback) { try { return JSON.parse(fs.readFileSync(path, 'utf8')); } catch { return fallback; } }
 function writeJson(path, value) { fs.writeFileSync(path, JSON.stringify(value, null, 2) + '\n'); }
 function base64url(value) { return Buffer.from(value).toString('base64').replace(/=/g, '').replace(/\+/g, '-').replace(/\//g, '_'); }
+// The parser's own message quotes part of the input, and Actions logs on this repo are public.
+function parseJson(raw, label) { try { return JSON.parse(raw); } catch { throw new Error(`${label} is not valid JSON.`); } }
 
 async function getGoogleAccessToken(sa) {
   const tokenUri = sa.token_uri || 'https://oauth2.googleapis.com/token';
@@ -61,41 +63,56 @@ async function readSummerState(sa, uid) {
   const token = await getGoogleAccessToken(sa);
   const base = `https://firestore.googleapis.com/v1/projects/${encodeURIComponent(sa.project_id)}/databases/(default)/documents/users/${encodeURIComponent(uid)}`;
   const doc = await firestoreGet(base, token);
+  const fields = doc?.fields || {};
+  const updatedAt = fields.updatedAt?.timestampValue || null;
 
-  const legacyRaw = doc?.fields?.state?.stringValue;
-  if (legacyRaw) {
-    return { appState: JSON.parse(legacyRaw), updatedAt: doc?.fields?.updatedAt?.timestampValue || null };
+  // Split layout written by the tracker (tejaswisummer js/sync-core.js, SCHEMA = 2):
+  //   users/{uid}                  { schema: 2, root: JSON string, months: ["YYYY-MM", ...], meta, updatedAt }
+  //   users/{uid}/months/{YYYY-MM} { days: JSON string of that month's days }
+  //   users/{uid}/notes/main       { notes: JSON string }
+  // Checked before the legacy field, in the same order the tracker's readCloud() uses.
+  const schema = decodeFirestoreValue(fields.schema);
+  if (schema === 2) {
+    const rootRaw = decodeFirestoreValue(fields.root);
+    const months = decodeFirestoreValue(fields.months);
+    const meta = decodeFirestoreValue(fields.meta);
+    if (typeof rootRaw !== 'string') throw new Error('Firestore user document (schema 2) has no "root" string.');
+    if (!Array.isArray(months) || months.some(m => typeof m !== 'string')) throw new Error('Firestore user document (schema 2) has no valid "months" list.');
+
+    const appState = parseJson(rootRaw || '{}', 'Firestore users/{uid}.root');
+    const monthDocs = await Promise.all(months.map(month =>
+      firestoreGet(`${base}/months/${encodeURIComponent(month)}`, token, true)
+    ));
+
+    // The tracker writes every listed month in the same batch as the root, so a
+    // gap here is a bad read. Skipping it would record that month's tasks as removed.
+    const days = [];
+    for (let i = 0; i < months.length; i += 1) {
+      const raw = decodeFirestoreValue(monthDocs[i]?.fields?.days);
+      if (typeof raw !== 'string') throw new Error(`Firestore month ${months[i]} is listed on the user document but its document or "days" field is missing.`);
+      const parsed = parseJson(raw, `Firestore months/${months[i]}.days`);
+      if (!Array.isArray(parsed)) throw new Error(`Firestore months/${months[i]}.days is not a list.`);
+      days.push(...parsed);
+    }
+    days.sort((a, b) => String(a?.date || '').localeCompare(String(b?.date || '')));
+    appState.days = days;
+
+    const notesDoc = await firestoreGet(`${base}/notes/main`, token, true);
+    const notesRaw = decodeFirestoreValue(notesDoc?.fields?.notes);
+    appState.taskNotes = typeof notesRaw === 'string' ? parseJson(notesRaw, 'Firestore notes/main.notes') : {};
+    if (meta && typeof meta === 'object') appState.meta = meta;
+
+    return { appState, updatedAt };
   }
 
-  const schema = decodeFirestoreValue(doc?.fields?.schema);
-  const rootRaw = decodeFirestoreValue(doc?.fields?.root);
-  const months = decodeFirestoreValue(doc?.fields?.months);
-  const meta = decodeFirestoreValue(doc?.fields?.meta);
-  if (schema !== 2 || typeof rootRaw !== 'string' || !Array.isArray(months)) {
-    throw new Error('Firestore user document is not in a supported calendar state format');
+  // Pre-split single-document format; the tracker migrates it on its next save.
+  const legacyRaw = fields.state?.stringValue;
+  if (typeof legacyRaw === 'string' && legacyRaw) {
+    return { appState: parseJson(legacyRaw, 'Firestore users/{uid}.state'), updatedAt };
   }
 
-  const appState = JSON.parse(rootRaw || '{}');
-  const monthDocs = await Promise.all(months.map(month =>
-    firestoreGet(`${base}/months/${encodeURIComponent(month)}`, token, true)
-  ));
-
-  const days = [];
-  for (let i = 0; i < months.length; i += 1) {
-    const raw = decodeFirestoreValue(monthDocs[i]?.fields?.days);
-    if (typeof raw !== 'string') continue;
-    const parsed = JSON.parse(raw);
-    if (Array.isArray(parsed)) days.push(...parsed);
-  }
-  days.sort((a, b) => String(a?.date || '').localeCompare(String(b?.date || '')));
-  appState.days = days;
-
-  const notesDoc = await firestoreGet(`${base}/notes/main`, token, true);
-  const notesRaw = decodeFirestoreValue(notesDoc?.fields?.notes);
-  appState.taskNotes = typeof notesRaw === 'string' ? JSON.parse(notesRaw) : {};
-  if (meta && typeof meta === 'object') appState.meta = meta;
-
-  return { appState, updatedAt: doc?.fields?.updatedAt?.timestampValue || null };
+  // Field names only, never values.
+  throw new Error(`Firestore user document is not in a supported format (schema=${JSON.stringify(schema ?? null)}; fields: ${Object.keys(fields).sort().join(', ') || 'none'}).`);
 }
 
 function flattenTasks(appState) {
@@ -119,8 +136,11 @@ function flattenTasks(appState) {
   return out;
 }
 
-function todayKey() {
-  const parts = new Intl.DateTimeFormat('en-US', { timeZone: TIME_ZONE, year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date());
+// Pacific calendar date of an ISO timestamp, or of now when it is missing or unparseable.
+function dateKey(iso) {
+  const parsed = iso ? new Date(iso) : null;
+  const when = parsed && !Number.isNaN(parsed.getTime()) ? parsed : new Date();
+  const parts = new Intl.DateTimeFormat('en-US', { timeZone: TIME_ZONE, year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(when);
   const p = Object.fromEntries(parts.map(x => [x.type, x.value]));
   return `${p.year}-${p.month}-${p.day}`;
 }
@@ -217,19 +237,34 @@ async function main() {
     return;
   }
 
-  const date = todayKey();
+  const currentCount = Object.keys(currentTasks).length;
+  const previousCount = Object.keys(previousState.tasks || {}).length;
+  if (currentCount === 0 && previousCount > 0) {
+    fail(`Firestore returned 0 tasks but the last snapshot had ${previousCount}. Refusing to record them all as removed. Check that the tracker's cloud save is intact and that SOURCE_FIREBASE_USER_UID points at the right user.`);
+  }
+
+  // Task changes are dated by the tracker's last cloud save, not by when this run
+  // happened, so an 11:50pm change synced after midnight keeps its own day.
+  const activityDate = dateKey(updatedAt);
   const candidates = [
-    ...diffTasks(previousState.tasks || {}, currentTasks, date, updatedAt),
-    ...await sourceEvents(previousState.sourceHead, head, date)
+    ...diffTasks(previousState.tasks || {}, currentTasks, activityDate, updatedAt),
+    ...await sourceEvents(previousState.sourceHead, head, dateKey())
   ];
   const seen = new Set(existing.map(e => e.id));
   const added = candidates.filter(e => !seen.has(e.id));
-  const entries = [...existing, ...added];
 
+  // Nothing new: leave every file untouched so the commit step has nothing to commit.
+  // The snapshot only advances together with the entries it produced.
+  if (!added.length) {
+    console.log(`No new activity (${currentCount} tasks; tracker last saved ${updatedAt || 'unknown'}). Nothing written.`);
+    return;
+  }
+
+  const entries = [...existing, ...added];
   writeJson(STATE_PATH, { version: 1, initialized: true, initializedAt: previousState.initializedAt, lastCheckedAt: new Date().toISOString(), firestoreUpdatedAt: updatedAt, sourceHead: head.sha, tasks: currentTasks });
   writeJson(DATA_PATH, { updatedAt: new Date().toISOString(), entries });
   fs.writeFileSync(MARKDOWN_PATH, renderMarkdown(entries));
-  console.log(added.length ? `Added ${added.length} new entries.` : 'No new Template Calendar entries detected.');
+  console.log(`Added ${added.length} new entries (${currentCount} tasks; tracker last saved ${updatedAt || 'unknown'}).`);
 }
 
 main().catch(err => { console.error(err.stack || err); process.exit(1); });
