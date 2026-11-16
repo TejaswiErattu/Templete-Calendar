@@ -47,8 +47,11 @@ jobs:
             exit 0
           fi
 
+          # Committer stays the Actions bot. Author is the account owner's GitHub
+          # no-reply address so the activity counts on their contribution graph;
+          # commits only happen on days with real tracker activity.
           git config user.name "template-calendar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .template-calendar-state.json TEMPLATE_CALENDAR.md template-calendar.json
-          git commit -m "chore: sync Template Calendar"
+          git commit --author="TejaswiErattu <110072826+TejaswiErattu@users.noreply.github.com>" -m "chore: sync Template Calendar"
           git push origin HEAD:main
